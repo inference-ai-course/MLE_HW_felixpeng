@@ -1,0 +1,52 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+*.pyo
+
+# Virtual environments
+env/
+venv/
+ENV/
+.venv/
+
+# Environment variable files
+.env
+.env.*
+
+# Jupyter Notebook checkpoints and output
+.ipynb_checkpoints/
+*.ipynb~  # autosave files
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# VS Code / PyCharm IDE
+.vscode/
+.idea/
+
+# Logs and local databases
+*.log
+*.sqlite3
+
+# Coverage reports
+.coverage
+htmlcov/
+coverage.xml
+
+# MyPy and Pytest
+.mypy_cache/
+.pytest_cache/
+
+# Build artifacts
+build/
+dist/
+*.tar.gz
+*.whl
+
+# Ignore secrets and config templates
+secrets.py
+config.yaml
