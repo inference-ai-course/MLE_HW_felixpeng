@@ -50,3 +50,16 @@ dist/
 # Ignore secrets and config templates
 secrets.py
 config.yaml
+
+# Large audio/video files from ASR processing
+Class 2/asr/transcripts/audio/*.wav
+Class 2/asr/transcripts/audio/*.webm
+Class 2/asr/transcripts/audio/*.webp
+Class 2/asr/transcripts/audio/*.info.json
+Class 2/asr/transcripts/frames/*.mp4
+Class 2/asr/transcripts/frames/*.png
+Class 2/asr/transcripts/talks_transcripts.jsonl
+
+# Large OCR files
+Class 2/ocr/ocr_batch.log
+Class 2/ocr/ocrtest.png
