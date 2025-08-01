@@ -1,0 +1,2558 @@
+=== PAGE 1 ===
+CITY OF LOS ANGELES
+DEPARTMENT OF WATER AND POWER
+POWER DISTRIBUTION DIVISION
+COMMON SERVICE AND CONSTRUCTION STANDARDS
+
+UNDERGROUND CONDUIT AND SUBSTRUCTURES
+
+SPECIFICATION NO. 104
+(REVISED 11/04/2021)
+
+
+=== PAGE 2 ===
+CITY OF LOS ANGELES
+DEPARTMENT OF WATER AND POWER
+POWER DISTRIBUTION DIVISION
+
+UNDERGROUND CONDUIT AND SUBSTRUCTURES
+
+SPECIFICATIONS No. 104
+(Revised 11/04/2021)
+
+CONTENTS
+SECTION “A” ......cccssssscssecscreseseeeeee GENERAL PROVISIONS
+SECTION “B”.......scccscsssssossesseseees TRENCH EXCAVATION
+SECTION “Co .......ccccssssssssssscrsvseseeees SUBSTRUCTURES
+SECTION “D”.......ccccscssssssscsseserevees SUBSTRUCTURE VENT INSTALLATION
+SECTION “E”.......cscccsssssssssseeoseeees MAINLINE AND SERVICE CONDUIT
+SECTION “RP”’.........ccscsssssscrseeseeeeee STREET LIGHT CONDUIT
+SECTION “G”.......cccsscsssssscssevsseeees SUBSTRUCTURE BACKFILL
+
+(VLTS., M.H.’S AND H.H.’S)
+
+SECTION “H.........csscccssssssssevssreeees CONDUIT TRENCH BACKFILL
+SECTION “D1? .......ccscccssscssscscrseesesees SURVEY REQUIREMENTS
+SECTION “J” .......ccsscssssscssssessesevseeees CONTRACTOR’S RESPONSIBILITIES
+APPENDIX -Low. eee eeeeees CONDUIT INSTALLATION
+APPENDIXG-IL...........cccceeceecceees REFERENCE TABLES
+
+11
+
+19
+
+25
+
+26
+
+29
+
+32
+
+33
+
+35
+
+46
+
+
+=== PAGE 3 ===
+A. GENERAL PROVISIONS
+
+l(a). These underground substructure and conduit
+specifications cover underground circuits rated up to and
+including 34.5 kV. For underground circuits rated at higher
+voltages, please contact the Underground Transmission
+
+Engineering Group for a
+recommendation.
+
+l(b). All underground
+in which the Department of Wa
+installs and maintains cables,
+distribution system components
+accordance with:
+
+project-specific design
+
+substructures and conduits,
+ter and Power (Department)
+and any other associated
+shall be constructed in
+
+a For installation on private property: The
+
+(ESR) and the
+
+Department's Electric Service Requirements
+
+Los Angeles Department of
+
+Building and Safety (LADBS) requirements,
+
+latest editions, where applicable.
+
+b. For installat
+
+ion on public’ property:
+
+Chapter VI, Article 2, Section 62.00-62.05
+
+of the Los Ang
+Standard Speci
+Construction
+
+adopted by the
+
+eles Municipal Code and the
+fications for Public Works
+(SSPWC), latest edition
+Brown Book.
+
+All construction shall also comply with the Department's
+
+Construction Standards, the Depa
+168, latest revision, where
+requirements specified herein.
+
+l(c). All underground
+
+rtment's Standard Drawing H-
+applicable, and all the
+
+substructures and conduits
+
+placed in known methane gas areas (as identified by the
+
+also satisfy the requirements o
+Drawing(s) H-242 and 1-802.2, la
+
+Department of Building and Safety or the Developer), shall
+
+f the Department’s Standard
+
+test revisions.
+
+2(a). On-site inspection: The Department shall be
+
+notified at least two (2) full
+
+business days prior to the
+
+start of construction. On-site inspections performed by the
+Department Representative will be made between the hours of
+10:00 am and 2:00 pm Monday through Friday.
+
+
+
+=== PAGE 4 ===
+2(b). Special inspection: Special inspection,
+outside the normal business days and/or hours may be arranged
+by notifying the Department at least five (5) full business
+days in advance of the date the inspection will be required.
+The Contractor shall pay any premium time charges that may be
+incurred by the Department representative. The premium time
+paid may include travel time
+
+2(c). Emergency inspection: Only in case of an
+emergency, the contractor may request special inspection, if
+available, without advance notification. The contractor will
+be reguired to sign a written agreement obligating them to
+pay for any premium time charges incurred as a result of the
+requested special inspection. Final acceptance of the project
+may be delayed if the Department does not receive
+reimbursement for the premium charged.
+
+2(d). Inspection offices: Contact the Department at
+the telephone number noted on the construction drawing(s) or
+marked plot plan(s).
+
+3(a). All conduits shall be as specified on the
+construction drawings.
+
+3(b). Any conduit or conduit duct-bank (a group of
+two or more conduits) that will only house cables intended to
+carry loads of less than 600 volts shall not be encased in
+concrete, unless requested by the Department Representative
+or as otherwise noted on the construction drawing(s).
+
+3(c). Any conduit or conduit duct-bank that will
+house at least one (1) 600 volts or higher voltage cables
+shall be encased in concrete (330-C-17/00 or equal). For
+residential tracts and private properties only, any conduit
+or group of conduits belonging to another utility and sharing
+the same trench (Joint Trench) with LADWP conduit(s) shall
+not be encased in concrete and shall comply with subsection
+E-4 for Joint Trench.
+
+3(d). All Polyvinyl Chloride (PVC) conduits shall
+be encased burial type EB-35 for concret ncased
+applications; LADWP Inspection recommends a minimum direct
+burial type DB-100. For direct-buried applications, PVC
+conduits shall be direct burial type DB-120. All PVC bends
+shall be type DB-120 and encased whenever they are used in
+conjunction with type EB-35 conduits. Th specified PVC
+conduit types represent the minimum requirements; they can be
+replaced with stronger conduit when approved by the Department
+Representative (see subsection 3(1) herein).
+
+3
+
+
+
+=== PAGE 5 ===
+3(e). All PVC conduits shall be made available for
+visual inspection and approval by the Department
+representative prior to installation. The Department
+representative may also request laboratory testing of any PVC
+conduit in addition to the visual inspection. In such a case,
+the contractor shall submit one 7’-0’’ long or two 4’- 0O’’
+long PVC conduit samples with the same run numbers and one
+coupling or bell end attached, to:
+
+Los Angeles Dept. of Water and Power
+Electrical Conduit and Material Testing
+1630 North Main St. Bldg. #7
+
+Los Angeles, CA 90012
+
+Please allow five (5) days for test results. Where the conduit
+fails to meet the visual requirements or the American Society
+of Testing and Materials (ASTM) F512, Standard Specification
+for Smooth-Wall PVC Conduits and Fittings for Underground
+Installation, the Contractor shall be responsible for the
+replacement of the substandard conduit with acceptable
+conduit.
+
+3(f). All conduit used for above ground
+construction shall be PVC schedule 40, PVC schedule 80, or
+metallic conduit as specified on the construction drawing(s)
+or marked plot plan(s).
+
+3(g). All metallic conduits shall be hot-dipped
+galvanized rigid steel conduit (GRC). GRC may be used for all
+low-voltage service conditions. GRC shall be used where low-
+voltage service conduit will remain exposed or may be subject
+
+to damage. Use of GRC conduit will also be required if
+requested by the Department representative or if such use is
+called out on the construction drawings. Hot-dipped
+
+galvanized intermediate metallic conduit (IMC) may be used as
+an alternate to GRC, except where exposed to traffic. Running-
+thread type connections are not permitted. All metallic
+conduits shall be grounded.
+
+3(h). Fiberglass conduit may be used for mainline or
+service conduit only if specified in the construction drawings
+or if requested by the Department representative. All
+fiberglass conduits shall be heavy wall with ultra violet
+(UV) protection and shall use gasket or epoxy sealed joints.
+
+
+=== PAGE 6 ===
+3(i). Smooth wall coilable high-density schedule
+40 or 80 PVC conduit shall be used for Horizontal Directional
+Drilling (HDD) if such use is approved by the Department
+Representative (See Subsection E-22 for HDD requirements).
+
+n
+
+3(j3). All the conduit types used in any continuou
+run shall be of uniform type and size. Exceptions to thi
+provision will be made for PVC bends which require type DB-
+120, and when a run crosses steeply sloping terrain or non
+compacted fill areas. Exceptions will also be made i
+indicated on the construction drawings, or if requested b
+the Department representative. See Subsection E-8 for non
+compacted fill and Subsection E-9(a) for sloping terrain
+conduit type reguirements.
+
+n
+
+I< Fl
+
+4, All excavations and backfill shall be done in
+accordance with Sections ‘*‘B’’, %*‘G’’ and ‘*‘H’’ of this
+Specification and:
+
+a. For installation on private property: The
+Department of Water and Power Underground
+Construction Standard Drawing H-168, latest
+revision.
+
+b. For installation in public property: The Los
+Angeles Municipal Code, Chapter VI, Article
+2, Section 62.00-62.05 and SSPWC, Part 3,
+Section 306, Underground Conduit
+Construction, as modified herein.
+
+5. When concrete encased or direct buried condui
+is specified, concret ncasement and/or backfill shall not
+be made until the conduit has been inspected and approved by
+the Department representative. If the conduit is encased or
+the trench is backfilled before the conduit has been
+inspected and approved by the Department, the contractor shall
+be required to re-expose the conduit for inspection if
+backfilled or remove and replace the conduit if encased, at
+the contractor’s expense.
+
+ct ct
+
+
+
+=== PAGE 7 ===
+6(a). All pre-cast concrete substructures shall
+comply with the Department's Standard Specification P-178,
+latest revision. In addition, all pre-cast and poured-in-
+place substructures placed in public property shall be subject
+to approval by the Department of Public Works. All concrete
+substructures placed in private property shall be approved by
+the Department of Building and Safety. Certificates of
+approval and/or a building permit may be required from the
+Contractor for any pre-cast or poured-in- place concrete
+substructure.
+
+6(b). Any pre-cast concrete manufacturer interested
+in providing pre-cast concrete products to the Department
+shall have their pre-cast concrete manufacturing plant,
+fabrication procedures, and all applicable products inspected
+and approved before the manufacturer and/or distributer may
+participate in any Department pre-cast concrete
+substructure(s) bid.
+
+6(c). The design, calculations, and shop drawings
+of any pre-cast concrete substructure shall be approved by
+the Department prior to fabrication. All materials used for
+the fabrication of pre-cast concrete substructures shall be
+reviewed, tested and approved by the Department.
+
+7. For concrete mix design requirements, refer to
+Appendix II, Table 1.
+
+8. The total elapsed time between the initial
+addition of water to concrete at the batch plant and placement
+of concrete at the job site shall not exceed 90 minutes,
+unless approved by the engineer. If multiple batches of
+concrete are required, they shall be poured sequentially.
+Under conditions contributing to quick setting of the
+concrete, the engineer may reduce the total elapsed time
+permitted.
+
+9. The contractor shall notify the Department of
+Public Works, Bureau of Contract Administration, prior to
+excavation, backfilling, and compacting fills for any
+excavations done on public property.
+
+
+
+=== PAGE 8 ===
+10. For protection and restoration of existing
+improvements, all conduit and substructure installation in
+public property shall meet the requirements of SSPWC, Part 1,
+Section 7-9, Protection and Restoration of Existing
+Improvements, and applicable sections of the ‘‘Brown Book’’,
+City of Los Angeles Department of Public Works (formerly
+Standard Plan S-610), latest revision.
+
+
+
+=== PAGE 9 ===
+B. TRENCH EXCAVATION
+
+l(a). General: The Contractor shall notify Dig-
+at 811, at least two (2) full working days prior to
+of any excavation.
+
+Alert
+start
+
+qT ¢T
+
+l(b). The Contractor shall perform trench
+excavation to the lines and grades shown on the drawings and
+as specified herein. If deviations from the drawing alignment
+are found to be necessary, they must be approved by the
+Department.
+
+2. Trench excavation: Trench excavation shall meet
+th requirements of SSPWC, Part 3, Section 306-1.1 Trench
+Excavation, except as modified herein and excluding Sections
+306-1.1.3, Maximum and Minimum Width of Trench, and 306-1.1.5,
+Removal and Replacement of Surface Improvements.
+
+3(a). Exploration: The contractor shall explore for
+the location and depth of all existing underground
+infrastructures and mainline utilities such as sewers, storm
+drains, gas, telephone, water, other electric facilities,
+etc. If an unknown utility is found, the contractor shall
+note its location on the as-built plan.
+
+3(b). Underground utility service connections are
+not shown on the Department’s construction drawings. The
+Contractor shall assume that every property parcel is being
+served by a utility service connection for, but not limited
+to, telephone, water, gas, sewer, cable television, and
+electric power.
+
+3(c). The Contractor, at the Contractor’s expense,
+shall determine the location and actual depth of all known
+utilities, including service connections and other
+substructures shown on the construction drawings far enough
+in advance of the actual conduit construction to facilitate
+decisions concerning the necessity for conduit to go either
+over or under these substructures in accordance with SUBSECTION
+3.4 of Appendix I.
+
+3(d). The Contractor should expect abnormal
+substructure depths at all roadway intersections.
+
+
+=== PAGE 10 ===
+4(a). Underground Utilities or Substructures:
+Underground utilities or substructures encountered during the
+trench excavation shall be temporarily or permanently
+supported as shown on the drawings or as required by the owner
+of the substructures. Damage to underground utilities or
+substructures shall be repaired at the contractor’s expense.
+
+4(b). Interfering portions of abandoned pipes,
+culverts, and conduits shall be cut, removed, and disposed of
+in accordance with the applicable regulations (refer to SSPWC,
+Part 3, Section 306-5, Abandonment of Conduits and
+Structures). Open ends of such pipes, culverts or conduits
+shall be securely closed by a plug or wall of 2000 psi concrete
+(See Appendix II, Table 1, ITEM 9) no less than 6 inches thick.
+
+5. Trench width for conduit construction: The
+trench width shall be a maximum of 30 inches unless otherwise
+specified on the drawings or as approved by the Department
+representative.
+
+6. Removal of Surface Improvements: Bituminous
+pavement, concrete pavement, curbs, sidewalks, or driveways
+removed in or adjacent to public streets in connection with
+construction, shall be removed in accordance with SSPWC, Part
+3, Section 300-1.3, Removal and Disposal of Materials, except
+as modified herein.
+
+a. Pavement shall first be saw cut before
+removing.
+
+b. Sidewalk shall be cut at scoring lines.
+
+c. The Contractor shall place and maintain
+
+temporary resurfacing and striping on all
+excavations in paved streets and sidewalks.
+
+The maintenance of temporary resurfacing
+L£
+
+shall continue until permanent resurfacing
+is placed.
+
+7. Classification: All excavated materials of
+whatever nature shall be considered unclassified.
+
+
+=== PAGE 11 ===
+8. Unsuitable Soil: Where soft, spongy,
+unstable, or other similarly unsuitable sub- grade material is
+encountered upon trenching operations for installation of
+conduit or for placement of pre-cast concrete substructures,
+the contractor shall remove the unsuitable sub-grade material
+to a depth as ordered by the Engineer. Any void thus created
+shall be refilled with crushed rock, meeting the gradation
+requirements of SSPWC, Part 2, Section 200- 1.2, for 3/4-inch
+crushed aggregate. After placement, the rock shall be tamped
+or vibrated as needed to achieve a minimum 90% compaction.
+The contractor may be required to provide compaction report (s)
+prepared by a certified testing laboratory. The material
+compaction test(s) shall be in accordance with Sand-Cone
+Method, ASTM D1556, and Modified Proctor Compaction Test,
+ASTM D1557.
+
+2. Bracing Excavations (Trench Shoring) :
+Excavations shall be braced in accordance with SSPWC, Part 3,
+Section 306-1.1.6.
+
+10
+
+
+=== PAGE 12 ===
+C. VAULTS, MAINTENANCE HOLES, SUBSURFACE TRANSFORMER
+ENCLOSURES, HANDHOLES, AND TRANSFORMER PADS
+
+l(a). All pre-cast concrete substructures (vaults,
+maintenance holes, hand-holes and transformer pads) shall
+comply with the Department's specifications and standards and
+shall be subject to inspection by the Department
+representative prior to, during, and after placement
+
+operations.
+
+1(b). Unless other prior arrangements have been
+made with the Department representative, pre-cast concrete
+substructures shall not be placed until they have been
+inspected and approved by the Department representative.
+
+l(c). Each pre-cast concrete substructure delivered
+to a construction site shall have a quality assurance repair
+report from the manufacturer. This report will be provided to
+the Department representative at their request.
+
+1(d). Pre-cast concrete substructures may be
+rejected at any time prior to the final installation of cables
+or equipment and/or final acceptance of the project for non-
+compliance regardless of any prior approvals.
+
+2. All pre-cast concrete structures shall be
+installed not less than seven (7) calendar days after the
+date the concrete, of which they are constructed, is poured.
+
+3. All pre-cast concrete sections of
+substructures shall have paint markings stenciled on the
+inside and outside of each section. The stenciled markings
+shall indicate the manufacturer's name, identification
+number, date of pour and the designation "DWP/FA-CN" (FA= Fly
+Ash, CN= Calcium Nitrate) or ‘*DWP/F-CN-SC’’ (F= Fly Ash, CN=
+Calcium Nitrate, SC= Self-Consolidating Concrete). Also, the
+manufacturer's name, the year, and the designation ‘‘FA-CN"
+or ‘*‘F-CN-SC’’ shall be cast inside of each piece of the
+substructure. All markings shall be clear, legible, and
+durable.
+
+11
+
+
+=== PAGE 13 ===
+4(a). All walls and the roof section of poured- in-
+place vaults and maintenance holes must be constructed with
+one continuous monolithic pour and must be waterproof. The
+floor may be poured separately and must be waterproof. Poured-
+in-place vaults and maintenance holes shall rest on 6’’ of
+compacted crushed 1’’ rock, Type A, meeting the requirements
+of SSPWC, Part 2, Sections 200-1.2 and 200-1.4 and shall have
+the sump sealed.
+
+4(b). All poured-in-place vaults, maintenance
+holes, hand-holes, and pad construction shall be inspected
+and approved during the different stages of construction and
+before concrete is ordered. The extra engineering and
+inspection work, over and above that reguired for pre-cast
+products, shall be paid for in advance by the contractor.
+
+5. Pre-cast concrete vaults, maintenance holes,
+Underground Transformer Silos (Silos) and hand-holes shall be
+set on well compacted soil with 6-inch minimum depth of
+tamped/compacted crushed aggregate base, meeting the
+requirements of SSPWC, Subsection 200-2.2 and all sumps and
+floor knockouts (other than those which facilitate the
+installation of ground rods) shall be left sealed.
+
+6. Pre-cast transformer pad hand-holes shall be
+set on 6 inches of compacted 1’’ crushed rock, type A or
+concrete aggregate No.3, type B base, meeting the requirements
+of SSPWC, Part 2, Sections 200-1.2 and 200-1.4.
+
+7. All vaults, maintenance holes, hand-holes, and
+Silos shall be placed in areas where the substructures are
+not subjected to surcharges other than backfill around the
+substructure. Adjacent retaining walls, foundations, or
+footings must be designed such that their loading does not
+affect the structural integrity of the Department’s
+substructures. Designs likely to create additional surcharge
+must be approved by the Department of Building and Safety and
+shall require acceptance by the Department.
+
+8. Chipping or core drilling of any pre-cast
+concrete substructure, except at designated knockout
+locations, shall not be allowed unless the Contractor has the
+approval of the Department’s Substructure Standards Engineer.
+
+9. No foreign substructure or utility line shall
+enter any part of any Department substructure.
+
+12
+
+
+=== PAGE 14 ===
+10. All substructures, except transformer pads
+and hand-holes, shall be designed and fabricated to provide
+a dry and watertight installation. Any through-holes used for
+lifting shall be filled with non-shrink grout capable of
+reaching a minimum strength of 4500 psi in 28 days, except
+that the lifting holes in the removable cover shall be plugged
+with an appropriate diameter neoprene plug. Mastic tape is
+not required on transformer pad and hand-hole installations.
+
+1. When pre-cast concrete substructures are
+located in high water table areas, the Department
+representative may require that two layers of mastic tape be
+placed at all the joints and gaps between the pre-cast
+substructure panels or sections. Pre-cast concrete
+substructures, if required, shall be water proofed with a
+moisture barrier of an asphaltic type approved by the City of
+Los Angeles with a published Los Angeles Research Report
+(LARR) or approved equal. Coating shall be applied by the
+coating manufacturer to the outside surface of the
+substructure at the precast manufacturer’s plant and to the
+joints during field installation. All waterproofing shall be
+applied in accordance with the waterproofing manufacturer’s
+recommendations for the field conditions present.
+
+12(a). Substructures shall not be set in an area
+where excess surface or landscaping water accumulates. Use of
+electric sump pumps to drain the excess water is not allowed.
+
+12(b). The grading around all substructures shall
+be configured in such a way that all surface water will be
+drained away from the substructures.
+
+12(c). The landscaping and grading plans around the
+substructures shall be checked and approved by the Department
+engineer for acceptable drainage and avoidance of potential
+water collection areas prior to the start of construction.
+
+13. The required clearance for vaults, maintenance
+holes, hand-holes and Silos away from any building, building
+projection, or overhang (such as a balcony), shall be a
+minimum of two (2) feet from the vertical projection of the
+closest wall of the substructure. Adequate clearances shall
+remain in place to facilitate future maintenance, repairs and
+th replacement of the substructure. For the clearance
+requirements around transformer pads see the Department’s
+Standard Drawing No. C-721-01(01 thru 08).
+
+13
+
+
+=== PAGE 15 ===
+14(a). All substructures located on private
+property shall be accessible to the Department’s trucks by
+means of a clear and unobstructed path from the street to the
+structure with a minimum width of 12 feet. Minimum vertical
+clearance above the path shall be 14 feet. The path paving
+must be capable of withstanding truck weights of 24 tons.
+
+14(b). If the path requires any turns by the
+Department trucks, the minimum required clearances might be
+increased to allow for adequate curve radiuses and clear areas
+for the trucks to make the turn. Consult the Department
+
+ngineer when such a situation is anticipated.
+
+14(c). Plantings such as trees, plants and shrubs
+on or around the Department substructures shall allow access
+to the substructure for maintenance. Trees shall be planted
+at least five (5) feet clear to all sides of the substructure.
+Trees and plants shall be planted so that their growth does
+not apply unintended pressure causing possible damage to the
+Department substructure. Any planting area that is not in
+compliance with these requirements is to be removed without
+notice at the owner’s expens
+
+15. Head castings, Silos, hand-hole covers and
+transformer pads shall be set to final or required level by
+the contractor prior to completing the final grading of
+adjacent unpaved areas.
+
+16. In public property, final grade of the
+substructure shall meet the approval of the construction
+inspector of the City of Los Angeles Department of Public
+Works, Bureau of Contract Administration, and must also be
+acceptable to the Department.
+
+17. Vault and maintenance hole castings shall be
+adjusted to grade in accordance with the Department’s
+Standard Drawings 1-802 and 1-802.1, latest revision.
+
+18. All vaults and maintenance holes shall have a
+minimum of 18 inches of cover below gutter grade of city
+streets, 42 inches of cover below the finished grade of state
+streets or highways and a maximum of 4'-0O" of cover below any
+finished grade (S Appendix II, Taste 2), unless located in
+an air field in which case cover must be no less than 4’-0’"’.,
+Any variance from these limits will require the approval of
+the Department Substructure Standards Engineer unless
+otherwise noted on the construction drawings.
+
+14
+
+
+=== PAGE 16 ===
+19. A maximum of one 12 inch or smaller
+adjustment ring is allowed for adjusting each hand-hole to
+grade. Any variance from this limit will require the approval
+of the Department Substructure Standards Engineer.
+
+20(a). All substructure frames and covers located
+in parking areas shall be adjusted to match required grade.
+The grade shall be set such that the surrounding surface,
+immediately adjacent to the structure and for a distance of
+three feet minimum (measured perpendicular to the edge of the
+structure), can be sloped away at a rate of 1/2 inch per
+10 feet of run. The contractor shall set the structure to
+the required grade prior to completing the final paving.
+
+20(b). All substructure frames and covers located
+in areas where sidewalk will be constructed or parkway areas
+which will be paved shall be adjusted to the level of a string
+line extending from the top of the curb to surface level at
+the property line. Any area less than 18 inches wide which
+occurs between any top surface edge of the substructure frames
+and covers in planted parkway areas and any adjacent paved
+surface shall be filled in with a 3-inch thick layer of
+concrete. The concrete used shall be a sidewalk mix
+proportioned in accordance with SSPWC.
+
+20(c). All substructure frames and covers located
+in planter areas (not accessible to pedestrian traffic) shall
+be adjusted such that their top surface is two (2) inches
+above final grade of the surrounding ground.
+
+20(d). Silos and hand-holes installed in unpaved
+and planter areas shall have a concrete collar constructed as
+shown on the Department's Standard Drawing H-168, latest
+revision.
+
+21. All water and debris must be removed from
+newly installed vaults, maintenance holes, Silos, hand-
+holes, and transformer pad hand-holes prior to final
+acceptance.
+
+22. All gaps exceeding 1/8 inch between ends of
+conduits, which have been glued into place, and the abutment
+step in plastic terminators cast into substructure end and
+sidewalls, shall be filled with red body putty (Bondo) or
+equivalent, and made smooth to the satisfaction of the
+Department representative. Construction grout is not an
+acceptable substitute for Bondo.
+
+15
+
+
+=== PAGE 17 ===
+23. The contractor shall install 5/8-inch
+diameter by 8-foot long, 304 Stainless Steel-clad grounding
+rods in each substructure. The number and location of
+grounding rods shall be as shown on the Department standard
+drawings or as requested by the Department representative.
+
+24. The substructure ladder and hanging hardware
+assembly shall be installed on the same side as oncoming
+vehicular traffic unless otherwise instructed by the
+department representative. In the event that the direction of
+oncoming traffic is not immediately apparent or more than one
+traffic direction is possible, the department representative
+will determine which side the ladder and hanging hardware
+assembly shall be installed.
+
+25. Any existing substructure owned by the
+Department, or in which the Department maintains cables and/or
+equipment, shall not be opened unless specifically authorized
+by and in the presence of the Department representative. The
+Contractor shall follow all federal, state and local safety
+regulations when entering any structure.
+
+16
+
+
+=== PAGE 18 ===
+D. SUBSTRUCTURE VENT INSTALLATION
+
+All vent pipes and accessories shall be 12-
+inch diameter PVC sewer pipe in accordance with ASTM D3034,
+Standard Specification for Type PSM Poly (Vinyl Chloride)
+(PVC) Sewer Pipe and Fittings, latest revision.
+
+2. There shall not be more than one 90-degree
+bend in any vent pipe installation, unless approved by the
+Department Representative.
+
+3. Vent outlets shall be located in the closest
+sidewalk or planter area to the substructure. Piping for
+Single vent should not exceed 30 feet in length, unless
+approved by the Department Representative.
+
+4, Vent outlet covers shall be installed with a
+minimum separation of 5’-0’’ from center to center.
+
+5. All vent outlet covers located in pedestrian
+Sidewalks, planter areas, or unimproved areas shall be the
+architectural standpipe type in accordance with the
+
+Department’s Standard Drawing No. C730-10, latest revision.
+
+6. In the event that the standpipe type cover can
+only be installed next to the curb face and there is a
+possibility of damage due to vehicular traffic, the
+
+Department’s Representative may require flush mount traffic
+type vent covers to be installed in accordance with the
+Department’s Standard Drawing No. C730-09, latest revision.
+
+7(a). All vent outlet covers to be located in
+driveways or subject to vehicular traffic shall be flush mount
+traffic type in accordance with the Department’s Standard
+Drawing No. C730-09. They shall also meet the location
+requirements of the Department’s Standard Drawing No. 1-824.
+
+7(b). Flush mount traffic type vent outlet covers
+shall be used only when the standpipe type vent cover has to
+be placed at a distance of more than 30 feet from the structure
+or an excessive number of bends would be required to locate
+the vent outlet cover in a non-traffic location.
+
+17
+
+
+=== PAGE 19 ===
+8. All flush mount type vent outlet covers if
+allowed by the Department Representative, shall be placed
+away from any water runoff and if they are located in planter
+or unimproved areas, they shall be placed two inches above
+the surrounding finished grade.
+
+9, Vents shall be installed in pairs unless
+otherwise specified on the approved Department drawing. Vent
+knockouts shall have the same number of high elevation
+knockouts and low elevation knockouts, unless otherwise
+approved by the Department Representative.
+
+18
+
+
+=== PAGE 20 ===
+E. MAIN LINE AND SERVICE CONDUIT
+
+1. Electric conduits shall be of the size and
+type (or approved equivalent) noted on construction drawings.
+
+2. All cut or damaged ends of duct shall be cut,
+chamfered, and de-burred in accordance with Appendix I,
+Section 3, Conduit Installation.
+
+3. For installations on residential property:
+
+a. The edge of all main line conduit encasement
+shall be placed a minimum of two (2) feet
+outside the property line(s), unless
+
+otherwise specified.
+
+b. Service conduits shall b xtended one foot
+
+inside of the front property line and three
+(3) feet inside from the side property line.
+The open end of the conduit shall be closed
+with a plug or cap in accordance with
+SuBSECTION 11.3 of Appendix I unless otherwise
+
+L£
+
+specified.
+
+4(a). Joint Trench: Joint Trenches with telephone,
+communication, and cable TV companies are allowed in
+residential tracts and on private properties only if approved
+by the Engineer. A joint trench is not to be allowed whenever
+a Department conduit or conduit duct-bank is intended to carry
+at least one (1) 34,500 volts cable.
+
+4(b). Joint Trench shall be constructed in
+accordance with the Department’s Standard Drawing H-168,
+latest revision.
+
+4(c). There shall be a minimum clearance of 12
+inches vertically and/or horizontally between the Department
+conduit in direct buried or the Department conduit concrete
+encasement in encased buried construction and other joint
+utilities. Other users of a joint trench may require
+additional depth for cover and/or separation. Joint utilities
+cannot be in the same Department conduit(s) concrete
+encasement.
+
+19
+
+
+=== PAGE 21 ===
+5. Trench bottom shall be smooth, level,
+compacted, and free from debris.
+
+6. Minimum conduit bend radius shall be in
+accordance with Appendix II, Taste 3, Conduit Bend Radius
+Specifications.
+
+7. No field bends shall be made without the
+approval of the Department representative unless shown on the
+construction drawings. All field bends shall be made in
+accordance with Appendix I, SuBSECTION 3.4.
+
+8. Non-metallic conduit shall not be placed in a
+non-compacted fill area unless encased in concrete with rebar
+reinforcement. Four No.4 continuous rebar, grade 60 ksi, shall
+be placed, one in each corner of the concret nvelope,
+parallel to the conduit run with a minimum concrete cover
+over rebar of 1.5 inches.
+
+9, Conduit installation in sloping terrain where
+any 40-foot section of the conduit run exceeds 30-degrees
+from horizontal:
+
+a Direct Buried: The conduit shall be metallic
+for the entire sloped portion and a minimum
+of 10 feet beyond the top of the slope.
+Baffle boards ar required to retain
+backfill in accordance with Department’s
+Standard No. 1-225.
+
+b Encased Buried: The conduit shall be
+concret nceased and rebar reinforced for
+the entire sloped portion and a minimum of
+10 feet beyond the top of the slope (check
+
+with Standards Engineer for reinforcement
+detail). Baffle boards are required to place
+the concrete in sloped trenches in
+accordance with Department’s Standard No.
+
+1-225.
+10. Minimum cover over conduit in Direct Buried
+or over the concret ncasement in Encased Buried conduit
+
+shall be in accordance with Appendix II, Taste 2, Minimum Depth
+Specification for conduit and substructure Installations.
+
+20
+
+
+=== PAGE 22 ===
+il. Clearance requirements:
+
+ll(a). When crossing other existing utilities,
+provide a minimum clearance of 6 inches between the conduits
+in direct buried, or the conduit concret ncasement in
+
+encased buried construction.
+
+1l1(b). When paralleling other existing utilities
+there shall be a minimum clearance of 12 inches between th
+conduit and the existing utility in direct buried, or the
+conduit concret nceasement and the existing utility in
+
+encased buried construction.
+
+11l(c). When paralleling a high-pressure gas line
+(HPGL) there shall be a recommended minimum clearance of 5’-
+O’’ between the conduit and the existing HPGL in direct
+buried, or the conduit concret ncasement and the existing
+HPGL in encased buried construction.
+
+1l1(d). Plants and shrubs near the Department
+conduit(s) shall be at a minimum clearance of five (5) feet.
+Trees shall be at a minimum clearance of five from their
+mature drip line. Plants, shrubs, and trees shall be planted
+so that their growth does not apply unintended pressur
+causing possible damage to the Department conduit(s). Any
+planting area that is not in compliance with these
+requirements is to be removed without notice at the owner’s
+expense.
+
+LP. Crossing Existing Utilities - When crossing
+existing utilities, the following conditions shall be met:
+
+12(a). The conduit section(s) as shown on the
+construction drawings may be constructed over th xisting
+utilities if the minimum cover (S Appendix II, TABLE 2) and
+clearanc requirements (see subsections E-11) are met.
+Otherwise conduit(s) shall be constructed under existing
+underground utilities, or as otherwise noted on the
+construction drawings.
+
+12(b). All conduit sections crossing under or over
+existing underground utilities shall be constructed without
+the aid of segments or bends unless their use is approved by
+the Department representative prior to construction.
+
+21
+
+
+=== PAGE 23 ===
+1B. Joining to Existing Dead-End Conduits:
+
+13(a). The dimensions shown on the construction
+drawings for the locations and depths of existing dead-end
+conduits, which are to be joined, are approximate.
+
+13(b). Where new conduit is required to be joined
+to an existing dead-end conduit, the Contractor shall
+determine in advance of construction, the actual location and
+depth of the joining ends of all conduits. The Contractor, at
+the Contractor's expense, shall attempt to locate the existing
+dead-ends within a search area delineated by a circle of six
+(6) foot radius centered on the dead-end location indicated
+on the plans. If the indicated dead-ends cannot be located
+within the prescribed search area, the Department
+representative should be consulted for further direction.
+
+13(c). The Contractor shall chamfer and de-burr th
+existing conduit dead-ends. Prior to the joining of th
+conduits, the Contractor shall clean and swab that portion
+the existing conduits located between the joining end and th
+closest existing substructure. All cleaning, swabbing, an
+joining operations shall be performed in presence of t
+Department representative, unless otherwise approved by the
+representative. See suspsecTION 21 herein for pulling tape
+requirements.
+
+(e)
+0AaO MmhO O
+
+14. All conduits that are required to be dead-
+ended for future connections shall be constructed in
+accordance with Department’s Standard Drawing No. 1-120.1,
+latest revision.
+
+15. To reduce segregation, metal or rubber tremie
+chutes shall be used to deposit concrete, 330-C-1700 (See
+Appendix II, Taste 1), for conduit encasement where the fr
+fall to the bottom of the trench exceeds eight (8) feet.
+
+16. All types of direct buried conduit tie-ins
+entering substructure walls shall be grouted into the walls
+and concret neased for a minimum distance of 18 inches
+outside of the substructure walls.
+
+22
+
+
+=== PAGE 24 ===
+T7.
+
+Standard Drawing No.
+completed duct
+mechanical assistance.
+
+each
+
+L£
+
+for removing
+through which
+
+L£
+
+Prior to
+
+(in
+Th
+
+conduit
+encasement
+
+shal
+in concrete,
+All conduits in that duct bank shall
+
+1 be made
+
+be
+any
+
+for
+
+encasement or backfilling.
+
+th sand,
+
+without
+
+inal resurfacing over the conduit
+duct-bank a cylindrical mandrel as specified in Depar
+2-210 shall be drawn by hand
+both directions)
+e Contractor shall
+any obstacles found or replacing
+the mandrel will not pass.
+available
+shading wit
+
+tment’s
+through
+any
+responsible
+duct section
+
+Replaced or repaired
+inspection
+or backfilling.
+be re- mandrelled after
+
+L£
+
+before
+
+18. All conduits shall be free of water. The
+contractor, to the satisfaction of the Department
+representative, shall repair any leakage through conduit.
+
+Replaced or
+
+repaired conduit
+for
+
+inspection b
+or backfill:
+
+19.
+
+ing.
+
+All
+
+remove all foreign material.
+
+XD.
+ends
+
+shall
+ncasement in concrete,
+
+completed ducts
+
+shall be
+
+be made available for
+shading with sand,
+
+swabbed to
+
+All ducts shall be capped or plugged at both
+
+again after
+Appendix I,
+
+2.
+
+21 (a).
+
+immediately after the completion of
+swabbing and mandrelling,
+SUBSECTION 11.3.
+
+installation and
+
+Pulling Tape General Condition:
+
+Install flat,
+
+woven multi-fiber po
+
+in accordance with
+
+lyester
+
+ribbon, minimum 3/8-inch nominal width and 1250-pound minimum
+
+tensil
+shall
+sequential
+rub off).
+
+minimum slack.
+
+21
+through each
+21
+to an existi
+
+install the tape in accordance with 21(b)
+
+(b) .
+
+(c).
+
+duct with no cuts,
+Where the conduit
+
+ng duct-bank, the Co
+
+strength pulling tape in all ducts.
+be printed with the
+1 footage markings with legible and stable print
+Fasten each tape to plugs on
+
+rated
+
+tensile s
+
+or ties
+is required
+
+ntractor shall
+
+into
+
+The pulling tape
+
+and
+(no
+
+trength
+
+each end with 5'-0"
+
+The tape shall be in one continuous length
+splices,
+
+allowed.
+
+to be joined
+
+extend and
+
+the existing
+
+duct-bank. A Department representative shall be present prior
+to opening or entering any substructure. The Contractor shall
+
+follow all federal,
+
+23
+
+state, and local safety regulations.
+
+
+=== PAGE 25 ===
+2. When Horizontal Directional Drilling (HDD) for
+direct buried conduit installation is specified on the
+construction drawings or, under special conditions, is
+approved by the Department representative, the HDD shall be
+completed in accordance with the City of Los Angeles HDD
+policy Special Order No. 015-1102. The contractor shall obtain
+City of Los Angeles approval for all HDD installations made
+in public streets (Special City permit may be required).
+
+24
+
+
+=== PAGE 26 ===
+F. STREET LIGHT CONDUIT
+
+1. Contractor shall confirm the street light
+service points with the Bureau of Street Lighting Inspector
+before street light conduit is installed.
+
+2. Street light service conduits (not including
+
+mainline street light) shall be placed in the same trench
+with other electric conduits where practical.
+
+3. When street light conduit is in a separate
+trench, cover over conduit shall be in accordance with
+Appendix II, Taste 2, Minimum Depth Specification for conduit
+and substructure Installations, as applicable.
+
+4. For installation in non-residential areas:
+Street light conduit shall be dead-ended 12 inches behind
+
+curb face.
+
+5. For installation in residential areas: Street
+light service conduit should be located under proposed side-
+walks and will normally be placed 2 feet from the front
+property lines.
+
+25
+
+
+=== PAGE 27 ===
+G. VAULTS, MAINTENANCE HOLES, AND HANDHOLES BACKFILL
+
+REQUIREMENT
+
+This section covers the backfill requirements for
+
+vaults, maintenance holes,
+herein referred to as struc
+requirements refer to
+UB721 series.
+
+and hand-holes,
+tures. For transformer pad backfill
+the Department’s standard drawings No.
+
+which will
+
+be
+
+Backfill around new and existing structures shall
+be considered structure backfill in accordance with the
+requirements of SSPWC, Part 3, Section 300-3, Structure
+Excavation and Backfill (Excluding Sections 300-3.2 and 300-
+3.6), except as modified herein:
+
+1. When a structure is to be located in a
+dedicated city street, whether it is subject to vehicular
+traffic or not, structure backfill shall be slurry concrete
+class 100-E-100 (See Appendix II, TasLe 1), in accordance with
+SSPWC, Part 2, Section 201-1, Table 201-1.1.2(A) for Trench
+Backfill.
+
+2. When a structure will be located in public
+property, but is not in a dedicated city street and is not
+subject to vehicular traffic, the structure backfill shall be
+pervious backfill (consisting of gravel, crushed gravel,
+crushed rock, natural sands, manufactured sand, or
+combinations thereof, with 100% passing the 3/4-inch size
+sieve), meeting the requirements of SSPWC, Part 3, Section
+300-3.5.2, Pervious Backfill, and also:
+
+a. Jetting shall be used to densify the
+backfill material in accordance with the
+requirements of SSPWC, Part 3, Section 306-
+1.3, Backfill and Densification.
+
+b. Backfill materials shall be placed evenly
+in two (2) foot maximum depth horizontal
+layers or lifts.
+
+on Backfill densified through jetting shall
+meet the minimum relative compaction
+requirements outlined in SSPWC, Part 3,
+Section 306-1.3.5, Jetted Bedding and
+Backfill Compaction Requirements, or as
+
+otherwis
+
+26
+
+noted by the permitting agency.
+
+
+=== PAGE 28 ===
+d. The contractor shall provide compaction
+report(s) taken at every compacted layer,
+and as directed by the Department
+representative, prepared by a certified
+
+testing laboratory. The soil compaction
+
+test(s) shall be in accordance with Sand-
+
+Cone Method, ASTM D1556, and Modified
+
+Proctor Compaction Test, ASTM D1557.
+
+3. When a structure is to be located in the State
+of California Right-of-Way, whether it is subject to vehicular
+traffic or not, structure backfill shall be a Caltrans
+approved mix for 2-sack cement slurry (See Appendix II, TABLE
+1), unless otherwise specified in the Caltrans permit.
+
+4. When a structure is to be subjected to vehicular
+traffic and is located under a paved roadway, parking lot,
+private property driveway, or in an easement area, the
+structure backfill shall be slurry concrete class 100-E-100
+(See Appendix II, TasLe 1), in accordance with SSPWC, Part 2,
+Section 201-1 for Trench Backfill.
+
+5. When a structure is to be located under a new
+roadway or parking lot in public or private property,
+subjected to vehicular traffic, and the entire roadway or
+parking lot (including the area over the structure) will be
+compacted and paved in accordance with SSPWC, the structure
+backfill shall meet the requirements of Section G-2 of this
+Division.
+
+6. When a structure is to be located in an
+unimproved area in private or public property and will be
+subject to vehicular traffic, structure backfill shall meet
+th requirements of SSPWC, Part 3, Section 306-1.3, for
+Backfill and Densification, and also:
+
+a. Sand meeting th requirements of SSPWC,
+Part 2, Section 200-1.5.5, Sand Gradations,
+for Mortar, shall be used to backfill the
+excavated area.
+
+b. Jetting shall be used to densify the sand
+after the placement of the structure.
+Jetting shall be in accordance with the
+requirements of SSPWC, Part 3, Section 306-
+1.3.3, Jetted Backfill.
+
+27
+
+
+=== PAGE 29 ===
+7.
+
+Sand shall be placed evenly in two (2) foot
+maximum thick horizontal layer or lifts.
+
+Backfill densified through
+meet the minimum
+requirements outlined
+Section 306-1.3.5, Jetted Bedding and
+Backfill Compaction Requirements, or as
+otherwise noted by the permitting agency.
+
+jetting shall
+relative compaction
+in SSPWC, Part 3,
+
+Contractor shall provide compaction
+report(s) providing results of test taken
+at every other compacted layer, or as
+directed by the Department representative.
+
+The report shall be prepared by a certified
+
+testing laboratory. The soil compaction
+test(s) shall be in accordance with Sand-
+Cone Method, ASTM D1556, and Modified
+
+Proctor Compaction Test, ASTM D1557.
+
+Where jetting is not allowed by governing
+
+agencies (such as Los Angeles Department of
+Public Works or State Department of
+Transportation), backfill shall meet the
+requirements of SscrTion G-l or G-3 of this
+
+Division.
+
+When a structure is to be located in private
+
+property or in an easement area, and not subject to vehicular
+
+traffic, structure backfill shall meet the requirements of
+SECTION G-2 of this Division.
+8, When any portion of a structure is to be
+
+located in a planter area,
+
+structure backfill shall be as
+
+specified in this section except the upper 12 inches of
+backfill within the planter area, which shall meet the
+requirements of SSPWC, Part 2, Section 212-1, Landscape
+Materials.
+
+28
+
+
+=== PAGE 30 ===
+H. CONDUIT TRENCH BACKFILL REQUIREMENT
+
+1. The Backfill as specified herein shall not be
+placed until at least two (2) hours after placement of
+concret nceasement in encased buried conduit, unless
+otherwise approved by the Department representative.
+
+2. When a trench is to be located in a dedicated
+city street and resurfacing is required whether it is subject
+to vehicular traffic or not, backfill shall be slurry concrete
+class 100-E-100 (See Appendix II, TasLteE 1) in accordance with
+SSPWC, Part 2, Section 201-1, Table 201- 1.1.2(A) for Trench
+Backfilling.
+
+3. When a trench is to be located in an
+unimproved area in public property, backfill shall meet the
+requirements of SSPWC, Part 3, Section 306-1.3, Backfill and
+Densification, except as modified herein:
+
+a. Backfill shall be sand or sand cement slurry
+up to a minimum of four (4) inches above
+any direct buried conduit.
+
+b. In no case shall the remainder of backfill
+over the direct buried conduit installation
+have rocks or particles greater than 1/2
+
+inch in diameter. Screening or other
+suitable means may be required at the
+discretion of the Department
+representative.
+
+on Suitable native backfill materials shall be
+
+placed evenly in eight (8) inch thick
+horizontal layers and shall be moistened and
+compacted.
+
+d. Backfill over the top of concret ncased
+conduit shall not be mechanically compacted
+by means of tamping rollers, sheepsfoot
+rollers, pneumatic tire roller, vibrating
+rollers, or other mechanical tampers until
+
+a minimum of 10 calendar days after
+encasement.
+
+29
+
+
+=== PAGE 31 ===
+e. Sand backfill shall meet the requirements
+of SSPWC for mortar (See SSPWC Part 2,
+Section 200-1.5.5) and shall be placed
+evenly in two (2) foot thick maximum
+horizontal layers or lifts. Jetting can be
+used to densify the sand after concrete
+
+encasement.
+
+f. Jetting shall be in accordance with the
+requirements of SSPWC, Part 3, Section 306-
+1.3.3.
+
+g. The Contractor shall provide compaction
+
+report(s) for test taken at every 50-foot
+linear interval for each compacted layer,
+and/or as directed by the Department
+
+representative. A certified testing
+laboratory shall prepar th report. The
+soil compaction test(s) shall be in
+
+accordance with Sand-Cone Method, ASTM
+D1556, and Modified Proctor Compaction
+Test, ASTM D1557.
+
+4, When the trench is to be located in a State
+of California Right-of-Way, whether it is subject to vehicular
+traffic or not, backfill shall be a Caltrans approved mix for
+2-sack cement slurry (See Appendix II, Taste 1), unless
+otherwise specified in the Caltrans permit.
+
+5. When conduit is to be subjected to vehicular
+traffic and is located under a paved roadway, parking lot,
+private property driveway, or in an easement area, the conduit
+trench backfill shall be slurry concrete class 100- E-100
+(See Appendix II, TasLe 1), in accordance with SSPWC, Part 2,
+Section 201-1 for Trench Backfill.
+
+6. When conduit is to be located under a new
+roadway or parking lot in public or private property,
+subjected to vehicular traffic, and the entire roadway or
+parking lot (including the area over the conduit) will be
+compacted and paved in accordance with SSPWC, the conduit
+trench backfill shall meet the requirements of SrctTion H-3 of
+this Division.
+
+30
+
+
+=== PAGE 32 ===
+7. When conduit is to be located in private
+property or in an easement area not subjected to vehicular
+traffic, the conduit trench backfill shall meet’ the
+requirements of Ssection H-3 of this Division.
+
+8. When any portion of a trench is to be located
+in a planter area, backfill shall be as specified in the
+sections above, except for the upper 12 inches of backfill
+within the planter area, which shall meet the requirements of
+SSPWC, Part 2, Section 212-1, Landscape Materials.
+
+31
+
+
+=== PAGE 33 ===
+I. SURVEY REQUIREMENTS
+
+For installation on public property:
+
+1. Prior to construction, the contractor shall
+have th ntire construction area and the limits of excavation
+as specified in the construction drawings laid out by a land
+surveyor licensed in the State of California.
+
+2. The Contractor shall maintain all survey marks
+required to complete the construction. The contractor’s
+surveyor shall be required to replace missing or damaged
+survey marks.
+
+3. The Contractor shall provide a copy of the
+surveyor's field notes to the Department representative on
+the first day of construction, unless otherwise approved.
+
+32
+
+
+=== PAGE 34 ===
+J. CONTRACTOR'S RESPONSIBILITIES
+
+1. Conduit Installation and Approval
+Requirements:
+
+l(a). The contractor shall be responsible for the
+
+construction of the conduit system and installation of the
+
+substructures in accordance with the direction of the
+
+Department Representative and the latest revisions of the
+following: Specification 104, Standard Drawing H-168, and the
+conduit construction drawings.
+
+l(b). No underground conduit system and
+substructure installation is considered approved by the
+Department until the installation of all cables and equipment
+as designed by the Department engineer and installed by the
+Department crews are successfully completed.
+
+l(c). Final approval will be withheld until all
+sidewalks, required retaining walls, and final paving are
+completed.
+
+2. Due to extenuating circumstances, the
+Department may install cable or equipment before final
+approval, subject to all of the following:
+
+a. The circumstances warrant this sequence of
+work in the opinion of the Department.
+
+b. The Developer agrees in writing to pay the
+Department for any costs incurred to make
+the installation acceptable after all final
+paving, sidewalks, and retaining walls are
+completed.
+
+Cc. Adequate precautions are taken to protect
+the facilities. Examples include sidewalks
+around substructures and post barricades.
+
+d. Final resurfacing shall be inspected and
+approved by the City of Los Angeles and/or
+the State of California (as jurisdiction
+applies) and shall be acceptable to the
+Department.
+
+33
+
+
+=== PAGE 35 ===
+3. Prior to the start of construction, the
+Contractor shall coordinate with the City of Los Angeles
+and/or State of California Department of Transportation (as
+jurisdiction applies) to obtain approval of any and all
+traffic control measure(s) which will be employed. A copy of
+such measure(s) and approval(s) shall be submitted to the
+Department no less than three (3) calendar days before the
+commencement of work.
+
+4. The Contractor shall obtain a second permit
+from the State of California Department of Transportation, if
+so required, for construction of an electrical underground
+distribution system within the State’s right-of- way.
+
+5. The Contractor shall be responsible for the
+preservation of Survey Monuments and Bench Marks in accordance
+with SSPWC, Part 1, Section 2-9, Surveying, as modified by
+the City of Los Angeles *‘*‘*Brown Book’’.
+
+34
+
+
+=== PAGE 36 ===
+CITY OF LOS ANGELES
+DEPARTMENT OF WATER AND POWER
+POWER DISTRIBUTION DIVISION
+
+APPENDIX I TO SPECIFICATIONS 104
+
+Installation Instructions for
+Underground Conduit
+(Revised 10-14-2020)
+
+1. SCOPE
+
+This standard provides installation instructions for
+
+polyvinyl chloride (PVC) and fiberglass conduit and
+fittings.
+
+2. GENERAL SPECIFICATIONS
+
+2.1 All PVC encased buried (EB), or direct buried
+(DB) conduit used for underground construction shall be
+manufactured in accordance with ASTM F 512, Standard
+Specification for Smooth Wall PVC Conduit and Fittings for
+Underground Installation.
+
+2.2 All PVC Schedule 40 or 80 conduit used in the
+construction shall be manufactured in accordance with UL-
+651, UL Standard for Safety PVC Conduit and Fittings, and/or
+NEMA TC 2, Electrical PVC Conduit.
+
+2.3 All PVC fittings and accessories (reducers,
+adapters, caps, etc.) shall be manufactured in accordance
+with ASTM F 512.
+
+2.4 All PVC expansion joints shall be Schedule 40
+with tapered joints which are sealed with either gaskets or
+O-rings, and must have 12-inch minimum expansion potential.
+Expansion joints must be belled at both ends.
+
+2.5 All fiberglass conduits shall be heavy wall
+(HW) type, reinforced thermosetting resin conduit (RTRC),
+manufactured in accordance with the latest applicable
+UL/CSA/NEMA standards, unless otherwise noted or approved by
+the Department Representative. Conduit joints will be either
+gasket or epoxy sealed.
+
+- 35-
+
+
+=== PAGE 37 ===
+2.6 All fiberglass expansion joints shall be HW
+type, manufactured in accordance with the latest applicable
+UL/CSA/NEMA standards, with gasket or O-ring sealed tapered
+joints, unless otherwise approved by the Department
+Representative.
+
+3. PVC CONDUIT INSTALLATION
+
+The contractor shall be responsible for the proper
+installation of the conduit system. The following provisions
+apply:
+
+3.1 Preparation:
+
+a. The spigot ends of all factory-made bends
+and straight conduit shall be chamfered in
+accordance with DIAGRAM“A”,
+
+b. The contractor must make certain that all
+foreign matter has been wiped clean from
+the joining portions of both pieces to be
+joined before joints are assembled.
+
+Cc. Insertion of conduit (when dry) should not
+be over 3/4 of the way into the fitting.
+
+3.2 Cutting:
+
+a. Use a fine tooth saw to cut conduit. The
+conduit must be cut square and any burrs
+incurred must be removed. (Use of a miter
+box, or other means to ensure square cutting
+of the conduit is recommended. )
+
+- 36 -
+
+
+=== PAGE 38 ===
+b. All the conduit cut in the field shall be
+chamfered and de-burred in accordance with
+DIAGRAM “A”?
+
+At
+
+3/52" APPROX.
+
+Fh Att °
+A Shon
+3
+
+SECTION “A-A”
+
+DIAGRAM “A”
+
+3.3 Cementing Conduit:
+
+a. Cementing of conduit shall be in accordance
+with ASTM D2855, Standard Practice for the
+Two-Step Method of Joining PVC Pipe and
+Piping Components with Tapered Socket,
+except as modified herein.
+
+b. Cement and primer shall be applied using
+a manufacturer’s approved roller or swab.
+
+c. All PVC pipes shall be wiped clean of dirt
+or water and cut pipe ends’ shall be
+chamfered and de-burred, prior to primer
+application.
+
+d. PVC primer and cement are fast drying
+products. They shall be applied as quickly
+as is consistent with the manufacturers’
+recommendations.
+
+-37-
+
+
+=== PAGE 39 ===
+Apply primer with the applicator once to
+the inside of the socket, and once to the
+outside of the spigot end over a length
+equal to the depth of the socket.
+
+While the primer on the spigot and socket
+is still wet, apply the cement with the
+applicator once to the inside of the socket
+and once to the outside of the spigot end
+over a length equal to the depth of the
+socket. The quantity of glue applied should
+be sufficient to wet the pipe. Excess cement
+on the socket should be avoided as it is
+wiped into the joint and tends to weaken
+the pipe.
+
+If the primer has dried prior to applying
+the cement or if the cement has dried prior
+to joining the two pipes, both primer and
+the cement must be reapplied. The joint must
+be assembled immediately after the last
+cement application.
+
+Slip conduit straight into the socket until
+it bottoms, twist approximately %’ turn then
+hold the joint for 15 seconds (One (1)
+minute in extreme cold weather), so that
+the conduit does not push out of the
+fitting.
+
+Do not twist or drive pipe after insertion
+is completed. No blows by hammer or by any
+other means shall be used to aid the
+assembly of the PVC conduit joints.
+
+Another fitting or duct section can be added
+to the free end of the conduit, within two
+or three minutes if care is exercised in
+handling so that strain is not placed on
+the previously joined assembly.
+
+Under normal circumstances, the newly
+joined members shall remain undisturbed for
+at least five minutes befor they are
+handled. In cold or damp weather, this
+interval should be increased to allow for
+the slower evaporation of the solvent.
+
+- 38 -
+
+
+=== PAGE 40 ===
+.4
+
+a.
+
+b.
+
+After initial set, care must b xercised
+in handling the conduit to prevent twisting
+or pulling the joint.
+
+Wipe off the excess solvent that is left on
+the outer shoulder of the fitting after the
+joint is assembled. Plastic bristle brushes
+should not be used for this purpose.
+
+Keep cement cans covered when not in use
+and always keep them away from excess heat
+and flames.
+
+Solvent cement thinner may not be used for
+thinning cement that has thickened.
+
+All discarded cement and primer cans are to
+be removed from the open trench and properly
+disposed of prior to conduit encasement and
+trench backfilling.
+
+All cut bends of PVC conduit shall be
+assembled in the presence of the Department
+of Water and Power (Department)
+representative or otherwise approved by
+Said representative.
+
+Conduit Bend Radius:
+
+Minimum bend radius for straight conduit
+that is to be cold bent in the trench is as
+follows:
+
+Conduit size IPS Minimum Radius
+(Inches) (Feet)
+3 12-1/2
+3 to 6 65
+
+Hot bending of PVC conduit is not allowed in
+the field.
+
+- 39 -
+
+
+=== PAGE 41 ===
+3.5 Mechanical Damage Prevention Recommendations:
+
+a.
+
+b.
+
+Cc.
+
+Conduit should not be left exposed in open
+trench for longer than eight hours.
+
+h
+
+Provide support for the full length ot
+conduit when transporting long conduit
+lengths.
+
+(T Ff
+
+Do not permit unsupported overhangs.
+
+4. PVC TEMPERATURE EFFECT PRECAUTIONS
+
+Due to the expansion and contraction of plastic
+inches per 100 feet for every 20 degrees
+
+duct (1-1/2
+Fahrenheit
+
+(F’)
+
+change in temperature), the following
+
+precautions should be taken:
+
+4.1 Temperature Precautions
+
+a.
+
+All plastic conduit and fittings to be
+joined should be exposed to the same
+temperature conditions for a reasonable
+length of time before assembly.
+
+Allow extra conduit footage at each tie-in
+for contraction when duct temperature is
+higher than that of the surrounding soil; or
+extra room for expansion if the reverse
+condition exists.
+
+When pouring concrete over conduit in
+encased buried or placing backfill in direct
+buried, the contractor shall allow for
+temperature-induced movement at the free end
+of the conduit. This can be accomplished by
+pouring the concrete or placing the backfill
+from the center of the run (if both ends of
+the run are open) or starting from the tie-
+in point and working towards the free end.
+This is extremely important for concrete
+encasement since conduit is subject to
+temperature rise as concrete cures.
+
+- AQ -
+
+
+=== PAGE 42 ===
+5. PVC CEMENT AND PRIMERS
+
+5.1 Primer: Use a primer from the below approved
+list or an equivalent product. The primer shall be
+purple in color and must meet ASTM F656, Standard
+Specification for Primers for Use in Solvent Cement
+Joints of PVC and Fittings requirements.
+
+Approved DWP Primer List
+
+Christy’s Purple Primer
+
+LSP 670P Primer
+
+RectorSeal Jim PR-1L Primer
+
+Weld-On P-70 Purple Primer
+
+Plasti-Weld 903 Series Purple Primer for PVC
+
+Ol] iS} WD] NM] FR
+
+5.2 Cement: Use PVC pipe cement from the below
+approved list or an equivalent cement (Heavy body,
+Medium set, clear) meeting ASTM D2564, Standard
+Specification for Solvent Cements for PVC Systems
+requirements. Only clear cement shall be used
+unless otherwis specified by the Department
+Standards Engineer.
+
+Approved DWP Cement List
+
+Christy’s Clear PVC Pipe Cement
+LSP Solvent Cements 617C PVC Cement
+
+RectorSeal Gold 844L Clear PVC Solvent Cement
+Weld-on 717 Clear PVC cement
+
+Plasti-Weld 1500 Series Heady Duty Clear PVC
+5 | Solvent Cement
+
+WB} [NM {te
+
+6. FIBERGLASS CONDUIT WITH EPOXY CONNECTION
+
+6.1 Fiberglass
+
+a. Fiberglass Adhesive: All fiberglass
+conduits that do not use gasket sealed
+joints shall be installed with epoxy resin
+adhesive used as the binding medium in the
+joints.
+
+-Al-
+
+
+=== PAGE 43 ===
+b.
+
+Epoxy resin adhesive shall have minimum
+ultimate shear strength of 500 psi anda
+minimum joint pullout resistance of 6000
+pounds in accordance with ASTM D2517
+Standard Specification for Reinforced Epox
+Resin Gas Pressure Pipe and Fitting, an
+D2105, Standard Test Method for Longitudina
+Tensile Properties of Fiberglass Pipe an
+Tube, respectively.
+
+Qr aks
+
+Epoxy resin shall be FRE Composites,
+Incorporated Adhesive Kit Number 20-0164 or
+equal. Each kit shall contain the necessary
+components and instruction sheets, which
+shall include information regarding cure
+time, pot life, and other data deemed
+necessary by the manufacturer.
+
+Epoxy shall be applied by using a putty
+knife or equivalent.
+
+Fiberglass Conduit Assembly:
+
+All bell and spigot ends of the fiberglass
+conduits shall be sanded and cleaned to remove
+any transit residues.
+
+After sanding, cleaning, and drying the bell
+and spigot ends of the fiberglass conduits, a
+liberal and uniform coat of epoxy resin shall
+be applied to both the interior of the bell
+and the exterior of the spigot, covering a
+four (4) inch wide section.
+
+Due to the pot life of the epoxy resin, the
+joint shall be assembled immediately after the
+last epoxy application. If the epoxy resin
+dries before assembly, the bell and spigot
+ends of the fiberglass conduits must be re-
+sanded and cleaned befor applying any
+additional epoxy.
+
+-42-
+
+
+=== PAGE 44 ===
+gd. Slip the conduit spigot straight into the
+joining bell with a slight twist until it
+bottoms. The joint members shall be cured and
+
+L£ L£
+
+left undisturbed for 30 minutes or more before
+
+they are handled and/or transferred. After
+this initial set, care must b xercised in
+handling to prevent twisting or pulling the
+joint.
+
+e. An approved soft paddle may be used to aid the
+assembly of the fiberglass conduit joints.
+Partial mixing of the resin and hardener will
+not be allowed.
+
+7. DIRECT BURIED CONDUIT INSTALLATION
+
+7.1 There shall be a minimum of 2-inch spacing
+maintained between all adjacent conduits. Duct spacers or 2-
+inch sand layers shall be used if conduits are placed on the
+top of each other. Refer to sscTioN1IO of this Appendix for
+requirements relating to duct spacers.
+
+7.2 The trench must be uniformly graded and the
+bottom shall be smooth and rock free. In the event of a rocky
+bottom, a 4-inch bed of sand or sand slurry will be required.
+
+8. ENCASED BURIED CONDUIT INSTALLATION
+
+8.1(a) Maintain a minimum of 2-inch spacing
+between adjacent conduits.
+
+8.1(b) Maintain a minimum of 3-inch and a maximum
+of 6-inch concrete cover on top, bottom, and sides of a single
+
+L£
+
+conduit or around a group of conduits in a duct-bank.
+
+8.1(c) For spacer specifications refer to — SECTION 10
+of this Appendix.
+
+8.2 Tie and fasten all conduits in a multi conduit
+run with "All-State Nylon Cable Ties", catalog No. 12050, or
+equivalent to prevent floating.
+
+- 43 -
+
+
+=== PAGE 45 ===
+8.3 Whenever smaller diameter conduits are placed
+in spacers intended for larger size conduits, all such
+conduits shall be securely tied to the spacers with ‘‘All1-
+States Nylon Cable Ties", Catalog No. 12050, or eguivalent.
+This is to provide lateral stability to the spacers and to
+avoid floating of the smaller diameter conduits during the
+concret ncasement process.
+
+8.4 The concrete for encasement shall not be
+placed until the conduit has been inspected and approved by
+the Department representative in accordance with SscTION AS of
+Specifications 104.
+
+9. CONDUIT FITTINGS
+
+9.1 Reducer couplings shall be used when changes
+in conduit sizes are required.
+
+9.2 Adapter couplings shall be used to convert
+between different types of conduit.
+
+9.3 Slip couplings shall be used to join conduits
+of the same diameter coming from opposite directions to the
+same point.
+
+10. SPACERS FOR CONDUIT INSTALLATION
+
+10.1 Duct spacers should be of a type recommended
+by conduit manufacturers and approved by the Department of
+Water and Power. The maximum span between duct spacers for
+each duct size is listed below:
+
+Span Between Spacers
+
+Duct Size (inches) Spacing (feet)
+3 8
+4 to 6 6
+
+10.2 All conduit spacers shall be self-supporting
+and shall not transmit a vertical load to any conduit.
+
+10.3 Conduits, when installed inside a bridge cell
+or suspended under a bridge shall be supported by Reinforced
+Plastic Mortar (RPM) spacers or hangers. The dimensions and
+the spacing of the supports shall be in accordance with the
+applicable Department Standard drawing(s) G-356, H-223 or H-
+247, latest revisions.
+
+-44-
+
+
+=== PAGE 46 ===
+11. CONDUIT TERMINATION
+
+*11.1 All conduit termination in ground (dead ends)
+shall be constructed in accordance with Department Standard
+Number 1-120.1, latest revision.
+
+11.2 All DB and EB conduits shall enter vaults,
+maintenance holes, and handholes perpendicular to the wall
+and shall terminate with end bells or duct terminators (end
+bells or duct terminators are not reguired for 1, 2 and 3
+inch conduits). The end bells or duct terminators shall be
+flush with the inside face of the knockout, and shall be
+rounded and smooth. No rough edges will be accepted.
+
+11.3 Cap all free conduit ends at the dead-end
+points with tapered polyethylene plugs with a nipple. The
+tapered polyethylene plugs shall be securely taped to the PVC
+conduit with reinforced tape. Use Jack Moon Company, limited
+(JMC) Blank Duct Plugs with nipple or equivalent in place of
+the tapered polyethylene plugs in high water table areas,
+clayey soil, or as directed by the Department representative.
+
+11.4 Cap all free conduit ends, inside precast
+concrete pad-mount hand-holes, with plastic plugs with a
+nipple.
+
+11.5 Cap all end bells or duct terminators, inside
+pre-cast concrete vaults, maintenance holes and regular
+hand-hole substructures with JMC Blank Duct Plugs with
+nipple or equivalent.
+
+-45-
+
+
+=== PAGE 47 ===
+CITY OF LOS ANGELES
+DEPARTMENT OF WATER AND POWER
+POWER DISTRIBUTION DIVISION
+
+APPENDIX II _ TO SPECIFICATIONS 104
+
+Reference Tables
+* (Revised 03-23-2021)
+
+Table 1: Concrete Ready-Mix Specifications
+
+Application Mix Type Specification
+
+Vaults/MH/HH/TP
+
+330-C-1700
+or 420-D-1700
+
+DWP 3000-1.0
+
+Barrier Posts
+
+Pour in Place Structure Mix
+Concrete Collar Around
+Structure
+
+Conduit Anchor Next to
+structure
+
+DWP 3000-1.0 C702-50
+
+330-C-1700
+or 420-D-1700
+
+Fill the gap between neck
+
+rings>1 4” DWP 3000-1.0
+
+Fill the gap between neck Dry Pack Grout
+
+rings<1 /4”
+
+(Non-Shrinkable)
+
+High water area. Grout on the
+joints and unused ground rod
+locations
+
+Hydraulic Cement
+(Non-Shrinkable)
+
+ASTM C-1107
+
+Conduit Construction
+
+Encasement
+
+330-C-1700 or
+420-D-1700
+
+C702-50
+
+Encasement- Pump Mix
+
+565-E-2000P
+
+SSPWC Sect 201
+
+Slurry Backfill
+
+Conduit & Structures in City
+Streets
+
+100-E-100
+
+SSPWC Sect 201
+
+Conduits & Structures in State
+Highways
+
+2-Sack Slurry
+
+-46-
+
+State Approved
+
+Note: For Job-Site Concrete Hand-Mix Specifications, See Standard Drawing No. C702-50
+
+
+=== PAGE 48 ===
+Table 2: Depth Specifications for Conduit and Substructure Installations
+
+Item
+
+Application
+Description
+
+Below 600V
+(I)
+
+Over 600V (I)
+
+Vaults & MH
+
+Street Light
+Conduit
+
+Private
+Property,
+Landscaped
+
+24 inches min.
+clearance below
+finished surface
+
+36 inches min.
+clearance below
+finished surface
+
+(III)
+
+18 inches min.
+clearance below
+finished surface
+
+aI)
+
+24 inches min.
+clearance
+
+Private
+Property,
+Paved
+
+24 inches min.
+clearance below
+finished surface
+
+30 inches min.
+clearance below
+finished surface
+
+(III)
+
+18 inches min.
+clearance below
+finished surface
+
+I)
+
+24 inches min.
+clearance
+
+Property Line
+Dead Ends
+
+30 inches min.
+clearance below
+gutter grade
+
+30 inches min.
+clearance below
+gutter grade
+
+N/A
+
+24 inches min.
+clearance
+
+Public
+Property,
+Paved
+
+30 inches min.
+clearance below
+gutter grade
+
+30 inches min.
+clearance below
+gutter grade
+
+18 inches min.
+clearance below
+
+finished surface (II)
+
+Public
+Property
+Unpaved or
+Parkway
+
+30 inches min.
+clearance below
+finished surface
+
+36 inches min.
+clearance below
+finished surface
+
+24 inches min.
+clearance below
+finished surface
+
+aI)
+
+30 inches min.
+clearance (IV)
+
+State
+Highway
+Paved or
+Unpaved
+
+42 inches min.
+clearance below
+finished surface
+
+42 inches min.
+clearance below
+finished surface
+
+42 inches min.
+clearance below
+finished surface
+
+aI)
+
+42 inches min.
+clearance (IV)
+
+Railroad
+Crossings
+(Light Rail)
+
+42 inches min.
+clearance below
+base of the
+lowest rail
+
+(V)
+
+42 inches min.
+clearance below
+base of the
+lowest rail
+
+(V)
+
+42 inches min.
+clearance below
+base of the
+lowest rail (IV)
+(V)
+
+Notes:
+
+Railroad
+Crossings
+(Heavy Rail)
+
+66 inches min.
+clearance below
+base of the
+lowest rail
+
+66 inches min.
+clearance below
+base of the
+lowest rail
+
+66 inches min.
+clearance below
+base of the
+lowest rail (IV)
+
+All clearances are to the top of conduit in direct buried or over the concrete encasement in
+
+encased buried. All depths shall be as specified herein or as requested by the excavation permit.
+
+Any conduit or conduit duct-bank that will only house cables intended to carry loads of less than 600
+volts shall not be encased in concrete, unless requested by the Department Representative or as
+otherwise noted on the construction drawing(s). Any conduit or conduit duct-bank that will house
+at least one (1) 600 volts or higher voltage cables shall be encased in concrete (330-C-1700 or
+equal). For residential tracts and private properties only, any conduit belonging to another utility and
+sharing the same trench (Joint Trench) with LADWP conduit(s) shall not be encased in concrete and
+
+I.
+
+shall comply with SUBSECTION E-4 of Specifications No. 104.
+
+-47-
+
+
+=== PAGE 49 ===
+Il. For substructure installations, all clearances are to the highest point on the roof of the structure and
+shall not exceed 48 inches.
+
+Ill. This depth requirement applies to any conduit or conduit duct-bank housing 600 volts and higher
+voltage cables in private property except for any conduit section or conduit duct-bank within 20 feet
+from the outside wall of the hand-hole, transformer pad or switchgear pad not meeting this depth
+requirement; cover for this section(s) shall be 24 inches minimum clear below finished surface or as
+otherwise noted.
+
+IV. This depth requirement is for the service conduit that serves the street lighting pull box from LADWP
+main line conduit system, for regular street light conduit installation please check with Bureau of Street
+Light or the City Inspector.
+
+V. The minimum depth can be increased if required by rail road company,
+
+Table 3: Conduit Bend Radius Specifications
+
+Min Radius*
+[ft]
+
+Main Line in Public Property All 12.5
+
+Service Conduits, Public or Private
+
+Property
+
+Service Conduit, Public or Private
+
+Property
+
+Pole Dip Sweep (Risers), Galvanized or
+
+PVC
+
+Pole Dip Sweep (Risers), Galvanized or
+
+PVC
+
+Field Bends if Required All
+
+Application/ Description Conduit Size
+
+Up to 4” Dia.
+
+Over 4” Dia.
+
+Up to 4” Dia.
+
+Over 4” Dia.
+
+* Unless otherwise noted on the construction drawings
+
+-48-
+

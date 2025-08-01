@@ -1,0 +1,575 @@
+=== PAGE 1 ===
+LADWP ELECTRIC SERVICE REQUIREMENTS PAGE 2-223
+CITY OF LOS ANGELES DEPARTMENT OF WATER AND POWER
+DATA SHEET FOR 400 AMPERE (CLASS 320) RESIDENTIAL METERING PANELS Date 11-15-22
+Sheet 1 of 7
+
+The following list of residential 400 ampere (class 320) meter panels have been approved for use in the Department's service
+area. The panel designs have been reviewed and confirmed to the respective manufacturers as complying with the
+Department's service requirements. This list is provided only as a guideline and is not intended to guarantee or warranty
+specific panels purchased and installed by customers.
+
+ATTENTION: If problems are encountered with the devices listed below, or if devices not listed are installed, contact Kurt
+Radke at (818) 771-3623.
+
+Produced OH/ UG Model Dimensions (See note1) | eeeseseses—si‘sSsSsSSSSSY
+sa ve
+distribution.
+
+oe 24 x 38 x6 One factory installed 400 ampere breaker, no
+distribution.
+Panel equipped with bypass studs located on the
+termination bus units above the termination studs.
+
+U4042MC/22K 24 x 38 x6 Two 200 ampere factory installed breakers, no
+distribution.
+
+U4042MCC/22K 24 x 38 x6 Two 200 ampere factory installed breakers, no
+distribution.
+Panel equipped with bypass studs located on the
+termination bus units above the termination studs.
+
+U4042PMC 24 x 38 x6 Provided with provisions for two field installed 200
+ampere breakers, no distribution.
+
+U4042PMCC 24 x 38 x6 Provided with provisions for two field installed 200
+ampere breakers, no distribution.
+Panel equipped with bypass studs located on the
+termination bus units above the termination studs.
+
+U404206PMC/22K 24 x 38 x6 One factory installed 200 ampere breaker and
+provision for one field installed 60 ampere
+(maximum) breaker, no distribution.
+
+U404206PMCC/22K 24 x 38 x6 One factory installed 200 ampere breaker and
+
+provision for one field installed 60 ampere
+(maximum) breaker, no distribution.
+
+Panel equipped with bypass studs located on the
+termination bus units above the termination studs.
+
+UG U404430MC 34x47 x6 One factory installed 400 ampere breaker with
+distribution.
+
+U404430MCC 34x 47x6 One factory installed 400 ampere breaker with
+distribution.
+Panel equipped with bypass studs located on the
+termination bus units above the termination studs.
+
+a | eee x 38 x6 One factory installed 200 ampere breaker with
+distribution and provision for one field installed 200
+ampere breaker for remote distribution.
+
+ee oe x 38 x6 One factory installed 200 ampere breaker with
+distribution and one 200 ampere breaker for remote
+distribution.
+Panel equipped with bypass studs located on the
+termination bus units above the termination studs.
+
+U4042208MC 30 x 38 x6 One factory installed 200 ampere breaker with
+distribution and one 200 ampere factory installed
+breaker for remote distribution.
+
+U4042208MCC 30 x 38 x6 One factory installed 200 ampere breaker with
+distribution and one 200 ampere factory installed
+breaker for remote distribution.
+
+Panel equipped with bypass studs located on the
+termination bus units above the termination studs.
+
+
+
+=== PAGE 2 ===
+LADWP ELECTRIC SERVICE REQUIREMENTS PAGE 2-291
+CITY OF LOS ANGELES DEPARTMENT OF WATER AND POWER
+
+DATA SHEET FOR 400 AMPERE (CLASS 320) RESIDENTIAL METERING PANELS Date 02-17-10
+
+Sheet 2 of 7
+Produced OH/ UG Model Dimensions (See note 1)
+Numbers Wx H xDD (inches)
+Sooper = Line U40411230MC 30 x 38 x6 One factory installed breaker with distribution and
+(Cont.) provisions for two field installed 100 ampere
+breakers for remote distribution.
+
+U40411230MCC 30 x 38 x6 One factory installed breaker with distribution and
+provisions for two field installed 100 ampere
+breakers for remote distribution.
+
+Panel equipped with bypass studs located on the
+termination bus units above the termination studs.
+
+Comments:
+
+All panels listed are surface mount. See kits below
+for flush mount installations.
+
+Available short circuit rating :
+
+All panels are rated 22/10 kiac except panels
+ending with /22K are also available at 10 kiac.
+Only /22K panels are acceptable.
+
+Kits and conversions
+
+CK8326 8x 32x6 Side-mounted wireway used to convert UG models
+to OH supply.
+
+FK2438 Semi-flush mounting kits used to convert surface
+
+FK3038 mounted panels to semi-flush installations
+
+FK3447
+
+Cutler-Hammer UG HP404040SH 30x 44 x 6 One factory installed 200 ampere breaker with
+
+distribution and provision for one field installed 200
+ampere breaker for remote distribution.
+
+HP40SH 30x 44x6 Two factory installed 200 ampere breakers, no
+distribution.
+
+| HPA 30x 44x6 One factory installed 400 ampere breaker,
+distribution.
+
+a 30 x 44x6 One factory installed 400 ampere breaker with
+distribution.
+
+Comments:
+
+Available short circuit rating:
+All panels are rated 22/10 kiac
+All field installed main breakers shall be 22kiac.
+
+Phase bus terminations are angled toward bottom
+center of the pull section.
+
+eee a ane conversions:
+
+——————————————————————— 6-3/4 x 44 x6 Side-mounted wireway used to convert UG models
+to OH supply. Requires that the meter panel be
+surface mounted.
+
+HP2NDMNKIT Kit converts a 400 ampere panel to a straight 300
+ampere panel. Includes replacement 300 ampere
+label.
+
+distributor
+
+ee 30-1/4 x 40 x6 1-factory installed 200 ampere breaker with
+distribution and provision for 1-field installed 200
+ampere breaker for remote distribution.
+
+TSDA2432UC42 30-1/4 x 40 x6 1-factory installed 200 ampere breaker with
+(320 ampere) distribution and 1-factory installed 125 ampere
+breaker for remote distribution.
+
+Panel equipped with bypass studs located on the
+termination bus units above the termination studs.
+
+
+
+=== PAGE 3 ===
+LADWP ELECTRIC SERVICE REQUIREMENTS PAGE 2-291
+CITY OF LOS ANGELES DEPARTMENT OF WATER AND POWER
+
+DATA SHEET FOR 400 AMPERE (CLASS 320) RESIDENTIAL METERING PANELS Date 11-18-22
+
+Sheet 3 of 7
+
+Protuced OH/ UG Model Dimensions (See note 1)
+Numbers WxH x D (inches)
+
+General Electric TSDA2440UC42 30-1/4 x 40 x6 1-factory installed 200 ampere breaker with
+(Cont.) distribution and 1-factory installed 200 ampere
+breaker for remote distribution.
+Panel equipped with bypass studs located on the
+termination bus units above the termination studs.
+
+Available short circuit rating;
+
+TM (400): 22/10 kiac
+TMH (200/200): 22/10 kiac
+TSDA (200/125) 22/10kiac
+TSDA (200/200) = 22/10 kiac
+
+All field installed main breakers shall be 22kiac.
+
+Kits and conversions: None
+
+M400-UG-APS 22-1/8 x 36 x 6 Two factory installed 200 ampere breakers, no
+distribution. See Note 2.
+
+vu UG-APS-LC pe x 40 x6 One factory installed 200 ampere breaker with
+distribution and provision for one field installed 200
+ampere breaker for remote distribution.
+
+ee UG-APS-P 1/8 x 36 x6 Two factory installed 200-ampere T-Fuse pull-outs,
+no distribution.
+Pull section is located on the left side with meter
+located over the customer section on the right side.
+
+M400-APS 9-1/2 x 47-1/2 x 6-1/8 Two factory installed 200 ampere breakers, no
+distribution.
+
+Comments:
+
+Available short-circuit rating:
+
+Breakers: All models listed are dual rated for 10
+kiac and 22 kiac with the rating
+dependent on the breaker used.
+Breaker info is listed on the mfg.
+label.
+
+T-Fuse pull-outs: 10 kiac
+
+All field installed main breakers shall be 22kiac.
+
+Kits and conversions:
+
+OH K4787-R 8x 36 x6 Side-mounted wireway used to covert UG panels to
+OH supply. Requires that the meter panel be
+surface mounted.
+
+UG JL230S 30-1/4 x 40-5/8 x 6-1/4 One factory installed 200 ampere breaker with
+distribution and provision for one field installed 200
+ampere breaker for remote distribution.
+
+Only units with a production date of 01/31/06 or
+later are acceptable. The production date label
+is located in the distribution section.
+
+UG JL230RS 30-1/4 x 40-5/8 x 6-1/4 One factory installed 200 ampere breaker with
+distribution and provision for one field installed 100
+ampere breaker for remote distribution.
+
+This panel is built on the 320 ampere frame but is
+actually a 300 ampere rated device.
+
+Only units with a production date of 01/31/06 or
+later are acceptable. The production date label
+is located in the distribution section.
+
+
+
+=== PAGE 4 ===
+LADWP ELECTRIC SERVICE REQUIREMENTS PAGE 2-291
+CITY OF LOS ANGELES DEPARTMENT OF WATER AND POWER
+
+DATA SHEET FOR 400 AMPERE (CLASS 320) RESIDENTIAL METERING PANELS Date 11-18-22
+
+Sheet 4 of 7
+
+Produced OH/ UG Model Dimensions (See note 1)
+By Numbers W x H x D (inches) Comments
+30-1/4 x 40-5/8 x 6-1/4 One factory installed 400 ampere breaker with
+distribution.
+
+Only units with a production date of 01/31/06 or
+later are acceptable. The production date label
+is located in the distribution section.
+
+JA0816B1400FD 30-1/8 x 39-3/4 x 7-2/5 One factory installed 200 ampere breaker with
+distribution and provision for one field installed 200
+ampere breaker for remote distribution. Flush
+mounted.
+
+JA0816B1400FDS 30-1/8 x 39-3/4 x 7-2/5 One factory installed 200 ampere breaker with
+distribution and provision for one field installed 200
+ampere breaker for remote distribution. Flush
+mounted.
+
+Panel equipped with bypass studs located on the
+termination bus units above the termination studs.
+
+JA3042B1400SD 30-1/8 x 39-3/4 x 6-2/5 One factory installed 200 ampere breaker with
+distribution and provision for one field installed 200
+ampere breaker for remote distribution. Surface
+mounted.
+
+JA3042B1400FD 30-1/8 x 39-3/4 x 7-2/5 One factory installed 200 ampere breaker with
+distribution and provision for one field installed 200
+ampere breaker for remote distribution. Flush
+mounted.
+
+JA3042B1400SDS 30-1/8 x 39-3/4 x 6-2/5 One factory installed 200 ampere breaker with
+distribution and provision for one field installed 200
+ampere breaker for remote distribution. Surface
+mounted.
+
+Panel equipped with bypass studs located on the
+termination bus units above the termination studs.
+
+JA3042B1400FDS 30-1/8 x 39-3/4 x 7-2/5 One factory installed 200 ampere breaker with
+distribution and provision for one field installed 200
+ampere breaker for remote distribution. Flush
+mounted.
+
+Panel equipped with bypass studs located on the
+termination bus units above the termination studs.
+
+JC0404L1400FDS 30-1/8 x 39-3/4 x 7-2/5 Provisions for two field installed 200 ampere
+breakers for remote distribution. Flush mounted.
+
+Panel equipped with bypass studs located on the
+termination bus units above the termination studs.
+
+JC0404L1400FD 30-1/8 x 39-3/4 x 7-2/5 Provisions for two field installed 200 ampere
+breakers for remote distribution. Flush mounted.
+
+Panel equipped with bypass studs located on the
+termination bus units above the termination studs.
+
+One factory installed 200 ampere breaker with
+distribution and provision for one field installed 200
+
+ampere breaker for remote distribution. Surface
+mounted.
+
+33-1/8 x 39-3/4 x 6-25 One factory installed 200 ampere breaker with
+distribution and provision for one field installed 200
+ampere breaker for remote distribution. Surface
+mounted.
+
+33-1/8 x 39-3/4 x 6-25 One factory installed 200 ampere breaker with
+distribution and provision for one field installed 200
+
+ampere breaker for remote distribution. Surface
+mounted.
+
+
+
+=== PAGE 5 ===
+LADWP ELECTRIC SERVICE REQUIREMENTS PAGE 2-291
+CITY OF LOS ANGELES DEPARTMENT OF WATER AND POWER
+
+DATA SHEET FOR 400 AMPERE (CLASS 320) RESIDENTIAL METERING PANELS Date 11-18-22
+
+Sheet 5 of 7
+
+Produced OH/ UG Model Dimensions (See note 1)
+By Numbers W x H x D (inches) Comments
+JA0816B1400SCS 33-1/8 x 39-3/4 x 6-25 One factory installed 200 ampere breaker with
+distribution and provision for one field installed 200
+
+ampere breaker for remote distribution. Surface
+mounted.
+
+Panel equipped with bypass studs located on the
+termination bus units above the termination studs.
+
+JC0404L1400SCS 33-1/8 x 39-3/4 x 6-25 One factory installed 200 ampere breaker with
+distribution and provision for one field installed 200
+ampere breaker for remote distribution. Surface
+mounted.
+
+Panel equipped with bypass studs located on the
+termination bus units above the termination studs.
+
+JA3042B1400SCS 33-1/8 x 39-3/4 x 6-25 One factory installed 200 ampere breaker with
+distribution and provision for one field installed 200
+ampere breaker for remote distribution. Surface
+mounted.
+
+Panel equipped with bypass studs located on the
+termination bus units above the termination studs.
+
+Comments:
+
+Available short circuit rating:
+All panels listed are 22 kiac..
+All field installed main breakers shall be 22kiac.
+
+Kits and conversions: none
+
+Siemens MC3040MB22 30-1/4 x 40-5/8 x 6-1/4 One factory installed 200 ampere breaker with
+distribution and provisions for one field installed
+200 ampere breaker for remote distribution.
+Only units with a production date of 01/31/06 or
+later are acceptable. The production date label is
+located in the distribution section.
+
+UG MC3040MB21 30-1/4 x 40-5/8 x 6-1/4 One factory installed 200 ampere breaker with
+
+distribution and provisions for one field installed
+100 ampere breaker for remote distribution.
+This panel is built on the 320 ampere frame but is
+actually a 300 ampere rated device.
+Only units with a production date of 01/31/06 or
+later are acceptable. The production date label is
+located in the distribution section.
+
+UG MC0816B1400FD 30-1/8 x 39-3/4 x 7-2/5 One factory installed 200 ampere breaker with
+distribution and provision for one field installed 200
+
+ampere breaker for remote distribution. Flush
+mounted.
+
+UG MC0816B1400FDS 30-1/8 x 39-3/4 x 7-2/5 One factory installed breaker with distribution and
+provision for one field installed 200 ampere breaker
+for remote distribution. Flush mounted.
+
+Panel equipped with bypass studs located on the
+termination bus units above the termination studs.
+
+UG MC3042B1400SD 30-1/8 x 39-3/4 x 6-2/5 One factory installed200 ampere breaker with
+distribution and provision for one field installed 200
+ampere breaker for remote distribution. Surface
+mounted.
+
+MC3042B1400FD 30-1/8 x 39-3/4 x 7-2/5 One factory installed 200 ampere breaker with
+distribution and provision for one field installed 200
+ampere breaker for remote distribution. Flush
+mounted.
+
+MC3042S1400FC 39-1/4 x 39-1/2 x 7-1/2 One factory installed 200 ampere breaker with
+
+MC3042S1400SD distribution and provision for one field installed 200
+ampere breaker for remote distribution. Flush
+Mounted (FC), Surface Mounted (SD).
+
+Solar Ready, solar breaker field installed up to 200A
+located in separate compartment left side of meter
+socket.
+
+
+
+=== PAGE 6 ===
+LADWP ELECTRIC SERVICE REQUIREMENTS PAGE 2-22i
+CITY OF LOS ANGELES DEPARTMENT OF WATER AND POWER
+DATA SHEET FOR 400 AMPERE (CLASS 320) RESIDENTIAL METERING PANELS Date 11-18-22
+Sheet 6 of 7
+Produced OH/ UG Model Dimensions (See note 1)
+By Numbers W x H x D (inches) Comments
+Siemens UG MC3042B1400SDS 30-1/8 x 39-3/4 x 6-2/5 One factory installed 200 ampere breaker with
+(Cont.) distribution and provision for one field installed 200
+
+ampere breaker for remote distribution. Surface
+mounted.
+
+Panel equipped with bypass studs located on the
+termination bus units above the termination studs.
+
+MC3042B1400FDS 30-1/8 x 39-3/4 x 7-2/5 One factory installed 200 ampere breaker with
+distribution and provision for one field installed 200
+ampere breaker for remote distribution. Flush
+mounted.
+
+Panel equipped with bypass studs located on the
+termination bus units above the termination studs.
+MM0404L1400FDS 30-1/8 x 39-3/4 x 7-2/5 Provisions for two field installed 200 ampere
+breakers for remote distribution. Flush mounted.
+Panel equipped with bypass studs located on the
+termination bus units above the termination studs.
+MM0404L1400FD 30-1/8 x 39-3/4 x 7-2/5 Provisions for two field installed 200 ampere
+breakers for remote distribution. Flush mounted.
+
+Panel equipped with bypass studs located on the
+termination bus units above the termination studs.
+
+MC2442B1400SD 30-1/4 x 39-1/2 x 6-1/8 One factory installed 400 ampere breaker with
+distribution. Surface mounted.
+MC0816B1400SC 33-1/8 x 39-3/4 x 6-25 One factory installed 200 ampere breaker with
+
+distribution and provision for one field installed 200
+ampere breaker for remote distribution. Surface
+
+mounted.
+
+UG/OH MM0404L1400SC 33-1/8 x 39-3/4 x 6-25 One factory installed 200 ampere breaker with
+distribution and provision for one field installed 200
+ampere breaker for remote distribution. Surface
+mounted.
+
+UG/OH MC3042B1400SC 33-1/8 x 39-3/4 x 6-25 One factory installed 200 ampere breaker with
+distribution and provision for one field installed 200
+ampere breaker for remote distribution. Surface
+mounted.
+
+UG/OH MC0816B1400SCS 33-1/8 x 39-3/4 x 6-25 One factory installed 200 ampere breaker with
+distribution and provision for one field installed 200
+ampere breaker for remote distribution. Surface
+mounted.
+
+Panel equipped with bypass studs located on the
+termination bus units above the termination studs.
+
+UG/OH MM0404L1400SCS 33-1/8 x 39-3/4 x 6-25 One factory installed 200 ampere breaker with
+distribution and provision for one field installed 200
+ampere breaker for remote distribution. Surface
+mounted.
+
+Panel equipped with bypass studs located on the
+termination bus units above the termination studs.
+
+UG/OH MC3042B1400SCS 33-1/8 x 39-3/4 x 6-25 One factory installed 200 ampere breaker with
+distribution and provision for one field installed 200
+ampere breaker for remote distribution. Surface
+mounted.
+
+Panel equipped with bypass studs located on the
+termination bus units above the termination studs.
+
+Comments:
+
+Available short circuit rating: All panels listed are
+22 kiac.
+All field installed main breakers shall be 22kiac.
+
+Kits and conversions: none
+
+
+=== PAGE 7 ===
+LADWP ELECTRIC SERVICE REQUIREMENTS PAGE 2-291
+CITY OF LOS ANGELES DEPARTMENT OF WATER AND POWER
+
+DATA SHEET FOR 400 AMPERE (CLASS 320) RESIDENTIAL METERING PANELS Date 02-17-10
+
+Sheet 7 of 7
+Produced OH/ UG Model Dimensions (See note 1)
+By Numbers W x H x D (inches) Comments
+Square D SU3040D400CN 28-1/4 x 43 x 7-7/8 One factory installed 200 ampere breaker with
+distribution and provision for one field installed 200
+ampere breaker for remote distribution.
+
+$U3040D400CB 28-1/4 x 43 x 7-7/8 One factory installed 200 ampere breaker with
+
+distribution and provision for one field installed 200
+ampere breaker for remote distribution.
+Panel equipped with bypass studs located on the
+termination bus units above the termination studs.
+
+UG SU3040D300CN 28-1/4 x 43 x 7-7/8 One factory installed 200 ampere breaker with
+distribution and provision for one field installed 100
+ampere breaker for remote distribution.
+This panel is built on the 320 ampere frame but is
+actually a 300 ampere rated device.
+
+UG CUM400CB 28-1/4 x 43 x 7-7/8 One factory installed 400 ampere breaker with
+provisions for two field installed 200 ampere sub-
+breakers.
+
+Panel equipped with bypass studs located on the
+termination bus units above the termination studs.
+
+Comments:
+
+Available short circuit rating:
+All panels listed are 22/10 kiac
+
+All field installed main breakers shall be 22kiac.
+
+Kits and conversions (continued next page):
+
+OH OCK400 7-3/8 x 41-1/8 x 7-7/8 Side-mounted wireway used to covert UG panels to
+OH supply. Requires that the meter panel be
+surface mounted.
+
+a CSS
+
+Notes:
+1. Dimensions are approximate and are intended as a guide only. Consult manufacturer’s catalog for actual enclosure
+dimensions.
+

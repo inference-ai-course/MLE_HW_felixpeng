@@ -1,0 +1,1234 @@
+=== PAGE 1 ===
+PAGE 4 ELECTRIC SERVICE REQUIREMENTS LADWP
+
+CITY OF LOS ANGELES DEPARTMENT OF WATER AND POWER
+
+Date: 10-17-23 SMART INVERTER TECHNICAL REQUIREMENTS
+
+Technical Requirements from Rule 21 for LADWP Implementation
+
+Definitions
+
+Capitalized terms used in these requirements, and not defined in LADWP’s Rules, ESR, or other tariffs
+shall have the meaning ascribed to such terms as follows below. The definitions set forth below in these
+requirements shall only apply to these requirements and LADWP interconnection studies, and may not
+apply to LADWP’s other documents.
+
+Anti-Islanding: A control scheme installed as part of the Generating or Interconnection Facility that
+senses and prevents the formation of an Unintended Island.
+
+Applicant: The entity submitting an Interconnection Request pursuant to these requirements.
+
+Certification Test: A test pursuant to these requirements that verifies conformance of certain equipment
+with Commission-approved performance standards in order to be classified as Certified Equipment.
+Certification Tests are performed by Nationally Recognized Test Laboratories (NRTLs).
+
+Certified: The documented results of a successful Certification Testing.
+Certified Equipment: Equipment that has passed all required Certification Tests.
+Commission: The Public Utilities Commission of the State of California.
+
+Continuous Operation: The Smart Inverter operates indefinitely without tripping. Any functions that
+protect the Smart Inverter from damage may operate as needed.
+
+Customer: The entity that receives or is entitled to receive energy through LADWP’s Distribution System
+or is a retail Customer of LADWP. The Customer is the owner, whether a person or business association,
+or any person or agency authorized to represent the owner's interests.
+
+dbor: A single-sided deadband value for high-frequency in Hz.
+dbur: A single-sided deadband value for low-frequency in Hz.
+
+Distributed Energy Resource (DER): A source of electric power that is not directly connected to a bulk
+power system. DER includes both generators and energy storage technologies capable of exporting
+active power to an EPS. An interconnection system or a supplemental DER device that is necessary for
+compliance with this standard is part of a DER.
+
+DER Interconnection System: The collection of all interconnection and interoperability equipment and
+functions, taken as a group, used to interconnect a DER to an Area EPS.
+
+Distribution System: All electrical wires, equipment, and other facilities owned or provided by LADWP,
+other than Interconnection Facilities, by which LADWP provides energy to its Customers.
+
+Emergency: Whenever in LADWP’s discretion an Unsafe Operating Condition or other hazardous
+condition exists or whenever access is necessary for emergency service restoration, and such immediate
+action is necessary to protect persons, LADWP’s facilities or property of others from damage or
+interference caused by Applicant's Generating Facility, or the failure of protective device to operate
+properly, or a malfunction of any electrical system equipment or a component part thereof.
+
+
+=== PAGE 2 ===
+LADWP ELECTRIC SERVICE REQUIREMENTS PAGE 2
+
+CITY OF LOS ANGELES DEPARTMENT OF WATER AND POWER
+
+SMART INVERTER TECHNICAL REQUIREMENTS Date: 10-17-23
+
+Enter Service Delay: The period of time the Smart Inverter waits before beginning operation of the
+Generating Facility in parallel with the Distribution System.
+
+Electric Power System (EPS): Facilities that deliver electric power to a load. An EPS may include
+generation units.
+
+Function: Some combination of hardware and software designed to provide specific features or
+capabilities. Its use, as in Protective Function, is intended to encompass a range of implementations from
+a single-purpose device to a section of software and specific pieces of hardware within a larger piece of
+equipment to a collection of devices and software.
+
+Generating Facility: All Generators, electrical wires, equipment, and other facilities, excluding
+Interconnection Facilities, owned or provided by Producer for the purpose of producing electric power,
+including storage.
+
+Generator: A device converting mechanical, chemical, or solar energy into electrical energy, including all
+of its protective and control functions and structural appurtenances. One or more Generators comprise a
+Generating Facility.
+
+Host Load: The electrical power, less the Generator auxiliary load, consumed by the Customer, to which
+the Generating Facility is connected.
+
+Interconnection: The physical connection of a Generating Facility in accordance with these requirements
+so that Parallel Operation with LADWP’s Distribution System can occur (has occurred).
+
+Interconnection Agreement: An agreement between LADWP and Producer providing for the
+Interconnection of a Generating Facility that gives certain rights and obligations to effect or end
+Interconnection. For the purpose of these requirements, Net Energy Metering or power purchase
+agreements authorized by LADWP are also defined as Interconnection Agreements.
+
+Interconnection Facilities: The electrical wires, switches and related equipment that are required in
+addition to the facilities required to provide or receive electric energy to a Customer to allow
+Interconnection. Interconnection Facilities may be located on either side of the Point of Common Coupling
+as appropriate to their purpose and design. Interconnection Facilities may be integral to a Generating
+Facility or provided separately. Interconnection Facilities may be owned by either Producer or LADWP.
+
+Interconnection Request: An Applicant’s request to interconnect a new Generating Facility or to make a
+Material Modification to the operating characteristics of, an existing Generating Facility that is
+interconnected with LADWP’s Distribution System.
+
+Island; Islanding: A condition on LADWP’s Distribution System in which one or more Generating
+Facilities deliver power to Customers using a portion of LADWP’s Distribution System that is electrically
+isolated from the remainder of LADWP’s Distribution System.
+
+Kor: The per-unit frequency change corresponding to 1 per-unit power output change (frequency droop)
+
+kur: The per-unit frequency change corresponding to 1 per-unit power output change (frequency droop)
+
+Local DER Generating Facility Communication Interface: Interface at the Generating
+
+Facility capable of communicating to support the information exchange requirements specified
+
+in these Requirements and as required in IEEE 1547-2018 for all applicable functions that are in these
+Requirements.
+
+
+=== PAGE 3 ===
+PAGE 3 ELECTRIC SERVICE REQUIREMENTS LAD WP
+
+CITY OF LOS ANGELES DEPARTMENT OF WATER AND POWER
+
+Date: 10-17-23 SMART INVERTER TECHNICAL REQUIREMENTS
+
+Los Angeles Department of Water and Power (LADWP): The distribution service provider.
+
+Mandatory Operation: The Smart Inverter operates at maximum available current without tripping during
+LADWP’s Transmission or Distribution System excursions outside the region of Continuous Operation.
+Any functions that protect the Smart Inverter from damage may operate as needed.
+
+Material Modification: Those modifications that have a material impact on cost or timing of any
+Interconnection Request with the same or a later queue priority date, or a change in Point of
+Interconnection, or a Type II Modification that requires a new Interconnection Request. A Material
+Modification does not include (i) a change in ownership of a Generating Facility, (ii) a Type | Modification,
+or (iii) a Type Il Modification that does not require a new Interconnection Request.
+
+Momentary Cessation: The Smart Inverter momentarily reduces current output to LADWP’s Distribution
+System to below 10 percent of the maximum continuous output current rating. The Smart Inverter is
+allowed to increase current output to LADWP'’s Distribution System without any intentional reconnection
+delay once voltage exits the Momentary Cessation region and enters a Permissive Operation region or
+Continuous Operation region.
+
+Momentary Parallel Operation: The Interconnection of a Generating Facility to the Distribution System
+for one second (60 cycles) or less.
+
+Nationally Recognized Testing Laboratory (NRTL): A laboratory accredited to perform the Certification
+Testing requirements under these requirements. A NRTL is a private organization that applies its own
+unique registered certification mark after performing product safety tests on certain products according to
+a proprietary set of testing standards.
+
+Net Energy Metering (NEM): Metering for the receipt and delivery of electricity between Producer and
+LADWP.
+
+Nominal: Standard frequency and voltage.
+
+Non-Emergency: Conditions or situations that are not Emergencies, including but not limited to meter
+reading, inspection, testing, routine repairs, replacement, and maintenance.
+
+Non-Islanding: Designed to detect and disconnect from a stable Unintended Island with matched load
+and generation. Reliance solely on under/over voltage and frequency trip is not considered sufficient to
+qualify as Non-lIslanding.
+
+Open Loop Response Time: The duration from a step change in control signal input (reference value)
+until the output changes by 90% of its final change, before any overshoot.
+
+Parallel Operation: The simultaneous operation of a Generator with power delivered or received by
+LADWP while Interconnected. For the purpose of these requirements, Parallel Operation includes only
+those Generating Facilities that are Interconnected with LADWP’s Distribution System for more than 60
+cycles (one second).
+
+Party, Parties: Applicant or LADWP
+
+Permissive Operation: The Smart Inverter is allowed, but not required, to operate at any current level.
+
+
+=== PAGE 4 ===
+LADWP ELECTRIC SERVICE REQUIREMENTS PAGE 4
+CITY OF LOS ANGELES DEPARTMENT OF WATER AND POWER
+
+SMART INVERTER TECHNICAL REQUIREMENTS Date: 10-17-23
+
+Point of Common Coupling (PCC): The point where the electrical conductors of LADWP’s Distribution
+System are connected to the Customer's conductors and where any transfer of electric power between
+the Customer and LADWP takes place.
+
+Point of Interconnection (POI): The point where the Interconnection Facilities connect with LADWP’s
+Distribution System. This may or may not be coincident with the Point of Common Coupling.
+
+Point of Generating Resource Connection (POC): The point where a DER unit is electrically connected
+in a Generating Facility and meets these Requirements.
+
+Producer: The entity that executes a Interconnection Agreement with LADWP. Producer may or may not
+own or operate the Generating Facility, but is responsible for the rights and obligations related to the
+Interconnection Agreement.
+
+Protective Function(s): The equipment, hardware and/or software in a Generating Facility (whether
+discrete or integrated with other functions) whose purpose is to protect against Unsafe Operating
+Conditions.
+
+Reference Point of Applicability (RPA): The location where the Generating Facility interconnection and
+interoperability performance requirements shall be met.
+
+Requirements: This LADWP Smart Inverter Technical Requirements document.
+
+Short Circuit Contribution Ratio (SCCR): The ratio of the Generating Facility’s short circuit contribution
+to the short circuit contribution provided through LADWP’s Distribution System for a three-phase fault at
+the high voltage side of the distribution transformer connecting the Generating Facility to LADWP’s
+Distribution System.
+
+Smart Inverter: A Generating Facility’s Inverter that performs functions that when activated can
+autonomously contribute to grid support during excursions from normal operating voltage and frequency
+system conditions by providing dynamic reactive/real power support, voltage and frequency ride-though,
+ramp rate controls, communication systems with ability to accept external commands and other functions.
+
+System Integrity: The condition under which LADWP’s Distribution and Transmission System is deemed
+safe and can reliably perform its intended functions in accordance with the safety and reliability rules of
+LADWP.
+
+Transmission System: Transmission facilities owned by LADWP.
+
+Trip: The act of a Generating Facility to cease to energize or disconnect from LADWP’s Distribution
+System automatically due to LADWP’s Transmission or Distribution System disturbance. Following trip,
+the Smart Inverter must delay re-energization or reconnection for a preset period of time once the voltage
+and frequency of LADWP’s Transmission or Distribution System are within normal ranges.
+
+Unintended Island: The creation of an Island, usually following a loss of a portion of LADWP’s
+Distribution System, without the approval of LADWP.
+
+Unsafe Operating Conditions: Conditions that, if left uncorrected, could result in harm to personnel,
+damage to equipment, loss of System Integrity or operation outside pre-established parameters required
+by the Interconnection Agreement.
+
+
+=== PAGE 5 ===
+PAGE 5 ELECTRIC SERVICE REQUIREMENTS LAD WP
+
+CITY OF LOS ANGELES DEPARTMENT OF WATER AND POWER
+
+Date: 10-17-23 SMART INVERTER TECHNICAL REQUIREMENTS
+
+Smart Inverter Technical Requirements
+
+When requirements for “Smart Inverter” are specified in these Requirements, those requirements can also
+be met by a “DER Interconnection System” as defined in these Requirements.
+
+These Smart Inverter Technical Requirements shall apply for interconnection of inverter-based
+technologies. These inverter requirements are intended to be consistent with UL 1741 — Supplement SB
+using as the source requirement document ANSI/IEEE 1547-2018 and IEEE 1547.1-2020 Standard for
+Interconnecting Distributed Resources with Electric Power Systems where possible. In the event of a
+conflict between these Requirements and UL 1741 — Supplement SB and/or IEEE 1547-2018 or IEEE
+1547.1-2020, these Requirements shall take precedence.
+
+The Smart Inverter default settings and default activation states shall be modified upon mutual agreement
+between Applicant or Producer and LADWP. The Smart Inverter default settings and default activation
+states shall also be modified at the sole discretion of LADWP for safety or reliability reasons as
+determined solely by LADWP.
+
+Process for changing default settings for new Interconnection Requests:
+
+e LADWP, in the study process for new Generating Facilities, may determine and provide the optimum
+Smart Inverter Settings for the reactive power settings, including changes to the reactive power
+default settings (Example: Deactivate Volt/Var and activate Fixed Power Factor at given power
+factor).
+
+e LADWP, in the study process for new Generating Facilities, may determine and provide the optimum
+Smart Inverter Settings for the Ramp Rate settings depending on the Generating Facility technology
+(such as solar, storage).
+
+e LADWP, in the study process for new Generating Facilities, may determine the optimum Smart
+Inverter Settings for the volt/watt settings, including changes to the default settings (Example: Change
+the volt/watt set points). The Applicant may select to agree on the new settings or select to perform
+upgrades to operate using the existing default volt/watt settings.
+
+e Default settings for voltage ride-through, frequency ride-through requirements, and Frequency/Watt
+should not be modified on an individual project basis unless the Interconnection Studies have
+determined that the default settings may not meet grid reliability requirements.
+
+Process for changing default settings for Generating Facilities with an executed Interconnection
+Agreement:
+
+e When grid changes or Generating Facility changes require that the Smart Inverter operating
+parameters be reevaluated, LADWP or Producer may request changes to the Smart Inverter
+operating parameters. The request must include the reason for and timing of the proposed changes.
+The requested changes must be within the Smart Inverter function adjustability limits, must be within
+the limits specified in these Requirements, and must be mutually agreed upon. LADWP may also
+notify Producer of required changes to the Smart Inverter operating parameters for safety or reliability
+reasons as determined solely by LADWP. In the event of this LADWP notification, Producer shall
+make the required changes and provide written notification to LADWP within a reasonable time
+determined by LADWP.
+
+
+=== PAGE 6 ===
+CITY OF LOS ANGELES DEPARTMENT OF WATER AND POWER
+
+PAGE 6
+
+“LADWP __ELECTRICSERVICEREQUIREMENTS = paceg.
+
+SMART INVERTER TECHNICAL REQUIREMENTS Date:
+
+1. General Interconnection and Protective Function Requirements.
+
+10-17-23
+
+The Protective Functions and these Requirements are designed to protect LADWP’s Distribution and
+Transmission System and not the Generating Facility. A Producer shall be solely responsible for
+providing adequate protection for its Generating Facility and Interconnection Facilities. Producer's
+Protective Functions shall not impact the operation of other Protective Functions on LADWP’s
+Distribution and Transmission System in a manner that would affect LADWP’s capability of providing
+reliable service to its customers.
+
+a)
+
+Protective Functions Required
+
+Smart Inverters operating in parallel with LADWP’s Distribution System shall be
+equipped with the following Protective Functions to sense abnormal conditions on
+LADWP’s Distribution System and cause the Smart Inverter to be automatically
+disconnected from LADWP’s Distribution System or to prevent the Smart Inverter from
+being connected to LADWP’s Distribution System inappropriately:
+
+i) Over and under voltage trip functions and over and under frequency trip functions;
+
+ii) A voltage and frequency sensing and time-delay function to prevent the Smart Inverter
+
+from energizing a de-energized Distribution System circuit and to prevent the Smart
+Inverter from reconnecting with LADWP’s Distribution System unless LADWP’s
+Distribution System service voltage and frequency is within the ANSI C84.1-1995
+Table 1 Range B voltage Range of 106 volts to 127 volts (on a 120 volt basis),
+inclusive, and a frequency range of 59.0 Hz to 60.5 Hz, inclusive, and are stable
+for at least 60 seconds (Enter Service Delay); and
+
+iii) A function to prevent the Smart Inverter from contributing to the formation of an
+
+Unintended Island, and cease to energize LADWP’s Distribution System within two
+seconds of the formation of an Unintended Island.
+
+The Smart Inverter shall cease to energize LADWP'’s Distribution System for faults
+on LADWP’s Distribution System circuit to which it is connected (IEEE 1547-2018,
+6.2.1). The Smart Inverter shall cease to energize LADWP’s Distribution circuit prior
+to re-closure by LADWP’s Distribution System equipment (IEEE 1547-2018, 6.3).
+
+iv) Open-phase condition: Generating Facility shall detect and cease to energize and trip
+
+b)
+
+all phases within two seconds of any open phase condition in accordance with IEEE
+1547-2018, 6.2.2.
+
+The Smart Inverter Facility shall cease to energize LADWP’s Distribution System
+for faults on LADWP’s Distribution System circuit to which it is connected (IEEE
+1547-2018, 6.2.1). The Generating Facility shall cease to energize LADWP’s
+Distribution circuit prior to re-closure by LADWP’s Distribution System equipment
+(IEEE 1547-2018, 6.3).
+
+Momentary Paralleling Generating Facilities
+
+See Section 1 of the Electric Service Requirements.
+
+Suitable Equipment Required
+
+Circuit breakers or other interrupting equipment located at the Point of Common
+Coupling (PCC) must be Certified or “Listed” (as defined in Article 100, the Definitions
+Section of the National Electrical Code) as suitable for their intended application. This
+includes being capable of interrupting the maximum available fault current expected
+
+
+=== PAGE 7 ===
+PAGE ELECTRIC SERVICE REQUIREMENTS LADWP
+
+CITY OF LOS ANGELES DEPARTMENT OF WATER AND POWER
+
+Date: 10-17-23 SMART INVERTER TECHNICAL REQUIREMENTS
+
+at their location. Producer’s Smart Inverter and Interconnection Facilities shall be
+designed so that the failure of any single device or component shall not potentially
+compromise the safety and reliability of LADWP’s Distribution and Transmission
+System. The Smart Inverter paralleling-device shall be capable of withstanding 220%
+of the Interconnection Facility rated voltage (IEEE 1547-2018, 4.11.3). The
+Interconnection Facility shall have the capability to withstand voltage and current
+surges in accordance with the environments defined in IEEE Std C62.41.2-2002 or
+IEEE Std C37.90.1-2002 as applicable and as described in L.3.e (IEEE 1547-2018,
+4.11.2).
+
+d) Visible Disconnect Requirements
+
+i) See Sections 8 and 8i of the Electric Service Requirements.
+e) Drawings Required
+
+i) See Sections 8 and 8i of the Electric Service Requirements.
+f) Generating Facility Conditions Not Identified
+
+i) See to Sections 8 and 8i of the Electric Service Requirements.
+
+g) Generating Facilities that use certified Power Control Systems (PCS) must use PCS
+listed in the CEC pre-approved list. Also see Section 8 and 8i of the Electric Service
+Requirements.
+
+h) Smart Inverter Certification and Settings Reporting Requirements
+Producer shall provide the following reports to LADWP upon request:
+
+i) Certified Equipment Data Sheet
+
+Producer shall provide the Certified Equipment data sheet for each unique Smart
+Inverter which includes the following information:
+
+When equipment is Certified by an NRTL, the NRTL shall provide to the manufacturer,
+at a minimum, a Certificate with the following information for each device:
+
+Administrative:
+
+(1) The effective date of Certification or applicable serial number (range or first in
+series), and/or other proof that certification is current;
+
+(2) Equipment model number(s) of the Certified equipment;
+
+(3) The software version utilized in the equipment, if applicable;
+
+(4) Test procedures specified (including date or revision number); and
+(5) Laboratory accreditation (by whom and to what standard).
+
+Device ratings (kW, kV, Volts, amps, etc.);
+Maximum available fault current in amps per IEEE 1547-2018, 11.4;
+
+(1)
+
+(2)
+
+(3) In-rush Current in amps;
+
+(4) Trip points, if factory set (trip value and timing);
+(5)
+
+Trip point and timing ranges for adjustable settings; and
+
+
+=== PAGE 8 ===
+LAD WP ELECTRIC SERVICE REQUIREMENTS PAGE 8
+
+CITY OF LOS ANGELES DEPARTMENT OF WATER AND POWER
+
+SMART INVERTER TECHNICAL REQUIREMENTS Date: 10-17-23
+
+(6) Nominal power factor or range if adjustable;
+
+It is the responsibility of the equipment manufacturer to ensure that Certification
+information is made publicly available by the manufacturer, the testing laboratory, or
+by a third party.
+
+ii) Verification of Settings
+
+Producer shall provide reports to LADWP for all device settings confirming the
+LADWP-approved settings specified in this Smart Inverter Technical Requirements
+document. The settings report shall be submitted in a format provided by LADWP.
+
+2. Prevention of Interference
+
+Producer shall not operate Smart Inverters that superimpose a voltage or current upon LADWP’s
+Distribution or Transmission System that interferes with LADWP operations, service to LADWP
+Customers, or communication facilities. If such interference occurs, Producer must diligently pursue
+and take corrective action at its own expense after being given notice and reasonable time to do so by
+LADWP. If Producer does not take corrective action in a timely manner, or continues to operate the
+facilities causing interference without restriction or limit, LADWP may, without liability, disconnect
+Producer's facilities from LADWP’s Distribution System, in accordance with Section K of the Design
+Guide for Customer-Owned Parallel Generating System of the Electric Service Requirements. To
+eliminate undesirable interference caused by its operation, each Smart Inverter shall meet the following
+criteria:
+
+Except as otherwise stated, the RPA for all performance requirements shall be met at the PCC.
+
+When the Generating Facility is less than 500kVA, the RPA may be the Point of Generating Resource
+Connection (POC).
+
+a) Voltage Regulation
+
+If approved by LADWP, the Smart Inverter may actively regulate the voltage at the PCC while in
+parallel with LADWP’s Distribution System. The Smart Inverter shall not cause the service voltage
+at other customers to go outside the requirements of ANSI C84.1-1995, Range A (IEEE 1547-2018,
+5.1).
+
+b) Voltage Trip and Ride Through Setting
+
+The voltage ranges in Table 1a and 1b define protective trip limits for the Protective Function and
+are not intended to define or imply a voltage regulation Function. Generating Facilities shall cease
+to energize LADWP’s Distribution System within the prescribed trip time whenever the voltage at
+the PCC deviates from the allowable voltage operating range. The Protective Function shall detect
+and respond to voltage on all phases to which the Generating Facility is connected.
+
+i) Smart Inverters
+
+Smart Inverters shall be capable of operating within the voltage range normally experienced on
+LADWP’s Distribution System from plus to minus 5% of the nominal voltage (e.g. 114 volts to 126
+volts, on a 120-volt base), at the service panel or PCC. The trip settings at the generator terminals
+may be selected in a manner that minimizes nuisance tripping in accordance with Table 1a to
+compensate for voltage drop between the generator terminals and the PCC. Voltage may be
+detected at either the PCC or the Point of Interconnection. However, the voltage range at the PCC,
+with the generator on-line, shall stay within +/-5% of nominal.
+
+
+=== PAGE 9 ===
+PAGE 9
+
+Date: 10-17-23
+
+ELECTRIC SERVICE REQUIREMENTS
+
+CITY OF LOS ANGELES DEPARTMENT OF WATER AND POWER
+
+LADWP
+
+SMART INVERTER TECHNICAL REQUIREMENTS
+
+ii) Voltage Disturbances
+
+Whenever LADWP’s Distribution System voltage at the RPA varies from and remains outside the
+Continuous Operation region for the predetermined parameters set forth in Table 1b, the
+
+Smart Inverter’s Protective Functions shall cause the Smart Inverter(s) to become isolated from the
+LADWP Distribution System as required in Table 1a:
+
+(1) The Smart Inverter shall stay connected to the LADWP Distribution System while the grid
+remains within the “Voltage Range (p.u.)” and must stay connected in the corresponding
+“Operating Mode”.
+
+(2) If the LADWP Distribution System voltage does not exit the ride-through region and recovers
+to normal system voltage, the Smart Inverter shall restore continuous operation within two
+
+seconds.
+
+—
+wo
+wm
+
+If the LADWP Distribution System voltage does not exit the ride-through region and returns
+
+from the V<0.5 p.u. region to the 0.5sV<0.7 or 0.7SV<0.88 p.u. region, the Smart Inverter
+shall restore available current within two seconds.
+
+(4) Different voltage-time settings could be permitted by LADWP.
+
+Table 1a: Smart Inverter Voltage Trip Settings
+
+Voltage Range of Shall
+Voltage Trip Default Settings | Trip Function (p.u. of Default Clearing
+Shall Trip Function (p.u. of nominal voltage) nominal voltage) Time (s)
+Ov2 1.20 V >= 1.20 0.16
+ov1 1.10 1.10 <=V< 1.20 13.0
+Continuous Operation NA 0.88 <V<1.10 NA
+UV1 0.88 0.50 < V <=0.88 21.0
+UV2 0.50 V <=0.50 2.0
+
+Table 1b: Smart Inverter Voltage Ride-Through Settings
+
+Operating Minimum ride-through Maximum response
+Voltage Range (p.u.) mode/response time (s) time (s)
+
+V >= 1.20 Cease to Energize NA 0.16
+1.10 < V <=1.20 Momentary Cessation 12 0.083
+0.88 <= V <=1.10 Continuous Operation Infinite NA
+0.70 <= V < 0.88 Mandatory Operation 20 NA
+0.50 <= V <0.70 Mandatory Operation 10 NA
+
+V <0.50 Momentary Cessation 1 0.083
+
+iii) Voltage Phase Angle Change Ride-Through
+
+Voltage phase angle change ride-through as specified in IEEE 1547-2018, 6.5.2.6.
+
+c) Paralleling
+
+The Smart Inverter shall parallel with LADWP’s Distribution System without causing a voltage
+fluctuation at the PCC greater than plus/minus 5% of the prevailing voltage level of LADWP’s
+Distribution System at the PCC, and meet the flicker requirements below in section d, Flicker.
+
+
+=== PAGE 10 ===
+LADWP
+
+ELECTRIC SERVICE REQUIREMENTS
+
+CITY OF LOS ANGELES DEPARTMENT OF WATER AND POWER
+
+Date:
+
+SMART INVERTER TECHNICAL REQUIREMENTS
+
+d)
+
+Flicker
+
+The Generating Facility shall not create objectionable flicker for other Customers on LADWP’s
+Transmission or Distribution System. To minimize the adverse voltage effects experienced by other
+Customers, flicker at the PCC caused by the Generating Facility should not exceed the limits of
+IEEE 1547-2018, 7.2.3. This requirement is necessary to minimize the adverse voltage affects
+
+experienced by other Customers on LADWP’s Distribution or Transmission System. Generators
+may be connected and brought up to synchronous speed (as an induction motor) provided these
+flicker limits are not exceeded.
+
+Integration with LADWP’s Distribution System Grounding
+
+The grounding scheme of the Smart Inverter shall not cause over-voltages that exceed the rating
+of the equipment connected to LADWP’s Distribution System and shall not disrupt the coordination
+of the ground fault protection on LADWP’s Distribution System (IEEE 1547-2018, 4.12) (See
+Section G.1.i, line configuration).
+
+Frequency
+
+LADWP controls system frequency, and the Smart Inverter shall operate in synchronism with
+LADWP’s Transmission or Distribution System. Whenever LADWP’s Transmission or Distribution
+System frequency at the PCC varies from and remains outside normal (nominally 60 Hz) by the
+predetermined amounts set forth in Table 2a, the Smart Inverter’s Protective Functions shall cease
+to energize LADWP’s Distribution System within the stated maximum trip time.
+
+i) Frequency Ride-Through Requirements
+
+Smart Inverter based systems shall remain connected to the LADWP Distribution System while
+the grid is within the frequency-time range indicated in Table 2b, and shall disconnect from the
+electric grid during a high or low frequency event that is outside that frequency time range as
+indicated in Table 2b.
+
+Table 2a: Frequency Trip Settings Table
+
+PAGE 10
+
+10-17-23
+
+Shall Trip Function Frequency Trip Resulting Range of Default Clearing
+Default Setting (Hz) | Shall Trip Function (Hz) Time (s)
+OF2 62.0 f 262 0.16
+OF 1 61.2 61.2 sf < 62 300
+Continuous Operation Not Applicable 58.5 < f < 61.2 Not Applicable
+UF1 58.5 56.5 < f $ 58.5 300
+UF2 56.5 f $56.5 0.16
+
+Table 2b: Frequency Ride-Through Settings Table
+
+Frequency (Hz) Operating Mode Minimum Time (s)
+f> 62 No Ride-Through requirements apply to this range Not Applicable
+61.2 <f< 61.8 Mandatory Operation 299 seconds
+58.8 <f< 61.2 Continuous Operation Infinite
+57.0 sf < 58.8 Mandatory Operation 299 seconds
+f< 57.0 No Ride-Through requirements apply to this range Not Applicable
+
+ii) Rate of Change of Frequency (ROCOF) Ride-through
+
+Smart Inverter shall not trip for frequency excursion having magnitude rates of change of
+frequency (ROCOF) that is less than or equal to 3.0Hz per second as specified in IEEE1547-
+2018, section 6.5.2.5 category Ill. For ROCOF greater than 3Hz per second, it is preferred for
+
+Smart Inverter to ride-through as long as frequency remains in the continuous operating
+
+region, low frequency ride-though region (and corresponding duration times), or high
+frequency region (and corresponding duration times).
+
+
+=== PAGE 11 ===
+ELECTRIC SERVICE REQUIREMENTS
+PAGE 11 CITY OF LOS ANGELES DEPARTMENT oP WAR AND POWER LAD WP
+
+Date: 10-17-23 SMART INVERTER TECHNICAL REQUIREMENTS
+
+g) Harmonics
+When the Smart Inverter is serving balanced linear loads, harmonic current injection into
+LADWP’s Distribution System at the PCC shall not exceed the limits stated in IEEE 1547-2018,
+
+7.3. The harmonic current injections shall be exclusive of any harmonic currents due to harmonic
+voltage distortion present in LADWP’s Transmission or Distribution System without the Smart
+Inverter connected. The harmonic distortion of a Smart Inverter shall be evaluated using the same
+criteria as for the Host Loads.
+
+h) Direct Current Injection
+
+Smart Inverter should not inject direct current greater than 0.5% of rated output current into the
+LADWP Distribution System.
+
+i) Smart Inverter Reactive Power Requirements
+
+Smart Inverter Reactive Power capabilities shall comply with IEEE 1547-2018, Section 5.2
+Category B requirement.
+
+j) Dynamic Volt/Var Operations
+
+The Smart Inverter shall be capable of supporting dynamic reactive power compensation (dynamic
+Volt/Var operation) within the following constraints:
+
+The Smart Inverter shall be able to consume reactive power in response to an increase in line
+voltage, and produce reactive power in response to a decrease in line voltage as indicated in
+Table 3.
+
+Dynamic Volt/Var Operations Default Settings
+
+Table 3 and Figure 1 depict the default setting, which should be applied for all inverter size. Specific
+volt/var settings may be required for larger generating facilities (such as 100 kW or greater) or for
+specific areas with LADWP’s Distribution System as determined by LADWP.
+
+Default Open Loop Response Time for volt/var operation setting should be five (5) seconds.
+
+Table 3: Voltage and Reactive Default Settings
+
+Voltage Voltage Reactive Reactive Operation
+Setpoint Value Setpoint Value
+V1 92.0% Q1 30% Reactive Power Injection
+V2 97% Q2 0 Unity Power Factor
+V3 103% Q3 0 Unity Power Factor
+V4 107.0% Q4 30% Reactive Power Absorption
+
+
+
+=== PAGE 12 ===
+LADWP ELECTRIC SERVICE REQUIREMENTS PAGE 12
+
+CITY OF LOS ANGELES DEPARTMENT OF WATER AND POWER
+
+SMART INVERTER TECHNICAL REQUIREMENTS Date: 10-17-23
+
+Figure 1: Voltage and Reactive Default Settings
+
+a
+2
+=
+uo
+o
+a
+oO
+u
+
+Inductive
+
+4
+o
+
+.
+~
+oa
+“a
+
+k) Enter Service Ramp Rate Requirements
+
+The Smart Inverter is required to have the following ramp controls
+
+e Enter Service ramp control requirements as outlined in IEEE 1547-2018, Section 4.10.3 with
+the following default settings:
+
+o Delay enter service shall be 60 seconds per Section 1.a.ii
+o Default Enter Service Duration shall be 50 seconds
+
+|) Frequency Droop (Frequency Power, Frequency Watt) Requirements
+Smart Inverters shall change their real power production as a function of system frequency in
+accordance with IEEE 1547-2018, 6.5.2.7 with the following default settings: Deadband 36 mHz,
+dbor and dbur. kor and kur would be 0.05, open loop response time of 5 seconds.
+
+3
+
+Voltage-Watt Default Settings Requirements
+
+Smart Inverters shall reduce their real power production as a function measured voltage at the
+inverter terminal or at the Generating Facility Point of Common Coupling (PCC) in accordance with
+the following:
+
+e When the measured voltage is greater than 106% of nominal voltage (Example: 127.2 volts on
+120 volts nominal), the export of active power at the PCC or the production of active power by
+the Smart Inverter shall be reduced at a rate of 25% of active power nameplate rating per one
+percent of nominal voltage. Figure 3 Volt-Watt Requirements illustrate the required rate of
+reduction. When export of active power is controlled, a certified inverter and control system
+shall be used.
+
+e When the measured voltage is greater than 110% of nominal voltage (Example: 132 volts on
+120 volts nominal), the export of active power to the grid at the PCC or the production of active
+power by the Smart Inverter shall be reduced to 0 watts.
+
+e Open loop response time shall be 5 seconds.
+
+
+=== PAGE 13 ===
+ELECTRIC SERVICE REQUIREMENTS
+PAGE 13 CITY OF LOS ANGELES DEPARTMENT OF WATER AND POWER LAD WP
+Date: 10-17-23 SMART INVERTER TECHNICAL REQUIREMENTS
+
+Figure 3: Volt-Watt Requirements
+
+o
+= 100°
+2 Full Power per “tesa
+E Production — an ty
+LJ i Zone
+z
+a)
+EE
+o
+o
+3
+GC)
+a
+o
+=
+Bs]
+a 0%
+
+xe
+
+~
+
+]
+
+% Voltage
+
+n) Dynamic Reactive Power Support Function
+
+The capability for this requirement will become mandatory for Generating Facilities utilizing inverter-
+based technologies for which an Interconnection Request is submitted twelve (12) months after
+approval of a nationally recognized standard that includes the function. The utilization of this
+function is permissible under mutual agreement between LADWP and the generating facility before
+the effective date.
+
+0) Default Activation States
+Unless otherwise provided by LADWP, the default settings will be as follows:
+
+Table 5: Default Activation States
+
+Function State
+Anti-islanding Activated
+Low/High Voltage Ride Through Activated
+Low/High Frequency Ride Through Activated
+Dynamic Volt/Var operations Activated
+Enter Service Ramp Control Activated
+Storage Inverter Normal Operation Ramp Activated under mutual agreement
+Control
+Fixed power factor Deactivated
+Reconnect by “soft-start” methods Activated
+Frequency/Watt Activated
+VoltW att Activated
+Constant Reactive Power Mode Deactivated
+Set Active Power Function Mode (Optional) Activated under mutual agreement
+Dynamic Reactive Power Support Mode Activated under mutual agreement
+(Optional)
+
+These default activation states may be modified by mutual agreement between LADWP and
+Producer.
+
+
+=== PAGE 14 ===
+LADWP ELECTRIC SERVICE REQUIREMENTS PAGE 14
+CITY OF LOS ANGELES DEPARTMENT OF WATER AND POWER
+SMART INVERTER TECHNICAL REQUIREMENTS Date: 10-17-23
+
+p) Load Shedding or Transfer
+
+The voltage and frequency ride-through requirements of Tables 1a, 1b, 2a, and 2b shall not apply
+if either: a) The real power across the PCC is continuously maintained at a value less than 10% of
+the aggregate rating of the Smart Inverters connected to the Generating Facility prior to any voltage
+disturbance, and the Generation Facility disconnects from LADWP’s Distribution System, along
+with Generating Facility load, such that the net change in real power flow from or to the LADWP
+Distribution System is less than 10% of the aggregate Smart Inverter capacity; or b) Generating
+Facility load real power demand equal to 90% to 120% of the pre-disturbance aggregate Smart
+Inverter real power is shed within 0.1 seconds of Smart Inverter disconnection.
+
+q) Measurement and Calculation Accuracy
+
+Smart Inverter shall meet minimum steady-state and transient measurement and calculation
+accuracy as required in IEEE 1547-2018, Section 4.4.
+
+r) Prioritization of Smart Inverter Responses
+
+i) |The response to disable permit to service as specified in Section 8.a shall take precedence over
+any other tripping requirements.
+
+ii) Prioritization of tripping requirements not related to disabling permit to service shall meet IEEE
+1547-2018, Section 4.7.
+
+s) Storage Inverter Normal Operation Ramp Control Requirements
+
+Smart Inverters used for energy storage applications may optionally include ramp-up rate control.
+The default value shall be 100% of maximum current output per second or slower if required by
+Applicant. Other ramp-up control settings can be used, when required, as mutually agreed upon by
+LADWP and the Applicant.
+
+t) Ride-through of Consecutive Voltage Disturbances
+
+Ride-through of consecutive voltage disturbances shall be in accordance with IEEE 1547-2018,
+6.4.2.5.
+
+u) Restore output without dynamic voltage support
+
+Restore output without dynamic voltage support shall be in accordance with IEEE 1547-2018,
+6.4.2.7.1.
+
+v) Transition between performance operating regions
+
+Transition between performance operating regions should be in accordance with IEEE 1547-2018,
+6.4.2.7.3.
+
+w) Constant Reactive Power Mode
+
+When in this mode, the Smart Inverter shall maintain a constant reactive power. The target reactive
+power level and mode (injection or absorption) shall be specified by LADWP and shall be within
+the same range specified in IEEE 1547-2018, Section 5.3.5. The reactive power settings are
+allowed to be adjusted locally and/or remotely as specified by LADWP. The maximum Smart
+Inverter response time to maintain constant reactive power shall be 10 seconds or less.
+
+x) Generating Facility Rapid Voltage Changes (RVC)
+
+Generating step or ramp changes shall meet the requirements as specified in IEEE 1547-2018,
+Section 7.2.2.
+
+
+=== PAGE 15 ===
+ELECTRIC SERVICE REQUIREMENTS
+PAGE 15 CITY OF LOS ANGELES DEPARTMENT oP WAR AND POWER LA D WP
+
+Date: 10-17-23 SMART INVERTER TECHNICAL REQUIREMENTS
+
+y) Limitations of Overvoltage Over One Fundamental Frequency Period
+
+Generating Facility shall not contribute to instantaneous or fundamental frequency overvoltage
+conditions per IEEE 1547-2018, 7.4.1.
+
+z) Limitation of Cumulative Instantaneous Overvoltage
+
+Generating Facility shall not cause the instantaneous voltage on any portion of the Distribution or
+Transmission System to exceed the magnitudes per IEEE 1547-2018, 7.4.2.
+
+3. Technology Specific Requirements
+
+Grid-interactive inverters do not require separate synchronizing equipment. Non-grid-interactive or
+“stand-alone” inverters shall not be used for Parallel Operation with LADWP’s Distribution System.
+
+4. Supplemental Smart Inverter Requirements
+
+a) Fault Detection
+
+A Smart Inverter with an SCCR exceeding 0.1 or one that does not cease to energize LADWP’s
+Distribution System within two seconds of the formation of an Unintended Island shall be equipped
+with Protective Functions designed to detect Distribution System faults, both line-to-line and line-
+to-ground, and cease to energize LADWP’s Distribution or Transmission System within two
+seconds of the initiation of a fault.
+
+b) Transfer Trip
+
+For a Generating Facility that cannot detect Distribution or Transmission System faults (both line-
+to-line and line-to-ground) or the formation of an Unintended Island, and cease to energize
+LADWP’s Distribution System within two seconds, LADWP may require a Transfer Trip system or
+an equivalent Protective Function.
+
+c) Reclose Blocking
+
+Where the aggregate Generating Facility capacity exceeds 15% of the peak load on any automatic
+reclosing device, LADWP may require additional Protective Functions, including, but not limited to
+reclose-blocking on some of the automatic reclosing devices.
+
+5. Communication Requirements
+
+Should communications to LADWP be required, Generating Facilities utilizing inverter-based
+technologies must adhere to the following communication requirements for communications between
+LADWP and the Generating Facility. The diagram below shows the interface requirements as
+applicable for this Section 5. The LADWP Interface (solid red line) is described in Sections 5.a and 5.b.
+The local DER interface at the Generating Facility (dotted blue line) is described in Section 5.b.iii. The
+top row shows a direct connection between LADWP and the DER. The middle row shows a connection
+between LADWP and a gateway (GW) or Energy Management System (EMS). The lower row shows
+a connection between LADWP and an aggregator.
+
+
+=== PAGE 16 ===
+LADWP ELECTRIC SERVICE REQUIREMENTS PAGE 16
+CITY OF LOS ANGELES DEPARTMENT OF WATER AND POWER
+SMART INVERTER TECHNICAL REQUIREMENTS Date: 10-17-23
+
+Figure 5: Generating Facility Communications
+
+Direct
+Connection to
+Distribution
+Provider
+
+Gateway or
+EMS
+Connection to
+Distribution
+Provider
+
+Aggregator
+Connection to
+
+=p > & . Distribution
+a5 - i Provider
+
+Distribution Aggregator or EMS DERs
+Provider
+istributi i Determined b
+Distribution Provider _..— Determinedby DER Interface (P.5.b.iii)
+Interface (P.5.a & b) Customer
+
+The communication protocol requirements herein shall be between:
+
+(i) LADWP and the individual DER, GW, or EMS;
+
+(ii) LADWP and communication to the Generating Facility through an aggregator not co-located or part
+of the Generating Facility; or
+
+(iii) other communication options as mutually agreed to by Applicant and LADWP.
+
+a) The communications requirements in this Section pertain to communications between LADWP and
+communications option selected, or required, from this Section 5. These requirements do not
+specify the communication between the selected communication option and Smart Inverter but
+performance will be enforced by compliance with these requirements:
+
+i) Shall be capable of communications;
+ii) Software shall be updateable via communications remotely;
+iii) The transport level protocol shall be TCP/IP; and,
+
+iv) The default application-level protocol shall be IEEE 2030.5 as defined in the latest final version
+of the Common Smart Inverter Profile (CSIP) and the California IEEE 2030.5 Implementation
+Guide. Other application-level protocols may be used by mutual agreement of the Parties
+including IEEE 1815/DNP3 for SCADA real-time monitoring and control and IEC 61850.
+
+b) Additional communication protocol requirements shall also apply to Generating Facilities utilizing
+inverter-based technologies as provided in the following documents:
+
+
+=== PAGE 17 ===
+ELECTRIC SERVICE REQUIREMENTS
+PAGE 17 CITY OF LOS ANGELES DEPARTMENT oP WAR AND POWER LA D WP
+
+Date: 10-17-23 SMART INVERTER TECHNICAL REQUIREMENTS
+
+i) LADWP Electric Service Requirements, which shall include:
+
+e Details and guidelines for the implementation of communications with Generating Facilities
+utilizing inverter-based technologies;
+
+e Cybersecurity and privacy requirements (these may additionally or alternatively be
+included in the application-level protocol implementation guide); and,
+
+e Generic device communications registration management requirements, including how to
+register individual Generating Facilities, Generating Facilities with energy management
+systems, and aggregators (these requirements additionally or alternatively may be
+included in the application-level protocol implementation guide); and
+
+e Conditions under which communication functions are mandatory.
+
+ii) Application-Level Protocol Implementation Guide, which shall provide:
+
+e Detailed communication requirements and implementation guidelines to ensure consistent
+interoperability of the Generating Facilities with LADWP and all other California investor-
+owned utilities.
+
+iii) Communication Protocol and Performance Requirements
+
+e Communication performance requirements for the interface to the Generating Facility shall
+comply with IEEE 1547-2018, 10.8.
+
+e The protocol requirements at the Generating Facility shall be per IEEE 1547-2018, 10.7.
+e If choosing IEEE 2030.5 as the protocol, then CSIP certification is required.
+
+6. Scheduling Capability Requirements:
+
+Generating Facilities which incorporate Smart Inverters shall incorporate scheduling capabilities with
+minimum scheduling memory capability of at least 24 events. The utilization of this function is
+permissible under mutual agreement between LADWP and the generating facility before the effective
+date. Each event is composed of modifications to each, selected group of, or all of the following Smart
+Inverter function:
+
+e Modifications to the voltage and reactive set-points of the Dynamic volt/var function.
+
+e Modifications to the reactive power set-points for the fixed power factor function.
+
+e Modifications to the voltage and watt-reduction level set-points for the volt/watt function.
+
+The Generating Facility’s scheduling capability requirement herein shall be met by one or more of the
+following options:
+
+e Scheduling capability requirements may be implemented at the GW/EMS. The GW/EMS shall
+communicate the necessary commands to the Smart Inverters within 10 minutes, or by mutual
+agreement, from when the GW/EMS receives the scheduling information.
+
+e Scheduling capability requirements may be implemented at the DER within the Generating Facility.
+
+e Scheduling capability requirements may be stored at an aggregator not co-located within the
+Generating Facility. The aggregator shall communicate the necessary commands to the Smart
+Inverter within 15 minutes of the aggregator receiving the scheduling information.
+
+e Other options may be utilized by mutual agreement between the Applicant and LADWP.
+
+The selected scheduling control system shall store the schedules and shall send operational
+commands to the Smart Inverters as required by the schedule received from LADWP. The Smart
+Inverter shall respond by changing its mode of operation as commanded at the schedule start time with
+no unreasonable delay.
+
+
+=== PAGE 18 ===
+LADWP ELECTRIC SERVICE REQUIREMENTS PAGE 18
+
+CITY OF LOS ANGELES DEPARTMENT OF WATER AND POWER
+
+SMART INVERTER TECHNICAL REQUIREMENTS Date: 10-17-23
+
+Each scheduled mode of operation shall include and start-time and duration. The Smart Inverter should
+return to its default settings at the end of the duration time or shall enter a new operational mode as
+directed by the scheduling control system.
+
+7. Monitoring and Telemetry Requirements:
+
+The Smart Inverter shall have the capability to communicate its performance information per IEEE
+1547-2018, 10.5 Table 29:
+
+e Smart Inverter production or consumption of active power (watts)
+
+e Smart Inverter consumption or production of reactive power (vars)
+e Phase measured at the AC terminals of the Smart Inverter (volts)
+
+e Frequency measured at the AC terminals of the Smart Inverter (Hz)
+e Connection Status
+
+e ©Alarm Status
+
+When the Generating Facility includes energy-storage with Smart Inverters, the following monitoring and
+telemetry capability is required:
+
+The Smart Inverter shall be capable of communicating the operational state of charge as a percent of
+energy storage capacity.
+
+Operational State as In-Service or not In-service communication capability requirements. The Smart
+Inverter shall be capable of communicating when the Smart Inverter is capable of providing electric services
+as follows:
+
+e In-Service: An operational state which indicates that the Smart Inverter is connected to the electric
+system and operating as determined locally by the Generating Facility operator or by a scheduling
+control system as outlined in Section 6.
+
+e Not In-Service: An operating state which indicates that the Smart Inverter is not capable of
+connecting to the electric system and not capable of providing any type of electrical support as
+required locally or as commanded by a scheduling control system as outlined in Section 6.
+
+Monitoring and performance information should be communicated in aggregate at the Generating Facility
+as follows:
+
+e When the Generating Facility includes only Smart Inverters, the production or consumption of
+active and reactive power shall be communicated as an aggregate of all Smart Inverters within the
+Generating Facility.
+
+e When a Generating Facility includes Smart Inverters and other technologies such as synchronous
+or induction generation systems, the Generating Facility shall communicate the following:
+
+o The production or consumption of active and reactive power shall be communicated in
+aggregate of all Smart Inverters within the Generating Facility.
+
+o The production or consumption of active and reactive power shall be communicated in
+aggregate of all the other technologies within the Generating Facility.
+
+e When the Generating Facility with Smart Inverters includes one or multiple energy storage
+systems, the available operational energy should be communicated as an aggregate of all the
+energy storage systems.
+
+e Nameplate information shall be available through a local Generating Facility Interface as required
+in IEEE 1547 2018, 10.3 and must include the information as required in IEEE 1547-2018,
+Table 28.
+
+
+=== PAGE 19 ===
+ELECTRIC SERVICE REQUIREMENTS
+PAGE 19 CITY OF LOS ANGELES DEPARTMENT oP WAR AND POWER LA D WP
+
+Date: 10-17-23 SMART INVERTER TECHNICAL REQUIREMENTS
+
+e Configuration information shall be available through a Local Generating Facility Interface as
+required in IEEE 1547-2018, 10.4. This information represents the present capacity and ability of
+the Generating Facility. When a configuration update changes the Generating Facility nameplate
+information, it may require a study depending on the change.
+
+8. Control through communication capabilities:
+
+The utilization of these functions are permissible under mutual agreement between LADWP and the
+generating facility before the effective date. Smart Inverters shall have the capabilities of accepting
+operational controls through communications in accordance to the following:
+
+a) Disable permit to service control command:
+
+When the Smart Inverter receives a disable permit service command through communication,
+the Smart Inverter cease-to energize and trip within 2 seconds or initiate the opening of the
+switch referenced in the inverter terminal in order to galvanically isolate the Smart Inverter from
+the LADWP Distribution System.
+
+b) Return to service control command:
+
+When the Smart Inverter receives a return-to-service control command, the Smart Inverter may
+return to service operation as required by Generating Facility operator or as required by the
+scheduling control system as required by Section 6. This shall be accomplished by enabling
+permit service as required in IEEE 1547-2018, 4.10.3.
+
+c) Limit Active Power Command:
+
+When the Smart Inverter receives a command to limit its production of real power, the Smart
+Inverter shall reduce its real power production to the specified percent of real power capacity
+of the Smart Inverter or to a specified real power value. In no more than 30 seconds or in the
+time it takes for the primary energy source to reduce its active power output to achieve the
+requirements of the active power limit set point, whichever is greater.
+
+d) Set Active Power Level Mode Function:
+
+The capability for this requirement will become mandatory for Generating Facilities utilizing
+inverter-based technologies for which an Interconnection Request is submitted twelve (12)
+months after approval of a nationally recognized standard that includes the function. The
+utilization of this function is permissible under mutual agreement between LADWP and the
+generating facility before the effective date.
+
+e) Suspension of Active Power restriction:
+
+When the Smart Inverter receives a command to suspend the command for active power
+reduction, the Smart Inverter may return to normal operation as required by Generating Facility
+operator or as required by the scheduling control system as required by Section 6.
+
+
+=== PAGE 20 ===
+LADWP ELECTRIC SERVICE REQUIREMENTS PAGE 20
+CITY OF LOS ANGELES DEPARTMENT OF WATER AND POWER
+SMART INVERTER TECHNICAL REQUIREMENTS Date: 10-17-23
+
+f) Transition between operating modes
+
+Transition between modes shall commence in no more than 30 seconds after the mode
+setting change is received at the local Generating Facility communication interface.
+
+Changes of control functional modes shall be executed such that the Smart Inverter output is
+transitioned smoothly over a time period between 5 and 300 seconds.
+
+Ramping of Smart Inverter output is not required for control parameter setting changes.
+
+For all control and protective function parameter settings, the time following the input to the
+local Generating Facility communication interface and preceding the point in time when the
+invoked action begins shall be no greater than 30 seconds.
+
