@@ -1,0 +1,5 @@
+
+    Completely Different Document
+    This is a unique document with different content.
+    It should not be considered a duplicate of any other file.
+    

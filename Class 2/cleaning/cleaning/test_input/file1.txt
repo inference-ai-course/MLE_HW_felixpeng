@@ -1,0 +1,6 @@
+
+    Electric Service Requirements Manual
+    This document outlines the requirements for electric service installation.
+    All installations must comply with safety standards and local regulations.
+    Proper grounding and circuit protection are essential for safe operation.
+    

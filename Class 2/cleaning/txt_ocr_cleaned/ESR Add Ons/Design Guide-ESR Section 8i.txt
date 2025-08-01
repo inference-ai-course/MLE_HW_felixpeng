@@ -1,0 +1,2763 @@
+=== PAGE 1 ===
+LADWP
+
+ELECTRIC SERVICE REQUIREMENTS PAGE 8-1i
+CITY OF LOS ANGELES DEPARTMENT OF WATER AND POWER
+
+DESIGN GUIDE FOR CUSTOMER-OWNED PARALLEL GENERATING SYSTEMS Date: 05-01-24
+
+Note: This section will be superseded by Section 8 of the Electric Service Requirements Manual dated June
+2024 or later.
+
+CONTENTS
+
+PAGE
+A. Introduction 6... tee tee 8-2i
+B. Data Required for Design 6. teas 8-2i
+C. Electric RateS 6. tent tenes 8-3)
+D. Interconnection AgreementS — wd ete eee 8-3i
+E. Interconnection CostS 6... teeta 8-3i
+F. Transformer teeta 8-3i
+
+Requirements
+G. Operating Requirements 1... tees 8-4i
+H. Metering 6. eee ae 8-4i
+Performance wk tte 8-4i
+Feed in Tariff 9 6... tees 8-5i
+Switchboard Approval 66... tte 8-5i
+I. InspectioNS keene 8-5i
+J. Liability 9 06. tee ae 8-5)
+K. Disconnection of the Customer’s Energy Sources... 1... eee 8-5i
+General cee ee 8-5)
+Notification teas 8-5i
+L. Utility Disconnecting MeanS iw eae 8-6i
+General teens 8-6i
+ACCESS ents 8-7i
+M. Signs andLabels «1... kk tees 8-7i
+N. Protective Schemes sw... ete 8-7i
+O. Telemetry 6. nett eee 8-9i
+P. Maintenance 6. nea 8-9i
+Q. RecordS ow. eee 8-9i
+R. Specifications 6. nents 8-10
+S. Testing and Evaluation 6... eee 8-10
+T. Generators and Generating Systems .......... 0.00: cette tae 8-10
+U. Inverters ke ete eae 8-11
+V. Battery Backup SystemS — id tte ae 8-12)
+W. Battery Peak Shaving SystemS .... 2... 2c tte 8-13)
+X. Battery Energy Storage Systems (BESS) sw... tae 8-13)
+
+Illustrations:
+
+Typical Interconnection ArrangementS .. ww. eae 8-15i
+NOtCS nr nent eee 8-40)
+
+
+=== PAGE 2 ===
+PAGE 8-2} ELECTRIC SERVICE REQUIREMENTS | ADWP
+
+Date:
+
+CITY OF LOS ANGELES DEPARTMENT OF WATER AND POWER
+
+05-01-24 DESIGN GUIDE FOR CUSTOMER-OWNED PARALLEL GENERATING SYSTEMS
+
+A. INTRODUCTION
+
+1.
+
+This section is intended to assist Los Angeles Department of Water and Power (Department) customers in
+the design and evaluation of utility interconnections for customer-owned parallel-generation, backup and
+energy storage systems.
+
+The Solar Incentive process has been separated from the solar interconnection process. For more
+information regarding available solar programs visit www.ladwp.com/solar.
+
+The interconnection of customer-owned parallel-generation requires the following before any construction
+may begin:
+
+a. An Interconnection Agreement (IA): See TYPICAL TIME-LINES FOR PARALLEL-GENERATION
+INSTALLATIONS, pages 1-16 and 1-17 for contact information and INTERCONNECTION AGREEMENTS,
+page 8-3i for details.
+
+b. A Generation Interconnection Study: For aggregate parallel energy source capacities greater than
+30kW, depending on available electric system (grid) capacity and line loading, a generation
+interconnection study shall be required to determine if the Department will need to install additional
+protective equipment, perform system modifications or upgrades at the customer’s expense. The
+typical timeline for the generation interconnection study is 2-4 weeks. If the proposed aggregate
+parallel energy source is greater than the 15% of the peak line loading or 100% of the minimum line
+loading, dependent on generation system topology, a supplemental study shall be performed. The
+typical timeline for the supplemental study is 2-4 weeks. If the proposed generation system fails the
+supplemental study a detailed study shall be required. The typical timeline for the detailed study is 4-6
+weeks.
+
+Note: An interconnection study may result in lower capacity limitations than the maximum limits
+established in PROTECTIVE SCHEMES, page 8-7i. Regardless of the number of supply points,
+these capacity limitations apply to the entire customer premises, see Glossary for definition of
+Premises.
+
+c. A Service Commitment: The Department will determine the method of interconnection and transmit
+requirements to the customer in writing after appropriate engineering deposits and customer
+submittals have been received by the Department. See DATA REQUIRED FOR DESIGN, page 8-2i.
+
+B. DATA REQUIRED FOR DESIGN
+
+1.
+
+When considering the installation of a parallel-generation and/or storage facility, customers must contact
+the Department as soon as possible so that:
+
+a. The Department’s Service Planners can work with the customer to establish an acceptable
+interconnection scheme for the customer’s facility.
+
+b. Customers may avoid unnecessary expenses and delays in service caused by assuming deficient
+interconnection schemes and equipment requirements.
+
+At the time of initial contact, or as soon as possible, customers should provide the Department with the
+following information so that the Department may assist the customer in finalizing the customer’s plans:
+
+a. Electrical plans including load schedules, single-line diagrams, Service Planning Information form (see
+pages 1-19 and 1-20), and Supplemental Battery Energy Storage System Data sheet (if applicable).
+
+b. Plot and site development plans showing generator, AC disconnect, metering equipment locations and
+Department access to generator, AC disconnect and meter equipment locations.
+
+c. Energy source information:
+(1) Maximum kilowatt rating
+(2)
+(3) Voltage regulation
+(4)
+
+Nominal voltage output
+
+Maximum fault current contribution
+
+
+=== PAGE 3 ===
+| ADWP ELECTRIC SERVICE REQUIREMENTS PAGE 8-3)
+
+CITY OF LOS ANGELES DEPARTMENT OF WATER AND POWER
+
+DESIGN GUIDE FOR CUSTOMER-OWNED PARALLEL GENERATING SYSTEMS Date: 05-01-24
+
+B. DATA REQUIRED FOR DESIGN (Cont.)
+
+3.
+
+d. Protective system information:
+
+(1) Protective system plan
+
+(2) Manufacturer’s data sheets and maintenance requirements for protective equipment
+
+(3) Any additional information required by the Department
+Upon receiving the requested information and engineering fees, the Department will provide customer
+requirements drawings and Department construction drawings as needed. Customer requirement
+drawings provide the customer with the information necessary to construct the interconnection facilities for
+
+the transformers, protective devices, meters and other necessary equipment that will be installed by the
+Department.
+
+C. ELECTRIC RATES
+
+Rates for the sale or exchange of electrical energy between the Department and the customer shall be in
+accordance with the established rates as specified in the effective Rate Ordinance(s) of the Department or by
+contract.
+
+D. INTERCONNECTION AGREEMENTS (IA)
+
+1.
+
+Customers are required to complete a Standard Offer Interconnection Agreement (Agreement) with the
+Department before the generating and/or storage facility may be interconnected to the Department’s
+electric system.
+
+Customers seeking to interconnect a new Electrical Generation Facility associated with service according
+to a Customer Generation (CG) rate shall be required to complete the Declaration of Ownership of
+Electrical Generation Facility under a CG Rate form.
+
+The Department normally uses a Standard Offer contract for Agreements. However, if the Standard Offer
+is not suitable for the needs of the generating and/or storage facility, the customer may request the
+Department to consider a separate nonstandard Agreement.
+
+E. INTERCONNECTION COSTS
+
+Customers are required to reimburse the Department for all expenses associated with completing the
+interconnection of the customer’s parallel-generation facilities including, but not limited to, extensions or
+modifications to the Department’s electric system and related facilities and construction costs.
+
+F. TRANSFORMER REQUIREMENTS
+
+1.
+
+Energy sources rated less than 500kW may be connected on the secondary side of Department-owned
+transformers supplied from the 4800-volt electric system.
+
+Energy sources rated 500-750kW may be required to be connected on the secondary side of dedicated
+Department-owned transformers supplied from the 34,500-volt electric system.
+
+Energy sources rated over 750kKW shall be required to be connected on the secondary side of dedicated
+Department-owned transformers supplied from the 34,500-volt electric system. Transformers shall be
+sized to supply the complete installation and will serve no other customer. Secondary distribution may be
+provided at the most convenient serving voltage for the customer.
+
+Feed-In-Tariff (FiT) solar energy source(s) rated 1,000kKW and above may be connected to the secondary
+side of Customer-owned transformers supplied from the 34,500-volt electric system. In these cases, the
+generation meter shall be located between the Customer-owned transformer and Department-owned
+system protection equipment. The metering equipment shall have a service class of 34,500-volts, Three-
+Phase, Three-Wire. For additional information, see pages 4-21 through 4-36.
+
+The Department may require that the Department-owned transformers used to supply the customer’s
+electric system be sized (i.e., kVA rating) equal to, or greater than, the customer’s total generator capacity.
+
+See TRANSFORMER INSTALLATIONS ON THE CUSTOMER’S PREMISES on page 1-33 for additional
+information.
+
+
+=== PAGE 4 ===
+ELECTRIC SERVICE REQUIREMENTS
+PAGE 8-41 CITY OF LOS ANGELES DEPARTMENT OF WATER AND POWER LA DW P
+Date: 05-01-24 DESIGN GUIDE FOR CUSTOMER-OWNED PARALLEL GENERATING SYSTEMS
+
+G. OPERATING REQUIREMENTS
+
+1.
+
+Customers are required to operate customer owned generating and storage facilities, whether permanent
+or temporary, in accordance with the Agreement, The Department’s Electric Service Requirements, Rules,
+Rate Schedules and all other applicable Codes and Ordinances.
+
+Customers shall not:
+
+a. Energize an un-energized electric line or transformer.
+
+b. Reconnect the energy source after a protective device trip unless the customer’s electric system is
+energized by the Department’s electric system by the Department, or unless the customer's electric
+system is isolated from the Department’s electric system by the Department.
+
+Note: Synchronous generators are capable of maintaining a distribution system energized even after the
+line protective device has opened and separated (relayed) the line from the Department's electric
+system. Since the Department uses automatic reclosing schemes to energize relayed lines after a
+short time delay, customer-owned equipment or Department-owned equipment may be damaged if
+power is restored to a line that is already energized by the customer’s generator(s).
+
+These operating and protective requirements have been established to protect the health and well-being
+of the public and utility workers from malfunctions in Department or customer equipment.
+
+H. METERING
+
+1.
+
+4.
+
+Customers shall provide Department approved metering arrangements for the installation of Department-
+owned generation and generation performance (performance) meters to measure the energy into, or out of,
+the installation at the interconnection point and at the energy source(s) output, respectively.
+
+Exception: Provisions for a Department owned performance meter are no longer required for solar or
+wind generating systems with an aggregate capacity of 30kW or less.
+
+All metering equipment drawings must be submitted to, and approved by, the Department service planner
+before the customer installs any equipment.
+
+The performance meter as specified in these requirements is intended to measure the total output of the
+customer’s generating system. No customer load is permitted on the generating system side of the meter.
+
+Exception: Optional customer installed device(s) used to monitor system performance are permitted
+and are subject to the following conditions:
+
+(1) Device(s) shall be co-located on the same side of the AC disconnect switch as its source
+of power.
+
+(2) A device(s) power source wiring shall not bypass or defeat any AC disconnect switch.
+
+(3) A device(s) power source and low voltage data circuits shall not enter or pass through any
+utility sealed section.
+
+(4) Total device load shall not exceed 100 Watts.
+Whether the service connection is overhead or underground:
+
+a. The line side (top of meter) of the Department Revenue meter used for billing shall be connected to
+Department side, and the load side (bottom of meter) shall be connected to the customer side (the
+generation contribution side).
+
+b. The connections of the performance meter are opposite to those of the revenue meter. The generation
+contribution side is connected to the line side (top of meter) and the Department side is connected to
+the load side (bottom of meter). Refer to drawings on pages 8-16i to 8-34i.
+
+
+=== PAGE 5 ===
+LADWP ELECTRIC SERVICE REQUIREMENTS PAGE 8-5)
+
+CITY OF LOS ANGELES DEPARTMENT OF WATER AND POWER
+
+DESIGN GUIDE FOR CUSTOMER-OWNED PARALLEL GENERATING SYSTEMS Date: 05-01-24
+
+H. METERING (Cont.)
+
+c. The service class of the performance meter shall match the output of the generation source as
+measured by one of the Department’s standard metering configurations. See page 2-5 for standard
+meter configurations.
+
+5. Feed in Tariff (FiT) Generation - Use of current transformers applies to transformer rated meter
+
+installations. In this case, the current transformer polarities shall be facing the Department grid. For a self-
+contained FiT meter, the delivery direction for purpose of metering shall be from the Department grid to the
+line side (top of meter), and the customer’s FiT from the load side (bottom of meter). The Department
+shall specify the class of service available for interconnection. See pages 8-17i (figure 3) and 8-18i (figure
+4) for additional information.
+
+Note: FiT generation taps shall not be made in any utility sealed section or compartment unless
+approved by the Department.
+
+6. Performance Meter Switchboard Review — Manufacturer’s switchboard drawings shall be submitted to
+the Department when the performance meter (regardless of ampacity) and the utility disconnect are
+integrated into a single switchgear unit, see pages 3-3 and 4-2, Manufacturer’s Drawings for Approval.
+
+|. INSPECTIONS
+
+The Department requires that all conditions specified by these requirements be met and verified by the
+Department. In addition, an approval from the permitting agency for portions of the wiring and electrical
+equipment under their jurisdiction is required before the Department will establish the interconnection.
+
+J. LIABILITY
+
+1.
+
+Customers are responsible for damage caused to Department-owned equipment or other customers
+served from the Department’s electric lines as a result of mis-operation or malfunction of the customer’s
+energy source system.
+
+The Department does not assume any responsibility for the protection of the customer’s energy source(s)
+or any other portion of the customer’s electrical system. The customer is fully responsible for protecting the
+customer's system so that faults or other disturbances on the Department’s system do not cause damage
+to the customer’s equipment.
+
+K. DISCONNECTION OF CUSTOMER’S ENERGY SOURCES
+
+1.
+
+GENERAL
+
+In compliance with the Department’s Rules Governing Water and Electric Service, the Department reserves
+the right to disconnect the customer’s energy source(s) from the Department’s electric system:
+
+a. When the customer’s energy source is adversely affecting the Department’s electric system or other
+customer's supplied from the Department’s electric system.
+
+b. When the customer-installed protective system has been defeated or not properly maintained, (lack of
+proper records is considered to be non-maintenance).
+
+c. If the customer denies access to the Department to the generating facility or to required maintenance
+and operating records.
+
+d. Under emergency conditions as determined by the Department.
+
+2. NOTIFICATION
+
+a. Under non-emergency conditions, generally a notice of disconnection will be provided in writing as
+follows:
+
+(1) For energy sources with an aggregate capacity of less than 500kW, the Department will endeavor
+to provide notification 72 hours in advance of the scheduled disconnection.
+
+(2) For energy sources with an aggregate capacity of 500kW or greater, the Department will provide
+notification 72 hours in advance of the scheduled disconnection.
+
+
+=== PAGE 6 ===
+ELECTRIC SERVICE REQUIREMENTS
+PAGE 8-61 CITY OF LOS ANGELES DEPARTMENT OF WATER AND POWER L A DW P
+Date: 05-01-24 DESIGN GUIDE FOR CUSTOMER-OWNED PARALLEL GENERATING SYSTEMS
+
+K. DISCONNECTION OF CUSTOMER’S ENERGY SOURCES (Cont.)
+
+b.
+
+Under emergency conditions, the Department reserves the right to disconnect the customer’s energy
+source(s) without notification.
+
+If the customer-installed protective system becomes inoperative, the customer shall disconnect the
+energy source(s) from the Department's electric system and immediately notify the Department. When
+the protective system problems have been corrected, the customer shall request the Department for
+permission to reconnect the customer generation system.
+
+L. UTILITY DISCONNECTING MEANS
+1. GENERAL
+
+a.
+
+Customers shall furnish, install and maintain circuit disconnect switches as required by State or
+National Electric Code and the Department to isolate the customer's parallel generator, generating
+and/or energy storage system from the Department's electric system. In general, a parallel generator
+AC disconnect switch and a generator circuit disconnect switch will be required for all synchronous
+generating systems, while only a parallel generator AC disconnect switch will be required for induction
+and inverter-based parallel generating systems. In general, an additional AC disconnect switch shall
+be required for energy storage.
+
+Note: A parallel energy source AC disconnect switch shall not isolate a customer’s load panel.
+
+The Department AC Disconnect Switch shall be a safety switch with a readily verifiable visual air gap to
+assure positive circuit disconnect and shall be lockable in the open (off) position with a Department
+standard padlock having a 5/16-inch lock shaft and a 1-inch locking clearance.
+
+Note: A disconnect or circuit breaker with rack-out capability shall not be used to provide a
+readily verifiable visual air gap.
+
+AC disconnect switches shall have the line side of the disconnect switch, that is the fixed portion of the
+switch connected to the Department’s power system. The load side of the switch, that is the movable
+portion of the switch (the blades) shall be connected to the side of the customer’s parallel-generation
+contribution. The blade side of the switch shall contain the fuse, and the fuse shall be “cold sequence”
+so the fuse shall be de-energized from the utility source for safety.
+
+Note: Safety switches shall have a viewing window to allow verification of the open switch condition
+without exposing the Department’s personnel to energized bus. The viewing window shall be
+located on center no higher than 68 inches above the level standing and working space.
+Removing customer-owned fuses shall not be permitted as a means of providing an air gap.
+
+Exception: Unless otherwise requested by the Department, a viewing window is not required for wall
+mounted safety switches if a visual air gap may be verified by way of a hinged cover, the
+potential is less than 600 volts, and where the maximum short-circuit at the AC disconnect
+is 22,000 amperes or less.
+
+Six or more AC disconnect switches connected to any single service point shall be approved
+by a Department engineer and may be limited by the City of Los Angeles Department of Building and
+Safety, or other Authority Having Jurisdiction (AHJ).
+
+A dedicated AC utility disconnect may not be required for inverter-based PV systems with total
+combined aggregate capacities up to and including 30 kW AC per premises. A dedicated AC utility
+disconnect may not be required for inverter-based Battery Energy Storage Systems with total combined
+capacities up to and including 30 kW AC per premises. This includes single-phase and three-phase
+systems. For example, a 30kW photovoltaic system could be installed without a utility disconnect
+switch at the same premises as a 30kW battery energy storage system without a utility disconnect
+switch, provided:
+
+(1) The service supply voltage is less than 600 Volts and,
+(2) The service main disconnect controls all power flow registered by the meter and,
+
+(3) Energy sources are not connected to the meter panel through a line side tap and,
+
+
+=== PAGE 7 ===
+LADWP ELECTRIC SERVICE REQUIREMENTS PAGE 8-77
+
+CITY OF LOS ANGELES DEPARTMENT OF WATER AND POWER
+
+DESIGN GUIDE FOR CUSTOMER-OWNED PARALLEL GENERATING SYSTEMS Date: 05-01-24
+
+L. UTILITY DISCONNECTING MEANS (Cont.)
+
+(4) The combination meter panel is of the ‘self-contained type’ commercial safety socket, residential
+class 320 or less and,
+
+(5) The service consists of no more than six self-contained type meters per premises and,
+
+(6) The service is not fed from the Department’s 34.5kV sub-transmission system.
+
+Note: Services that are converted to the Department's 34.5kV sub-transmission system or exceed
+the limits given above in the future shall require AC utility disconnects be installed for all
+existing energy sources at the customer's expense.
+
+Note: The Department may need to remove the revenue meter to disconnect the customer's
+energy sources when required under section page 8-5i(K).
+
+2. ACCESS
+
+Switches used to disconnect the energy source shall be accessible under all conditions and at all times to
+Department personnel. This may require disconnect switches to be located in a publicly accessible area or
+be provided with an interlock system to gain access to an installation in a security-controlled area.
+
+Exception: Parallel generating systems with an aggregated output capacity of 100kW or less per
+property or premises as determined by the Department. In these cases, performance meters
+and AC disconnect switches must be readily accessible and located on the exterior wall of a
+building or other approved permanent structure, in an approved meter room on the ground
+floor or first basement parking level or such other locations as the Department may designate.
+
+M. SIGNS AND LABELS
+
+1.
+
+The customer shall provide and install the following signs as directed by the Department:
+
+a. A sign at the main service (meter) panel location identifying each energy source AC disconnect
+location.
+
+b. A sign at each Department specified energy source AC disconnect identifying the main service
+location.
+
+c. Asignon each personnel entrance door for Customer Stations.
+
+d. Any other signs deemed necessary by the Department to provide energy source AC disconnect
+location information.
+
+The customer shall provide a sign to be installed by the Department for each Department-owned pad-
+mount transformer and Customer Station connected to the customer’s parallel-generation system.
+
+The customer shall provide and install the following diagrams when required by the Department:
+
+a. Asingle-line diagram located at the main service panel location. The diagram shall be approved by the
+Department and installed by the customer as directed by the Department.
+
+b. A plot plan located at the main service panel showing the location of the energy source AC
+disconnect(s). The plot plan shall be approved by the Department and installed by the customer as
+directed by the Department.
+
+N. PROTECTIVE SCHEMES
+
+1.
+
+Customer generating facilities shall be provided with protective schemes in order to ensure the security of
+the Department’s electric system, security of other customers supplied from the Department's electric
+system and the safety of Department operating personnel.
+
+In general, the Department will provide and install, at the customer’s cost, required protective equipment.
+However, where mutually agreeable between the Department and the customer, the customer may provide
+and install, at the customer’s cost, protective equipment as specified by the Department for:
+
+a. Synchronous generation with an aggregate capacity of less than 300kVA (240kW) and induction
+generation less than 400kVA (320kW) when supplied from the Department’s 4800-volt electric system.
+
+
+=== PAGE 8 ===
+PAGE 8-8) ELECTRIC SERVICE REQUIREMENTS | ADWP
+
+Date:
+
+CITY OF LOS ANGELES DEPARTMENT OF WATER AND POWER
+
+05-01-24 DESIGN GUIDE FOR CUSTOMER-OWNED PARALLEL GENERATING SYSTEMS
+
+N. PROTECTIVE SCHEMES (Cont.)
+
+b. Synchronous generation with an aggregate capacity of less than 400kVA (320kW) and induction
+generation less than 600 kVA (480 kW) when supplied from the Department’s 34,500-volt electric
+system.
+
+c. Inverter-based generation and/or export capable storage with an aggregate capacity of less than
+1,000kW when supplied from any Department electric system.
+
+Note: The values given above are the absolute limits for each individual type of generation or export
+capable storage per customer premises. Aggregation of different types may reduce the limits
+above and require the installation of additional protective equipment. The specific protective
+scheme required is subject to the Department’s available distribution system capacity, see page
+8-2i note A.3.b. for generation integration study requirements.
+
+The Department will install ground fault protection (GFP) equipment, at the customer's cost, for customer
+generating and/or storage facilities with an aggregate capacity of 1,000kW or greater and interconnected
+with the Department’s 34,500-volt electric system.
+
+Note: The Department may require GFP for customer generation and/or storage facilities with an
+aggregate capacity of less than 1,000kW and interconnected with the Department’s 34,500-volt
+electric system when the facilities are located in remote areas or whenever such protection, in the
+Department's judgment, is necessary.
+
+The electrical rating (kW) of the customer’s generating and/or storage facility will determine, in part, the
+configuration in operating characteristics and protection requirements for a customer’s interconnection
+installation. Typical protection equipment requirements include, but are not limited to:
+
+a. Under-voltage (Device 27) protection
+
+b. Over-voltage (Device 59) protection
+
+c. Under-frequency (Device 81U) protection
+
+d. Over-frequency (Device 810) protection
+
+e. Tripping batteries, circuit breakers and battery chargers
+
+Note: See SPECIFICATIONS on page 8-9i for additional information.
+
+Customer’s energy source circuit breakers must positively disconnect under all conditions. In most
+instances this will require the installation of a charger assisted, uninterruptible DC power source.
+
+The Department reserves the right to review and approve any interconnection scheme involving customer
+initiation of the customer interconnecting breaker controls.
+
+Protective equipment shall comply with IEEE1547-2018/2020a and be tested by the customer per
+IEEE1547.1-2020 prior to commissioning. Test reports shall be provided to the Department upon request.
+
+Protective equipment shall be readily accessible to the Department for periodic inspection.
+
+For inverter-based (1,000kW to 10,000kW), synchronous (greater than 320kW), or induction (greater than
+480kW) aggregate capacity parallel generating and/or storage systems, the Department will provide
+additional protective equipment, at the customer's expense, including switchgear with a vacuum interrupter,
+all necessary remote control, communication and protective devices (relays), batteries, and battery
+charger. The customer shall provide and maintain a dedicated communication equipment, see
+TELEMETRY. The customer shall also provide 120 volt single-phase control power to the protection
+equipment, as specified by the Department.
+
+. For parallel generating installations with an aggregate capacity greater than 10,000kW, consult the
+
+Department for requirements.
+
+
+=== PAGE 9 ===
+LADWP ELECTRIC SERVICE REQUIREMENTS PAGE 8-9}
+
+CITY OF LOS ANGELES DEPARTMENT OF WATER AND POWER
+
+DESIGN GUIDE FOR CUSTOMER-OWNED PARALLEL GENERATING SYSTEMS Date: 05-01-24
+
+O. TELEMETRY
+
+1. When required by the Department (See PROTECTIVE SCHEMES), the customer shall provide all
+communications cabinets, network equipment, cables, connectors and house power as specified by the
+Department, see the Department’s Standard Telecom Requirements guide. For projects located in the
+Owens Valley, consult the Department for specific requirements.
+
+2. For installations with an aggregate capacity greater than 30kW, but less than 1,000kW, the Department
+may utilize the performance meter to provide continuous output information at the Department’s Energy
+Control Center. This information shall include, but not be limited to:
+
+a. Energy source voltage, current, watts, vars, and watt-hours.
+
+3. When required by the Department (see PROTECTIVE SCHEMES), the customer shall pay for equipment with
+relay protection, real time metering, and SCADA at the generating facilities interconnection point to provide
+SCADA information, and remote control to the Department’s Energy Control Center. This equipment will be
+specified and installed by the Department. The information shall include, but not be limited to:
+
+a. Real time analog reads for the energy source: watts, vars, voltage, current, and watt-hours.
+
+b. Status and alarm indication of each energy source synchronizing disconnect information (i.e., open or
+closed).
+
+c. Control capability of the interconnection circuit breaker(s) (i.e. trip or close)
+P. MAINTENANCE
+
+1. Where the Department installs the protective equipment, the Department is responsible for maintaining
+such equipment. Where the customer installs the required protective equipment, the customer shall
+maintain such equipment and provide monthly maintenance of the tripping battery and the battery charger.
+
+2. For customer parallel-generation installations with an aggregate capacity of 500kW or more, maintenance
+of the customer’s energy source must be scheduled in advance to be compatible with the Department’s
+electric system load requirements.
+
+Q. RECORDS
+
+1. Customers shall provide, upon request, accurate records of the customer’s generating facility. Such
+records shall include but not be limited to:
+
+a. Tripping batteries and battery chargers, where protective equipment is installed by the customer:
+
+(1) Date and time of maintenance
+
+(2) Description of maintenance performed
+b. Each energy source:
+
+1
+2
+
+On-line and off-line times
+
+Generation output (kW)
+
+4
+5
+
+(1)
+(2)
+(3) Maintenance outages
+(4) Trip operations
+
+(5)
+
+Any unusual events
+
+2. The Department reserves the right to periodically review the customer’s maintenance records for system
+analysis and to evaluate system disturbances.
+
+
+=== PAGE 10 ===
+PAGE 8-101 ELECTRIC SERVICE REQUIREMENTS | ADWP
+
+Date:
+
+CITY OF LOS ANGELES DEPARTMENT OF WATER AND POWER
+
+05-01-24 DESIGN GUIDE FOR CUSTOMER-OWNED PARALLEL GENERATING SYSTEMS
+
+R. SPECIFICATIONS
+
+1.
+
+Customer generating facilities shall be constructed to meet the following specifications:
+a. System frequency shall be 60 cycles per second (Hz).
+
+b. Signal distortion shall be limited to 5-percent of the RMS value of the Department’s serving voltage and
+25-percent of the waveform.
+
+c. Power factor of the customer's electric system shall be limited as follows:
+
+(1) For parallel generating systems with an aggregate capacity of less than 1,000kW, the average
+monthly on-peak power factor shall not be less than 85-percent lagging.
+
+(2) For generating systems with an aggregate capacity of 1,000kW or greater, the power factor shall
+not be less than 99.5-percent lagging or more than 99.5-percent leading.
+
+Note: The Department will measure these specifications at the metering facility.
+
+Protective equipment relays used to open and close generator circuit breakers shall operate with the
+following specifications:
+
+Under-voltage (Device 27), 92 volts or lower with a maximum time delay of 2.0 seconds
+
+a
+
+b. Over-voltage (Device 59), 138 volts or more with a maximum time delay of 2.0 seconds
+
+c. Under-frequency (Device 81U), 57 Hz or lower with a maximum time delay of 2.5 seconds
+d
+
+Over-frequency (Device 810), 61 HZ or more with a maximum time delay of 2.5 seconds
+
+S. TESTING AND EVALUATION
+
+1.
+
+Customers shall test the generating facility before interconnecting with the Department's electric system
+and provide written certification to the Department that the generating facility meets the Department's
+specifications.
+
+The Department reserves the right to test the customer’s equipment before approving the connection to the
+Department's electric system and the right to monitor onsite operations of the equipment.
+
+If the generating facility does not meet the Department’s specifications, the Department may require the
+customer to disconnect the facility and make corrections or reimburse the Department for corrections as
+specified in the Agreement.
+
+After the Department determines that the operation of an energy source will not be hazardous or impair the
+reliability of the Department's electric system, the Department will provide written permission to complete
+the interconnection
+
+Periodic Interconnection Tests - Where the customer installs protective equipment, the customer shall have
+the equipment tested at two-year intervals by a Department approved testing agency at the customer’s
+cost. It is the customer’s responsibility to arrange for contracts and payments to the approved testing
+agency and to complete testing within the two-year interval (see PROTECTIVE SCHEMES).
+
+T. GENERATORS AND GENERATING SYSTEMS
+
+1.
+
+Parallel generating systems operated by customers shall be connected to the customer’s electric system
+on the load side of the revenue meter at a permanent Department approved location.
+
+Note: Parallel generators or generating systems shall not be installed within any mobile home park
+unless residential structures are individually metered, mounted to a permanent foundation system
+and given preliminary approval by the Department's Tract Design group, see page 1-4. Each
+proposed installation shall require Department engineering review and may be approved ona
+case-by-case basis only if the above conditions are met and the Department determines that
+there are adequate facilities to support the proposed generation.
+
+
+=== PAGE 11 ===
+LADWP ELECTRIC SERVICE REQUIREMENTS PAGE 8-11i
+
+CITY OF LOS ANGELES DEPARTMENT OF WATER AND POWER
+
+DESIGN GUIDE FOR CUSTOMER-OWNED PARALLEL GENERATING SYSTEMS Date: 05-01-24
+
+T. GENERATORS AND GENERATING SYSTEMS (Cont.)
+
+2.
+
+Parallel generating systems may be connected on either the line side or load side of the customer’s service
+disconnecting means as allowed by the permitting agency or other Authority Having Jurisdiction (AHJ) but
+are subject to the following restrictions:
+
+a. Parallel-generation circuit connections may not be made in, or accessed through, any sealed utility
+compartment.
+
+Exception: Where metering equipment has been specifically designed and manufactured with a line
+side tap terminating in a section that is accessible to the customer, and has been labeled
+and certified by the manufacturer for the sole purpose of connecting parallel generating
+systems.
+
+b. Generation circuit conduits and conductors shall not be routed through any sealed utility compartment.
+
+Note: sealed utility compartments include terminating pull boxes and pull sections, metering
+compartments, and test-bypass compartments.
+
+Caution: Existing service equipment may not have a suitable parallel-generation connection point on
+the line side of the customer’s service over-current device and may require third party
+certification of any proposed connection location. Consult with LADBS or other applicable
+permitting agency regarding third party certification requirements.
+
+Single-phase generation sources are limited to 30kW total capacity per premises unless dedicated on-site
+transformation is provided. Installations with individual single-phase inverters greater than 30kW shall use
+a three-phase interconnection system and balance the sources between the phases.
+
+For synchronous generators, automatic synchronization is preferred. However, manual synchronization
+with relay supervision is acceptable.
+
+Synchronous generators designed to be started as induction motors may not require synchronizing relays,
+but will not be permitted to start up if it results in detrimental effects to the Department’s electric system.
+
+Voltage regulation equipment must be provided on the customer’s generator to maintain generation voltage
+to within normal Department limits.
+
+Induction generator installations may require capacitors to correct the power factor. Protection schemes
+must be coordinated to ensure that the capacitors will always be disconnected before the induction
+generator is disconnected.
+
+Generator installations rated 750kW or less may be required by the Department to meet conditions and
+specifications normally required for installations rated over 750kW. Safeguards that will be required and
+the degree of sophistication will depend on the type of equipment and the interconnection scheme.
+
+U. INVERTERS
+
+Inverters may be used in customer generation systems that are interconnected with the Department’s Electric
+system (grid). An inverter shall:
+
+1.
+
+Be permanently utility interactive at the point of interconnection to the grid.
+
+Exception: Inverters may function in “off-grid” mode during a utility outage under the following
+circumstances:
+
+a. The inverter supplies power to an outlet on the inverter unit that is accessible only to qualified service
+personnel per UL1741SA standards. Warning: Outlet circuit shall not be integrated with the buildings
+internal wiring system.
+
+b. The inverter supplies power to charge a battery backup system to feed critical loads (See section V).
+
+Hybrid inverters may be used, provided that any additional “off-grid” AC outputs are never connected in
+parallel with the Department’s grid.
+
+
+=== PAGE 12 ===
+CITY OF LOS ANGELES DEPARTMENT OF WATER AND POWER
+
+PAGE 8-12i ELECTRIC SERVICE REQUIREMENTS LA DWP
+
+Date: 05-01-24 DESIGN GUIDE FOR CUSTOMER-OWNED PARALLEL GENERATING SYSTEMS
+U. INVERTERS (Cont.)
+
+Systems with battery storage may require additional testing to confirm that the battery system, with the
+
+utility side de-energized, provides power to the designated customer circuits only, and does not back feed
+
+into the main panel (into the Department's grid).
+
+2. Be certified by a Nationally Recognized Testing Laboratory to fully comply with UL1741SA performance
+and grid safety standards. The Certificate of Compliance should state that this utility interactive inverter met
+all applicable requirements of current editions of UL1741SA and IEEE1547-2018/2020a, including testing
+conformance to IEEE1547.1-2020. Also, refer to sections R and S (pages 8-9i & 8-10i) for specification,
+testing and evaluation requirements. All inverters shall be included in the California Energy Commission’s
+(CEC) list.
+
+3. Be accepted by the Department of Building and Safety, City of Los Angeles, or other Authority Having
+Jurisdiction (AHJ).
+
+4. Have safeguards to prevent power flow into un-energized Department's electric system.
+
+5. Have the voltage output match the electrical characteristics of the service provided by the Department. For
+example, a single-phase inverter shall not be connected to a three-phase service, and an inverter of one
+voltage class shall not be connected to a service of a different voltage class. See page 1-25 for available
+service classes.
+
+Exception 1: Customer provides, at their expense, transformation between the performance meter and
+NET energy or generation meter to match the electrical characteristics of the service
+provided by the Department.
+
+Exception 2: When connected to a three-phase service, three single-phase inverters may be used in lieu
+of a three-phase inverter, provided that the customer maintains IEEE1547-2018/2020a
+compliance by installing additional certified equipment to shut down all inverters in the
+event of a “loss or open of phase” event and maintain a balanced condition when
+connected to a three-phase system.
+
+6. Have an output that may be measured by a performance meter (see section H) conforming to one of the
+Department’s standard meter configurations. See page 2-5 for standard meter configurations.
+
+7. Operate as a current source rather than a voltage source; so that open-circuited inverter shall have an
+output of zero volts. It shall only produce power output when it is connected to an energized Electric Power
+System (EPS). The inverter’s voltage output will not be independent from the Department’s service supply
+voltage, but it will be synchronized with it in such a way as to produce a current and power flow from the
+Customer's parallel-generation into the Department’s power system (grid).
+
+8. Operate within the Department’s acceptable service supply voltage ranges. See Acceptable Voltage
+Ranges, page 1-26 for additional information.
+
+9. For the purposes of these requirements, be defined by its maximum continuous output power at unity
+power factor.
+
+10. Include a Utility Settings Compliance report indicating conformance with the Department’s UL1741SA
+Smart Inverter Technical Requirements. This report shall be submitted to the Department upon request.
+
+V. Battery Backup Systems
+
+Battery backup systems are used to provide emergency standby power to essential loads during a disturbance
+on the Department’s electric system (grid), see pages 8-20i (figure 6) and 8-22i (figure 8). A battery backup
+system shall:
+
+1.
+
+Be used to serve essential loads on the customer's premises, only.
+
+Have safeguards to prevent a parallel connection with the Department's electric system such as an
+external automatic transfer switch (ATS), manual transfer switch, or double throw safety switch that is listed
+by a Nationally Recognized Testing Laboratory for this application (example: UL1008 standard for transfer
+switches). See EMERGENCY OR STAND-BY GENERATORS, page 1-32 for additional information.
+
+
+=== PAGE 13 ===
+LADWP ELECTRIC SERVICE REQUIREMENTS PAGE 8-13}
+
+CITY OF LOS ANGELES DEPARTMENT OF WATER AND POWER
+
+DESIGN GUIDE FOR CUSTOMER-OWNED PARALLEL GENERATING SYSTEMS Date: 05-01-24
+
+V. Battery Backup Systems (Cont.)
+
+2.
+
+Be reviewed and approved by the Department before construction begins. Customer shall provide copies
+of the one-line diagrams and documentation describing modes of operation to the Department prior to start
+of construction. Review by the Department of Customer's specifications shall not be construed as
+confirming or endorsing the design, or as implying any warranty of safety or durability of the Customer
+facility. The Department shall not, by reason of review or failure to review, be responsible for strength,
+details of design, adequacy or capacity of the Customer facility or said equipment, nor shall the
+Department’s acceptance be deemed to be an endorsement of the Customer facility.
+
+NOTE: Batteries shall not be located in the meter room. See pages 5-9 and 5-10 for more information.
+Contact the Los Angeles Department of Building and Safety (LADBS) or other Authority Having
+Jurisdiction (AHJ) for specific code requirements.
+
+W. Battery Peak Demand Shaving Systems
+
+Battery peak demand shaving systems are used for energy demand management and are typically operated in
+parallel with the Department's electric system (grid), see page 8-21i (figure 7). A battery peak demand shaving
+system shall:
+
+1.
+
+2.
+
+Be used to monitor and control the customer’s peak energy usage, only.
+Not have customer owned CT’s, monitoring devices or wiring located in any Department sealed section.
+
+Be utility interactive and certified by a Nationally Recognized Testing Laboratory to fully comply with
+IEEE1547-2018/2020a and UL1741SA or UL9540 for grid safety, see page 8-11i.
+
+Not be used with Department Generation or NET energy metering or allow for the export of energy to the
+Department's grid, see page 8-21i (figure 7).
+
+Only be operated in parallel with the Department’s transmission and distribution system for more than one
+second if Customer has on file with the Department the latest version of the Customer Interconnection
+Agreement provided by the Department to address safe parallel operation of customer-owned battery
+energy storage systems.
+
+Be reviewed and approved by the Department before construction begins. Customer shall provide copies
+of the one-line diagrams and documentation describing modes of operation to the Department prior to start
+of construction. Review by the Department of Customer’s specifications shall not be construed as
+confirming or endorsing the design, or as implying any warranty of safety or durability of the Customer
+facility. The Department shall not, by reason of review or failure to review, be responsible for strength,
+details of design, adequacy or capacity of the Customer facility or said equipment, nor shall the
+Department’s acceptance be deemed to be an endorsement of the Customer facility.
+
+NOTE: Batteries shall not be located in the meter room. See pages 5-9 and 5-10 for more information.
+Contact the Los Angeles Department of Building and Safety (LADBS) or other Authority Having
+Jurisdiction (AHJ) for specific code requirements.
+
+X. Battery Energy Storage Systems (BESS)
+
+Other battery energy storage systems are typically used to store energy for self-consumption and to provide
+emergency standby power to essential loads during a disturbance on the Department's electric grid, see pages
+8-23i (figure 9) to 8-36i (figure 22) and 8-38i (figure 24). Storage systems of this type are operated in parallel
+with the Department's electric system (grid) and shall:
+
+1.
+
+2.
+
+Not have customer owned CT’s, monitoring devices or wiring located in any Department sealed section.
+
+Be utility interactive and certified by a Nationally Recognized Testing Laboratory to fully comply with
+IEEE1547-2018/2020a and UL1741SA or UL9540 for grid safety, see page 8-11i.
+
+
+=== PAGE 14 ===
+; ELECTRIC SERVICE REQUIREMENTS
+PAGE 8-14i CITY OF LOS ANGELES DEPARTMENT OF WATER AND POWER LA DW P
+Date: 05-01-24 DESIGN GUIDE FOR CUSTOMER-OWNED PARALLEL GENERATING SYSTEMS
+
+X. Battery Energy Storage Systems (Cont.)
+
+3.
+
+Comply with the requirements for BATTERY BACKUP SYSTEMS when functioning in backup mode, see
+page 8-12i.
+
+Not export to the grid though Department NET energy metering unless exclusively charged by eligible
+renewable parallel-generation. See pages 8-29i (figure 15) and 8-30i (figure 16) for additional information.
+
+Include power controls that prevent the inadvertent export of energy when required under note 4 of this
+section. Power control settings shall be securely adjustable by the manufacturer or other qualified
+electrical worker as designated by the manufacturer. The customer shall not have direct access to power
+control settings. A settings compliance report shall be provided to the Department upon request.
+
+Be operated parallel with the Department’s transmission and distribution system for more than one second
+if Customer has on file with the Department the latest version of the Customer Interconnection Agreement
+provided by the Department to address safe parallel operation of customer-owned battery energy storage
+systems.
+
+Be programmed to operate only in a manner which is consistent with the Department's Electric Service
+Requirements, and may require distribution system upgrades as determined after Department review to
+accommodate the total size of the electrical generating facility and the maximum capacity of all battery
+energy storage systems.
+
+Be reviewed and approved by the Department before construction begins. Customer shall provide copies
+of the one-line diagrams and documentation describing modes of operation to the Department prior to start
+of construction. Review by the Department of Customer's specifications shall not be construed as
+confirming or endorsing the design, or as implying any warranty of safety or durability of the Customer
+facility. The Department shall not, by reason of review or failure to review, be responsible for strength,
+details of design, adequacy or capacity of the Customer facility or said equipment, nor shall the
+Department’s acceptance be deemed to be an endorsement of the Customer facility.
+
+Not be operated if Customer fails to provide any information requested by the Department regarding the
+solar electrical generating facility that includes such battery energy storage system.
+
+NOTE: Batteries shall not be located in the meter room. See pages 5-9 and 5-10 for more information.
+Contact the Los Angeles Department of Building and Safety (LADBS) or other Authority Having
+Jurisdiction (AHJ) for specific code requirements
+
+10. Comply with the following codes/standards or its successors, if applicable:
+
+UL 1741/1741SA, UL 1793, UL 1973, UL 9540, UL 9540A
+
+IEEE 1547-2018/2020a, IEEE 1547.1-2020 , IEEE P2686, IEEE 519, IEEE 693
+NFPA 1, NFPA 70, NFPA 70B, NFPA 855, NFPA 72
+
+NEC 480, NEC 705,NEC 706
+
+ANSI C84. 2006
+
+CFC 1206, IFC-2018/2021
+
+IEC 62933-5-2
+
+aroao0p
+
+
+=== PAGE 15 ===
+LADWP ELECTRIC SERVICE REQUIREMENTS PAGE 8-15)
+
+CITY OF LOS ANGELES DEPARTMENT OF WATER AND POWER
+
+DESIGN GUIDE FOR CUSTOMER-OWNED PARALLEL GENERATING SYSTEMS Date: 05-01-24
+
+TYPICAL INTERCONNECTION ARRANGEMENT
+SOLAR NET ENERGY METERING (80kW OR LESS)
+
+UTILITY
+GRID
+
+GENERATION
+UTILITY
+UTILITY DISCONNECT SOLAR
+TRANSFORMER (NOTE 1) PANELS
+
+GRID INTERACTIVE
+UTILITY METER PANEL-Q INVERTER
+
+OR SWITCHBOARD _ |
+(NOTE 2)
+
+LOADS
+
+a I
+
+CUSTOMER | | |
+I
+
+I
+
+‘N’ - NET METER
+<> POWER FLOW
+
+FIGURE 1
+
+Note: This single line diagram has been simplified to illustrate the Department's interconnection requirements and does not
+necessarily represent all possible equipment arrangements. Contact the Los Angeles Department of Building and
+Safety (LADBS) or other Authority Having Jurisdiction (AHJ) for specific code requirements.
+
+
+=== PAGE 16 ===
+PAGE 8-16i ELECTRIC SERVICE REQUIREMENTS LA DWP
+
+CITY OF LOS ANGELES DEPARTMENT OF WATER AND POWER
+
+Date: 05-01-24 DESIGN GUIDE FOR CUSTOMER-OWNED PARALLEL GENERATING SYSTEMS
+
+TYPICAL INTERCONNECTION ARRANGEMENT
+SOLAR NET ENERGY METERING (GREATER THAN 30kW)
+
+UTILITY
+
+GRID
+UTILITY GRID
+
+PROTECTIVE SCHEME
+({ NOTE 5) GENERATION
+
+UTILITY
+UTILITY UTILITY METER PANEL DISCONNECT SOLAR
+TRANSFORMER ( SEALED SECTION ) (NOTE 1) PANELS
+
+(NOTE 3)
+GRID INTERACTIVE
+UTILITY METER PANEL INVERTER
+OR SWITCHBOARD
+(NOTE 2) U
+
+CUSTOMER
+LOADS
+_— _ NC
+OPTIONAL CUSTOMER owner IF REQUIRED OPTIONAL CUSTOMER OWNED
+PERFORMANCE MONITORING ( NOTE 6) PERFORMANCE MONITORING
+PREFERRED LOCATION ALTERNATE LOCATION
+
+( NOTE 4) (NOTE 4)
+
+"N’ - NET METER
+
+‘P’ - GENERATION PERFORMANCE METER
+
+“R’ - CUSTOMER PROVIDED REAL TIME (NON-REVENUE) PRODUCTION METER
+—<—»— POWER FLOW
+
+*Solar NET energy metering is not available for total system capacities of 1MW and above.
+
+FIGURE 2
+
+Note: This single line diagram has been simplified to illustrate the Department's interconnection requirements and does not
+necessarily represent all possible equipment arrangements. Contact the Los Angeles Department of Building and
+Safety (LADBS) or other Authority Having Jurisdiction (AHJ) for specific code requirements.
+
+
+=== PAGE 17 ===
+LADWP ELECTRIC SERVICE REQUIREMENTS PAGE 8-17;
+
+CITY OF LOS ANGELES DEPARTMENT OF WATER AND POWER
+
+DESIGN GUIDE FOR CUSTOMER-OWNED PARALLEL GENERATING SYSTEMS Date: 05-01-24
+
+TYPICAL INTERCONNECTION ARRANGEMENT
+SOLAR FEED IN TARIFF ( FIT ) GENERATION METERING
+( UTILITY-OWNED TRANSFORMER )
+
+UTILITY
+
+GRID
+UTILITY GRID
+
+PROTECTIVE SCHEME
+{ NOTE 5)
+
+GENERATION
+
+UTILITY —/7 | UTILITY SOLAR
+
+TRANSFORMER DISCONNECT PANELS
+
+(NOTE 1)
+
+GRID INTERACTIVE
+
+UTILITY METER PANEL INVERTER
+OR SWITCHBOARD
+
+( SEE NOTE 2)
+
+IN| _
+
+STATION
+SERVICE
+LOADS
+{ NOTE 7 )
+
+Lb IF REQUIRED <
+
+( NOTE 6)
+
+‘G’ - GENERATION INTERCHANGE METER
+‘R’ - CUSTOMER PROVIDED REAL TIME (NON-REVENUE) PRODUCTION METER
+—<—»— POWER FLOW
+
+FIGURE 3
+
+Note: This single line diagram has been simplified to illustrate the Department's interconnection requirements and does not
+necessarily represent all possible equipment arrangements. Contact the Los Angeles Department of Building and
+Safety (LADBS) or other Authority Having Jurisdiction (AHJ) for specific code requirements.
+
+
+=== PAGE 18 ===
+. ELECTRIC SERVICE REQUIREMENTS
+PAGE 8-18i CITY OF LOS ANGELES DEPARTMENT OF WATER AND POWER L A DW P
+Date: 05-01-24 DESIGN GUIDE FOR CUSTOMER-OWNED PARALLEL GENERATING SYSTEMS
+TYPICAL INTERCONNECTION ARRANGEMENT
+SOLAR FEED IN TARIFF ( FIT ) GENERATION METERING
+( CUSTOMER-OWNED TRANSFORMER )
+UTILITY
+GRID
+UTILITY GRID
+PROTECTIVE SCHEME
+{NOTE 5)
+UTILITY METERED casted SOLAR
+HIGH VOLTAGE —_r DISCONNECT PANELS
+SWITCHBOARD
+
+NOTE 1
+(NOTE 2) ( GRID INTERACTIVE
+INVERTER
+! LINE
+IN
+SEALED 7)
+
+LOAD SECTION
+
+[A
+CUSTOMER-OWNED MAIN CB
+
+TRANSFORMER
+
+STATION LoA
+
+SERVICE
+LOADS
+
+(NOTE 7)
+
+NOTE 6
+
+’G’ - GENERATION INTERCHANGE METER
+’R’ - CUSTOMER PROVIDED REAL TIME (NON-REVENUE) PRODUCTION METER
+—«<—>- POWER FLOW
+
+FIGURE 4
+
+Note: This single line diagram has been simplified to illustrate the Department's interconnection requirements and does not
+necessarily represent all possible equipment arrangements. Contact the Los Angeles Department of Building and
+Safety (LADBS) or other Authority Having Jurisdiction (AHJ) for specific code requirements.
+
+
+=== PAGE 19 ===
+LADWP ELECTRIC SERVICE REQUIREMENTS PAGE 8-19)
+
+CITY OF LOS ANGELES DEPARTMENT OF WATER AND POWER
+
+DESIGN GUIDE FOR CUSTOMER-OWNED PARALLEL GENERATING SYSTEMS Date: 05-01-24
+
+TYPICAL INTERCONNECTION ARRANGEMENT
+SYNCHRONOUS GENERATION METERING
+
+UTILITY
+GRID
+UTILITY GRID
+PROTECTIVE SCHEME
+(NOTE 5) UTILITY METER PANEL
+( SEALED SECTION }
+UTILITY (NOTE 3)
+TRANSFORMER UTILITY METER PANEL
+OR SWITCHBOARD 7 NOTES) GENERATION
+(NOTE 2) UTILITY
+
+— DISCONNECT
+(NOTE 1)
+
+cu
+|
+! 1
+SEALED
+
+LOAD SECTION
+
+pot t ccc eee eee pa----- yy’
+
+ESSENTIAL
+
+' CUSTOMER pe
+
+| LOADS
+
+(GEN CB
+
+I
+
+SYNCHRONOUS
+GENERATOR
+1
+
+I
+
+LL
+
+GENERATOR
+
+PROTECTION AND (27)
+GENERATION CIRCUIT SYNCHRONIZATION (9)
+
+UTILITY
+
+| DISCONNECT Gu)
+
+| (NOTE 1) G10)
+
+‘G’ - GENERATION METER
+
+‘P’ - GENERATION PERFORMANCE METER
+
+"R’ - CUSTOMER PROVIDED REAL TIME (NON-REVENUE) PRODUCTION METER
+—«—»— POWER FLOW
+
+FIGURE 5
+
+Note: This single line diagram has been simplified to illustrate the Department's interconnection requirements and does not
+necessarily represent all possible equipment arrangements. Contact the Los Angeles Department of Building and
+Safety (LADBS) or other Authority Having Jurisdiction (AHJ) for specific code requirements.
+
+
+=== PAGE 20 ===
+; ELECTRIC SERVICE REQUIREMENTS
+PAGE 8-20i CITY OF LOS ANGELES DEPARTMENT OF WATER AND POWER L A DW P
+
+Date: 05-01-24 DESIGN GUIDE FOR CUSTOMER-OWNED PARALLEL GENERATING SYSTEMS
+
+TYPICAL INTERCONNECTION ARRANGEMENT
+BATTERY BACKUP
+
+UTILITY
+GRID
+UTILITY METER PANEL
+UTILITY OR SWITCHBOARD EMERGENCY
+TRANSFORMER (NOTE 2) PANEL
+BACKUP SYSTEM SOLAR
+__ Ff STAND-ALONE PANELS
+_ | = | INVERTER ( BACKUP ARRAY )
+Ne | | |
+FO 106 OG:
+I |
+SEALED
+LOAD SECTION IN
+van dy
+VAY
+MAIN CB ESSENTIAL Dc)
+CUSTOMER |< “> IN/OUT
+LOADS IN] AC bc |
+I
+CHARGING ,
+CIRCUIT |
+P|
+
+OUT —_—
+
+NO —_
+BATTERY
+STORAGE
+TRANSFER SWITCH (NOTE 10)
+
+(NOTE 8)
+
+‘MY’ - REVENUE METER
+—«—»— POWER FLOW
+
+FIGURE 6
+
+Note: This single line diagram has been simplified to illustrate the Department's interconnection requirements and does not
+necessarily represent all possible equipment arrangements. Contact the Los Angeles Department of Building and
+Safety (LADBS) or other Authority Having Jurisdiction (AHJ) for specific code requirements.
+
+
+=== PAGE 21 ===
+LADWP ELECTRIC SERVICE REQUIREMENTS PAGE 8-241
+
+CITY OF LOS ANGELES DEPARTMENT OF WATER AND POWER
+
+DESIGN GUIDE FOR CUSTOMER-OWNED PARALLEL GENERATING SYSTEMS Date: 05-01-24
+
+TYPICAL INTERCONNECTION ARRANGEMENT
+DEDICATED PEAK DEMAND SHAVING SYSTEM
+
+UTILITY
+GRID
+UTILITY
+UTILITY DISCONNECT
+TRANSFORMER AAA (NOTE 1) PEAK DEMAND
+
+WON SHAVING SYSTEM
+(GRID INTERACTIVE)
+
+UTILITY METER PANEL (NOTE 9)
+
+OR SWITCHBOARD
+(NOTE 2) LI
+0c)
+
+CUSTOMER
+LOADS
+
+BATTERY
+STORAGE
+(NOTE 10)
+
+‘M’ - REVENUE METER
+’32R’ - REVERSE POWER RELAY
+—«—»— POWER FLOW
+
+FIGURE 7
+
+Note: This single line diagram has been simplified to illustrate the Department's interconnection requirements and does not
+necessarily represent all possible equipment arrangements. Contact the Los Angeles Department of Building and
+Safety (LADBS) or other Authority Having Jurisdiction (AHJ) for specific code requirements.
+
+
+=== PAGE 22 ===
+; ELECTRIC SERVICE REQUIREMENTS
+PAGE 8-223 CITY OF LOS ANGELES DEPARTMENT OF WATER AND POWER LA DW P
+Date: 05-01-24 DESIGN GUIDE FOR CUSTOMER-OWNED PARALLEL GENERATING SYSTEMS
+
+TYPICAL INTERCONNECTION ARRANGEMENT
+SOLAR NET ENERGY METERING + BATTERY BACKUP
+AC-Coupled (GREATER THAN 30kW)
+
+UTILITY
+GRID
+UTILITY GRID
+PROTECTIVE SCHEME
+(NOTE 5) GENERATION
+UTILITY SOLAR
+UTILITY UTILITY METER PANEL DISCONNECT PANELS
+
+TRANSFORMER
+(NOTE 3)
+
+Ye GRID INTERACTIVE
+
+UTILITY METER PANEL INVERTER
+
+OR SWITCHBOARD ee
+( NOTE 2) ik
+IN| _
+
+LINE | [, Dc) |
+}
+
+{ SEALED SECTION ) ( NOTE 1) ( NET ARRAY }
+
+MAIN CB
+
+oi UN
+
+CUSTOME
+LOADS
+
+t
+
+(
+Nvas CUSTOMER OWNED
+
+GENERATION MONITORING SYSTEM
+
+(NOTE 4) SOLAR
+a PANELS
+EMERGENCY, Ln BACKUP SYSTEM { BACKUP ARRAY }
+PANEL STAND-ALONE
+“i
+
+ti
+
+f _
+ESSENTIAL
+CUSTOMER
+LOADS
+aN ! IN/OUT
+CHARGING
+CIRCUIT
+|
+‘| Lp —_
+= ie BATTERY
+TRANSFER SWITCH STORAGE
+{NOTE 8) {NOTE 10)
+'N’ - NET METER
+
+‘P’ - GENERATION PERFORMANCE METER
+‘R’ - CUSTOMER PROVIDED REAL TIME (NON-REVENUE) PRODUCTION METER
+-=—t-»-- POWER FLOW
+
+*Solar NET energy metering is not available for total system capacities of 1MW and above.
+FIGURE 8
+
+Note: This single line diagram has been simplified to illustrate the Department's interconnection requirements and does not
+necessarily represent all possible equipment arrangements. Contact the Los Angeles Department of Building and
+Safety (LADBS) or other Authority Having Jurisdiction (AHJ) for specific code requirements.
+
+
+=== PAGE 23 ===
+LADWP ELECTRIC SERVICE REQUIREMENTS PAGE 8-231
+
+CITY OF LOS ANGELES DEPARTMENT OF WATER AND POWER
+
+DESIGN GUIDE FOR CUSTOMER-OWNED PARALLEL GENERATING SYSTEMS Date: 05-01-24
+
+TYPICAL INTERCONNECTION ARRANGEMENT
+SOLAR NET ENERGY METERING WITH BATTERY ENERGY STORAGE SYSTEM (BESS) + BACKUP
+DC-Coupled or AC-Back Coupled (30kW OR LESS)
+
+UTILITY SOLAR
+GRID PANELS
+
+GENERATION ( NET ARRAY )
+UTILITY
+DISCONNECT
+(NOTE 1)
+UTILITY
+TRANSFORMER |
+I
+I
+
+HYBRID INVERTER
+
+GRID INTERACTIVE
+UTILITY METER PANEL
+OR SWITCHBOARD ar:
+
+(NOTE 2) €@
+I ———
+\ SEALED _——_
+LOAD SECTION —
+BATTERY
+MAIN CB STORAGE
+( NOTE 10)
+pocceeceeeee qonceeee- |
+| COMM.
+_¢ CKT. 1
+CUSTOMER
+LOADS 1 un
+CT/MTR O
+DEMAND
+RESPONSE
+SIGNAL
+( NOTE 11)
+
+VY
+
+ESSENTIAL
+
+CUSTOMER
+LOADS
+
+PANEL --——--
+(NOTE 12) D
+
+X LOAD MONITORING CIRCUIT
+
+"N’ - NET METER
+~—=«—»— POWER FLOW
+
+FIGURE 9
+
+Note: This single line diagram has been simplified to illustrate the Department's interconnection requirements and does not
+necessarily represent all possible equipment arrangements. Contact the Los Angeles Department of Building and
+Safety (LADBS) or other Authority Having Jurisdiction (AHJ) for specific code requirements.
+
+
+=== PAGE 24 ===
+; ELECTRIC SERVICE REQUIREMENTS
+PAGE 8-241 CITY OF LOS ANGELES DEPARTMENT OF WATER AND POWER LA DW P
+Date: 05-01-24 DESIGN GUIDE FOR CUSTOMER-OWNED PARALLEL GENERATING SYSTEMS
+
+TYPICAL INTERCONNECTION ARRANGEMENT
+SOLAR NET ENERGY METERING WITH BATTERY ENERGY STORAGE SYSTEM (BESS) + BACKUP
+DC-Coupled or AC-Back Coupled (GREATER THAN 30kW)
+
+UTILITY SOLAR
+GRID UTILITY GRID PANELS
+NET ARRAY
+PROTECTIVE SCHEME ae (
+(NOTE 5) DISCONNECT
+(NOTE 1)
+UTILITY
+
+TRANSFORMER
+
+GRID INTERACTIVE
+HYBRID INVERTER
+
+UTILITY METER PANEL |
+OR SWITCHBOARD —--
+(NOTE 2) €@ |
+!
+'
+Loap SEALED | LINE | l ,
+|
+1 4
+
+QI
+
+DIAC ) —
+
+Ly BATTERY
+i STORAGE
+L (NOTE 10)
+po-------
+( NOTE 6) COMM. |
+CKT. |
+
+CUSTOME
+LOADS
+
+F
+
+DEMAND
+RESPONSE
+SIGNAL
+(NOTE 11}
+
+MERGENCY
+
+T
+
+ne
+
+AUTOMATIC ESSENTIAL
+TRANSFER SWITCH CUSTOMER
+(NOTE 8) LOADS
+bee ee ]
+
+X LOAD MONITORING CIRCUIT
+
+‘N’ - NET METER
+
+‘P’ - GENERATION PERFORMANCE METER
+
+‘R’ - CUSTOMER PROVIDED REAL TIME (NON-REVENUE) PRODUCTION METER
+—<«—»—~ POWER FLOW
+
+*Solar NET energy metering is not available for total system capacities of 1MW and above.
+FIGURE 10
+Note: This single line diagram has been simplified to illustrate the Department's interconnection requirements and does not
+
+necessarily represent all possible equipment arrangements. Contact the Los Angeles Department of Building and
+Safety (LADBS) or other Authority Having Jurisdiction (AHJ) for specific code requirements.
+
+
+=== PAGE 25 ===
+LADWP
+
+DESIGN GUIDE FOR CUSTOMER-OWNED PARALLEL GENERATING SYSTEMS
+
+ELECTRIC SERVICE REQUIREMENTS
+
+CITY OF LOS ANGELES DEPARTMENT OF WATER AND POWER PAGE 8-251
+
+Date: 05-01-24
+
+TYPICAL INTERCONNECTION ARRANGEMENT
+
+SOLAR NET ENERGY METERING WITH BATTERY ENERGY STORAGE SYSTEM (BESS) + BACKUP
+
+TRANSFORMER
+
+UTILITY METER PANEL
+OR SWITCHBOARD
+(NOTE 2}
+
+CUSTOME
+LOADS
+
+UTILITY
+
+AC-Coupled (830kW OR LESS)
+
+UTILITY
+GRID
+
+GENERATION SOLAR
+UTILITY PANELS
+DISCONNECT ( NET ARRAY )
+(NOTE 1} GRID INTERACTIVE
+INVERTER
+__-
+ar: | “a
+a0) IN
+' 1 —_|—
+I
+LOAD secTION Dc)
+
+aA
+
+GRID INTERACTIVE
+HYBRID INVERTER
+
+EMERGENCY
+PANEL
+(NOTE 12)
+
+i t
+=
+i) ) ) | BATTERY
+[ | STORAGE
+; NI IN| (NOTE 10)
+oo 77 -—= een |
+VY '
+1
+UTILITY ESSENTIAL ozo -| comm.
+DISCONNECT = CUSTOMER ac) ac) CPUF 1 CRT}
+(NOTE 1) LOADS
+Fu
+ACLOAD| ACGRID] CT/MTR: fe)
+DEMAND
+RESPONSE
+SIGNAL
+' (NOTE 11)
+1
+1
+1
+1
+1
+
+‘N‘ - NET METER
+——<—»—- POWER FLOW
+
+FIGURE 11
+
+Note: This single line diagram has been simplified to illustrate the Department's interconnection requirements and does not
+necessarily represent all possible equipment arrangements. Contact the Los Angeles Department of Building and
+Safety (LADBS) or other Authority Having Jurisdiction (AHJ) for specific code requirements.
+
+
+=== PAGE 26 ===
+; ELECTRIC SERVICE REQUIREMENTS
+PAGE 8-26i CITY OF LOS ANGELES DEPARTMENT OF WATER AND POWER LA DW P
+Date: 05-01-24 DESIGN GUIDE FOR CUSTOMER-OWNED PARALLEL GENERATING SYSTEMS
+
+TYPICAL INTERCONNECTION ARRANGEMENT
+SOLAR NET ENERGY METERING WITH BATTERY ENERGY STORAGE SYSTEM (BESS) + BACKUP
+AC-Coupled (GREATER THAN 30kW)
+
+UTILITY
+GRID
+UTILITY GRID
+PROTECTIVE SCHEME
+(NOTE 5} GENERATION
+UTILITY SOLAR
+UTILITY UTILITY METER PANEL DISCONNECT PANELS
+TRANSFORMER = ( SEALED SECTION } (NOTE 1) (NET ARRAY )
+{NOTE 3)
+GRID INTERACTIVE
+UTILITY METER ar INVERTER
+OR SWITCHBOARD fr
+(NOTE 2) | | |
+- - IN
+INE l, -|-
+®) Dc) |
+| I
+la | |
+| NS
+IF REQUIRED
+pot tttt (NOTE 6}
+I |
+CUSTOME! | |
+LOADS
+
+OPTIONAL CUSTOMER OWNED
+GENERATION MONITORING SYSTEM
+{ NOTE 4)
+
+GRID INTERACTIVE
+INVERTER
+
+EMERGENCY
+PANEL
+
+[2 | (NOTE 12)
+|
+
+IN/OUT
+
+BATTERY
+STORAGE
+(NOTE 10)
+
+UTILITY ESSENTIAL
+
+CUSTOMER
+DISCONNECT
+(NOTE 1) LOADS
+
+DEMAND
+RESPONSE
+SIGNAL
+(NOTE 11)
+
+~~ LOAD MONITORING CIRCUIT
+
+'N’ - NET METER
+
+*P’ - GENERATION PERFORMANCE METER
+
+‘R’ - CUSTOMER PROVIDED REAL TIME (NON-REVENUE) PRODUCTION METER
+——«-»— POWER FLOW
+
+*Solar NET energy metering is not available for total system capacities of 1MW and above.
+FIGURE 12
+Note: This single line diagram has been simplified to illustrate the Department's interconnection requirements and does not
+
+necessarily represent all possible equipment arrangements. Contact the Los Angeles Department of Building and
+Safety (LADBS) or other Authority Having Jurisdiction (AHJ) for specific code requirements.
+
+
+=== PAGE 27 ===
+LADWP ELECTRIC SERVICE REQUIREMENTS PAGE 8-27;
+
+CITY OF LOS ANGELES DEPARTMENT OF WATER AND POWER
+
+DESIGN GUIDE FOR CUSTOMER-OWNED PARALLEL GENERATING SYSTEMS Date: 05-01-24
+
+TYPICAL INTERCONNECTION ARRANGEMENT
+MICROGRID - SOLAR NET ENERGY METERING WITH BATTERY ENERGY STORAGE SYSTEM (BESS)
+AC-Coupled with ISOLATION RELAY (30kW OR LESS)
+
+UTILITY
+
+GRID GENERATION SOLAR
+UTILITY PANELS
+DISCONNECT ( NET ARRAY )
+{NOTE 1) GRID INTERACTIVE
+INVERTER
+UTILITY |
+TRANSFORMER
+CY IN| _
+UTILITY METER PANEL
+OR SWITCHBOARD _--
+(NOTE 2) LINE
+1
+|
+fo)
+LOAD
+MONITORING oN
+CIRCUIT MAIN CB !
+_o--- NL Lee eee IG}
+
+COMBINER
+PANEL
+o™N
+
+t
+
+i
+
+i
+
+i
+
+i
+
+t
+
+t
+
+i
+
+i
+
+i
+
+i —=
+
+t
+
+'
+
+i
+
+1 {= H oN [i
+
+1 I
+
+1 ISOLATION mo
+
+1 RELAY
+
+' (NOTE 13) UTILITY -- BATTERY ENERGY
+
+DISCONNECT STORAGE SYSTEM
+
+1 AC GRID ( NOTE 1) (NOTE 10, 13)
+
+' | _
+
+t
+
+wore EMERGENCY DC)
+
+r’ PANEL | | i
+
+i | |
+
+! -|- -- 1
+
+van L_ J | = iaiale
+
+' — 1
+
+t 1
+
+i 1 | ESSENTIAL AC) CPUr TT GKT.
+
+} \ H AC GRID ‘e)
+
+' DEMAND
+
+RESPONSE
+
+1 SIGNAL
+
+! t 7 (NOTE 11}
+i)
+
+' ;
+
+‘N‘ - NET METER
+‘MD’ - SYSTEM METERING DEVICE
+—«—»— POWER FLOW
+
+FIGURE 13
+
+Note: This single line diagram has been simplified to illustrate the Department's interconnection requirements and does not
+necessarily represent all possible equipment arrangements. Contact the Los Angeles Department of Building and
+Safety (LADBS) or other Authority Having Jurisdiction (AHJ) for specific code requirements.
+
+
+=== PAGE 28 ===
+; ELECTRIC SERVICE REQUIREMENTS
+PAGE 8-28i CITY OF LOS ANGELES DEPARTMENT OF WATER AND POWER LA DW P
+Date: 05-01-24 DESIGN GUIDE FOR CUSTOMER-OWNED PARALLEL GENERATING SYSTEMS
+
+TYPICAL INTERCONNECTION ARRANGEMENT
+MICROGRID - SOLAR NET ENERGY METERING WITH BATTERY ENERGY STORAGE SYSTEM (BESS)
+AC-Coupled with ISOLATION RELAY (GREATER THAN 30kW)
+
+UTILITY
+GRID GENERATION
+UTILITY GRID UTILITY SOLAR
+PROTECTIVE SCHEME UTILITY METER PANEL DISCONNECT PANELS
+(NOTE 5) ( SEALED SECTION } (NOTE 1) ( NET ARRAY )
+{ NOTE 3)
+TRANSFORMER |
+
+(NOTE 2)
+
+LOAD
+MONITORING
+CIRCUIT
+!
+----- --+
+
+CUSTOME
+LOADS
+
+) Le
+
+oN
+i OPTIONAL CUSTOMER OWNED
+oN | GENERATION MONITORING SYSTEM ( NOTE 4)
+oN COMBINER
+PANEL
+f :
+
+BATTERY ENERGY
+
+-- STORAGE SYSTEM
+
+UTILITY
+DISCONNECT ( NOTE 10, 13)
+(NOTE 1) _
+
+ISOLATION
+RELAY
+(NOTE 13)
+
+n-- 9 ! EMERGENCY
+jin \ | PANEL
+“
+c -
+{ i oN
+[A
+
+(
+
+(
+
+\
+
+{ | | ESSENTIAL oe
+
+; | ~ | CUSTOMER .
+
+{ — LOADS __ (nn
+{ E H AC GRID }
+
+\ oN i DEMAND
+! l RESPONSE
+1 SIGNAL
+
+\ 1 (NOTE 11)
+\
+
+‘N’ - NET METER
+‘P’ - GENERATION PERFORMANCE METER
+‘MID’ - MICROGRID INTERFACE DEVICE
+‘RY - CUSTOMER PROVIDED REAL TIME (NON-REVENUE) PRODUCTION METER
+——t-2— POWER FLOW
+
+*Solar NET energy metering is not available for total system capacities of 1MW and above.
+FIGURE 14
+Note: This single line diagram has been simplified to illustrate the Department's interconnection requirements and does not
+
+necessarily represent all possible equipment arrangements. Contact the Los Angeles Department of Building and
+Safety (LADBS) or other Authority Having Jurisdiction (AHJ) for specific code requirements.
+
+
+=== PAGE 29 ===
+LADWP ELECTRIC SERVICE REQUIREMENTS PAGE 8-291
+
+CITY OF LOS ANGELES DEPARTMENT OF WATER AND POWER
+
+DESIGN GUIDE FOR CUSTOMER-OWNED PARALLEL GENERATING SYSTEMS Date: 05-01-24
+
+TYPICAL INTERCONNECTION ARRANGEMENT
+BATTERY ENERGY STORAGE SYSTEM (BESS) + BACKUP
+
+UTILITY
+GRID
+UTILITY GRID
+PROTECTIVE SCHEME
+(NOTE 5)
+UTILITY
+TRANSFORMER
+aaa an
+
+UTILITY METER PANEL
+OR SWITCHBOARD —_--
+(NOTE 2) LINE (M)
+!
+
+CUSTOMER, L
+LOADS mo T
+( oN |
+GRID INTERACTIVE
+EMERGENCY HYBRID INVERTER
+
+BATTERY
+STORAGE
+(NOTE 10)
+
+UTILITY ESSENTIAL
+
+DISCONNECT CUSTOMER
+(NOTE 1) LOADS
+
+DEMAND
+RESPONSE
+SIGNAL
+(NOTE 11)
+
+‘M’ - REVENUE METER
+——«<—»— POWER FLOW
+
+FIGURE 15
+Note: This single line diagram has been simplified to illustrate the Department's interconnection requirements and does not
+
+necessarily represent all possible equipment arrangements. Contact the Los Angeles Department of Building and
+Safety (LADBS) or other Authority Having Jurisdiction (AHJ) for specific code requirements.
+
+
+=== PAGE 30 ===
+ELECTRIC SERVICE REQUIREMENTS
+
+PAGE 8-30i
+
+Date: 05-01-24
+
+CITY OF LOS ANGELES DEPARTMENT OF WATER AND POWER
+
+LADWP
+
+DESIGN GUIDE FOR CUSTOMER-OWNED PARALLEL GENERATING SYSTEMS
+
+TYPICAL INTERCONNECTION ARRANGEMENT
+MICROGRID - BATTERY ENERGY STORAGE SYSTEM (BESS)
+with ISOLATION RELAY
+
+UTILITY
+GRID UTILITY GRID
+PROTECTIVE SCHEME
+(NOTE 5)
+UTILITY,
+
+TRANSFORMER
+
+UTILITY METER PANEL
+OR SWITCHBOARD
+(NOTE 2)
+
+LOAD
+MONITORING
+CIRCUIT
+
+CUSTOME
+LOADS
+
+ISOLATION
+RELAY
+(NOTE 13)
+
+EMERGENCY
+PANEL
+
+=
+
+ESSENTIAL
+CUSTOMER
+LOADS
+
+UTILITY
+DISCONNECT
+(NOTE 1) BATTERY ENERGY
+STORAGE SYSTEM
+
+(NOTE 10, 13}
+
+ac) CPUS _ | COMM.
+
+-4-
+
+AC GRID
+DEMAND
+RESPONSE
+SIGNAL
+(NOTE 11)
+
+‘M’ - REVENUE METER
+"MD’ - SYSTEM METERING DEVICE
+«> POWER FLOW
+
+FIGURE 16
+
+Note: This single line diagram has been simplified to illustrate the Department's interconnection requirements and does not
+necessarily represent all possible equipment arrangements. Contact the Los Angeles Department of Building and
+Safety (LADBS) or other Authority Having Jurisdiction (AHJ) for specific code requirements.
+
+
+=== PAGE 31 ===
+LADWP ELECTRIC SERVICE REQUIREMENTS PAGE 8-311
+
+CITY OF LOS ANGELES DEPARTMENT OF WATER AND POWER
+
+DESIGN GUIDE FOR CUSTOMER-OWNED PARALLEL GENERATING SYSTEMS Date: 05-01-24
+
+TYPICAL INTERCONNECTION ARRANGEMENT
+SOLAR NET ENERGY METERING WITH BATTERY ENERGY STORAGE SYSTEM (BESS) + BACKUP
+AC-Back Coupled with load panel (30kW OR LESS)
+
+UTILITY
+GRID
+
+GENERATION
+UTILITY
+DISCONNECT
+(NOTE 1)
+UTILITY
+TRANSFORMER |
+
+GRID INTERACTIVE
+HYBRID INVERTER
+UTILITY METER rw | + BATTERY STORAGE
+OR SWITCHBOARD —-- {NOTE 10)
+(NOTE 2) €® |
+LO
+
+|
+I fi |
+L 7 7 : 4
+q I
+not COMM
+oN | eyed Lh
+AC) ac) crur cKT. |
+CUSTOMER
+LOADS rN a ee TUL
+on ACGRID| ACLOAD CT/MTRi eo)
+1 DEMAND
+a ; RESPONSE
+\ SIGNAL
+~ _ (NOTE 11)
+
+ve
+ESSENTIAL
+
+MANUAL
+TRANSFER SWITCH CUSTOMER
+( NOTE 8, 12} LOADS
+
+PANELS
+(NET ARRAY )
+
+‘N’ - NET METER
+———«—2»— POWER FLOW
+
+FIGURE 17
+
+Note: This single line diagram has been simplified to illustrate the Department's interconnection requirements and does not
+necessarily represent all possible equipment arrangements. Contact the Los Angeles Department of Building and
+Safety (LADBS) or other Authority Having Jurisdiction (AHJ) for specific code requirements.
+
+
+=== PAGE 32 ===
+; ELECTRIC SERVICE REQUIREMENTS
+PAGE 8-32i CITY OF LOS ANGELES DEPARTMENT OF WATER AND POWER LA DW P
+Date: 05-01-24 DESIGN GUIDE FOR CUSTOMER-OWNED PARALLEL GENERATING SYSTEMS
+
+TYPICAL INTERCONNECTION ARRANGEMENT
+SOLAR NET ENERGY METERING WITH BATTERY ENERGY STORAGE SYSTEM (BESS) + BACKUP
+AC-Back Coupled with load panel (GREATER THAN 30kW)
+
+UTILITY
+GRID UTILITY GRID
+PROTECTIVE SCHEME oN
+(NOTE 5) DISCONNECT
+(NOTE 1)
+UTILITY —~
+TRANSFORMER
+GRID INTERACTIVE
+HYBRID INVERTER
+UTILITY METER oN, + BATTERY STORAGE
+OR SWITCHBOARD eI (NOTE 10)
+(NOTE 2)
+DEMAND
+RESPONSE
+SIGNAL
+} {NOTE 11)
+paanaaa=- Onn
+COMM. |
+CKT.
+CUSTOME
+LOADS
+
+GENERATION
+
+UTILITY
+DISCONNECT
+
+(NOTE 1)
+
+MANUAL “|
+
+SY YN
+ESSENTIAL
+
+TRANSFER SWITCH CUSTOMER
+(NOTE 8, 12) LOADS
+Xx LOAD MONITORING CIRCUIT UTILITY METER PANEL
+( SEALED SECTION }
+(NOTE 3) IF REQUIRED
+
+(NOTE 6) SOLAR
+
+PANELS
+
+‘N’ - NET METER (NET ARRAY )
+
+‘P’ - GENERATION PERFORMANCE METER
+‘R’ - CUSTOMER PROVIDED REAL TIME (NON-REVENUE) PRODUCTION METER
+——<«-»— POWER FLOW
+
+*Solar NET energy metering is not available for total system capacities of 1MW and above.
+
+FIGURE 18
+
+Note: This single line diagram has been simplified to illustrate the Department's interconnection requirements and does not
+necessarily represent all possible equipment arrangements. Contact the Los Angeles Department of Building and
+Safety (LADBS) or other Authority Having Jurisdiction (AHJ) for specific code requirements.
+
+
+=== PAGE 33 ===
+LADWP ELECTRIC SERVICE REQUIREMENTS PAGE 8-331
+CITY OF LOS ANGELES DEPARTMENT OF WATER AND POWER
+DESIGN GUIDE FOR CUSTOMER-OWNED PARALLEL GENERATING SYSTEMS Date: 05-01-24
+
+TYPICAL INTERCONNECTION ARRANGEMENT
+SOLAR NET ENERGY METERING WITH BATTERY ENERGY STORAGE SYSTEM (BESS) + BACKUP
+Alternate Design - AC-Back Coupled with load panel (30kW OR LESS)
+
+UTILITY
+GRID
+
+UTILITY
+TRANSFORMER
+
+UTILITY METER PANEL
+OR SWITCHBOARD
+( NOTE 2)
+
+CUSTOMER
+LOADS
+
+l
+MANUAL 4
+
+GENERATION
+UTILITY
+DISCONNECT
+(NOTE 1)
+
+GRID INTERACTIVE
+HYBRID INVERTER
++ BATTERY STORAGE
+
+(NOTE 10)
+DEMAND
+
+RESPONSE
+
+! SIGNAL
+(NOTE 11)
+
+GENERATION
+UTILITY
+DISCONNECT
+( NOTE 1)
+
+| ESSENTIAL
+TRANSFER SWITCH L_ _|_ CUSTOMER
+i T
+i}
+~ eee ee ee ee ee ee ee ee ee ee ee ee ee J
+~~ LOAD MONITORING CIRCUIT
+‘N’ - NET METER
+
+~<a POWER FLOW
+
+FIGURE 19
+
+(NET ARRAY )
+
+Note: This single line diagram has been simplified to illustrate the Department's interconnection requirements and does not
+necessarily represent all possible equipment arrangements. Contact the Los Angeles Department of Building and
+Safety (LADBS) or other Authority Having Jurisdiction (AHJ) for specific code requirements.
+
+
+=== PAGE 34 ===
+; ELECTRIC SERVICE REQUIREMENTS
+PAGE 8-34i CITY OF LOS ANGELES DEPARTMENT OF WATER AND POWER LA DW P
+Date: 05-01-24 DESIGN GUIDE FOR CUSTOMER-OWNED PARALLEL GENERATING SYSTEMS
+
+TYPICAL INTERCONNECTION ARRANGEMENT
+SOLAR NET ENERGY METERING WITH BATTERY ENERGY STORAGE SYSTEM (BESS) + BACKUP
+Alternate Design - AC-Back Coupled with load panel (GREATER THAN 30kW)
+
+UTILITY
+GRID
+
+UTILITY GRID
+PROTECTIVE SCHEME aah
+(NOTE 5) DISCONNECT
+(NOTE 1)
+UTILITY
+TRANSFORMER
+
+GRID INTERACTIVE
+HYBRID INVERTER
++ BATTERY STORAGE
+(NOTE 10)
+
+DEMAND
+RESPONSE
+SIGNAL
+(NOTE 11)
+
+Ona
+
+(
+COMM. |
+CKT.
+CUSTOME
+LOADS
+
+F
+
+GENERATION
+UTILITY
+DISCONNECT
+(NOTE 1)
+
+IF REQUIRED —|-
+{ NOTE 6)
+
+SQN
+MANUAL [ ESSENTIAL
+TRANSFER SWITCH = CUSTOMER
+
+(NOTE 8, 12)
+
+UTILITY METER PANEL
+( SEALED SECTION )
+(NOTE 3) SOLAR
+PANELS
+N’ - NET METER (NET ARRAY )
+
+‘P’ - GENERATION PERFORMANCE METER
+‘R’ - CUSTOMER PROVIDED REAL TIME (NON-REVENUE) PRODUCTION METER
+~—a—»—- POWER FLOW
+
+*Solar NET energy metering is not available for total system capacities of 1MW and above.
+
+FIGURE 20
+
+Note: This single line diagram has been simplified to illustrate the Department's interconnection requirements and does not
+necessarily represent all possible equipment arrangements. Contact the Los Angeles Department of Building and
+Safety (LADBS) or other Authority Having Jurisdiction (AHJ) for specific code requirements.
+
+
+=== PAGE 35 ===
+LADWP ELECTRIC SERVICE REQUIREMENTS PAGE 8-35)
+
+CITY OF LOS ANGELES DEPARTMENT OF WATER AND POWER
+
+DESIGN GUIDE FOR CUSTOMER-OWNED PARALLEL GENERATING SYSTEMS Date: 05-01-24
+
+TYPICAL INTERCONNECTION ARRANGEMENT
+ENERGY STORAGE INTERCHANGE METERING (DER Locational Capacity Services Only)
+( UTILITY-OWNED TRANSFORMER )
+
+UTILITY
+GRID
+UTILITY GRID
+PROTECTIVE SCHEME
+(NOTE 5)
+GENERATION
+TY UTILITY
+TRANSFORMER DISCONNECT
+(NOTE 1) GRID INTERACTIVE
+UTILITY METER PANEL INVERTER
+OR SWITCHBOARD —
+( SEE NOTE 2) €O |
+] ( a
+SEALED —
+LOAD SECTION —
+ENERGY
+STORAGE
+( NOTE 10)
+STATION
+SERVICE
+LOADS
+( NOTE 7)
+
+LR IF REQUIRED
+
+( NOTE 6)
+
+‘I’ - GENERATION INTERCHANGE METER
+"R’ - CUSTOMER PROVIDED REAL TIME (NON-REVENUE) PRODUCTION METER
+—<«—»— POWER FLOW
+
+FIGURE 21
+
+Note: This single line diagram has been simplified to illustrate the Department's interconnection requirements and does not
+necessarily represent all possible equipment arrangements. Contact the Los Angeles Department of Building and
+Safety (LADBS) or other Authority Having Jurisdiction (AHJ) for specific code requirements.
+
+
+=== PAGE 36 ===
+; ELECTRIC SERVICE REQUIREMENTS
+PAGE 8-36i CITY OF LOS ANGELES DEPARTMENT OF WATER AND POWER LA DW P
+Date: 05-01-24 DESIGN GUIDE FOR CUSTOMER-OWNED PARALLEL GENERATING SYSTEMS
+
+TYPICAL INTERCONNECTION ARRANGEMENT
+ENERGY STORAGE INTERCHANGE METERING (DER Locational Capacity Services Only)
+( CUSTOMER-OWNED TRANSFORMER )
+
+UTILITY
+
+GRID
+UTILITY GRID
+
+PROTECTIVE SCHEME
+
+(NOTE 5)
+
+UTILITY METERED oN
+
+HIGH VOLTAGE DISCONNECT
+
+SWITCHBOARD (NOTE 1)
+
+( NOTE 2) GRID INTERACTIVE
+INVERTER
+| LINE |
+IN
+
+SEALED
+SECTION
+
+LOAD
+
+DC | —_
+ENERGY
+
+| STORAGE
+CUSTOMER-OWNED (NOTE 10)
+TRANSFORMER
+STATION
+SERVICE |
+LOADS |
+(NOTE 7) |
+NOTE 6
+‘V - GENERATION INTERCHANGE METER
+‘R’ - CUSTOMER PROVIDED REAL TIME (NON-REVENUE) PRODUCTION METER
+—~——<«—— POWER FLOW
+
+FIGURE 22
+
+Note: This single line diagram has been simplified to illustrate the Department's interconnection requirements and does not
+necessarily represent all possible equipment arrangements. Contact the Los Angeles Department of Building and
+Safety (LADBS) or other Authority Having Jurisdiction (AHJ) for specific code requirements.
+
+
+=== PAGE 37 ===
+LADWP ELECTRIC SERVICE REQUIREMENTS PAGE 8-37;
+
+CITY OF LOS ANGELES DEPARTMENT OF WATER AND POWER
+
+DESIGN GUIDE FOR CUSTOMER-OWNED PARALLEL GENERATING SYSTEMS Date: 05-01-24
+
+TYPICAL INTERCONNECTION ARRANGEMENT
+INVERTER BASED MICRO-TURBINE AND FUEL CELL GENERATION METERING
+
+MORID UTILITY METER PANEL
+UTILITY GRID ( SEALED SECTION )
+PROTECTIVE SCHEME (NOTE 3)
+(NOTE 5)
+UTILITY GENERATION
+UTILITY
+TRANSFORMER DISCONNECT
+(NOTE 1)
+UTILITY METER PANEL
+OR SWITCHBOARD INVERTER
+( SEE NOTE 2) GENERATOR
+OR FUEL CELL
+CUSTOMER
+LOADS
+
+ac)
+L___|___d
+OU
+
+=
+
+IF REQUIRED
+( NOTE 6)
+
+‘G’ - GENERATION METER
+
+‘P’ - GENERATION PERFORMANCE METER
+
+*R’ - CUSTOMER PROVIDED REAL TIME (NON-REVENUE) PRODUCTION METER
+——<—»— POWER FLOW
+
+FIGURE 23
+
+Note: This single line diagram has been simplified to illustrate the Department's interconnection requirements and does not
+necessarily represent all possible equipment arrangements. Contact the Los Angeles Department of Building and
+Safety (LADBS) or other Authority Having Jurisdiction (AHJ) for specific code requirements.
+
+
+=== PAGE 38 ===
+PAGE 8-38i
+
+Date: 05-01-24
+
+ELECTRIC SERVICE REQUIREMENTS
+CITY OF LOS ANGELES DEPARTMENT OF WATER AND POWER LA DW P
+
+DESIGN GUIDE FOR CUSTOMER-OWNED PARALLEL GENERATING SYSTEMS
+
+TYPICAL INTERCONNECTION ARRANGEMENT
+
+MICROGRID - SOLAR NET ENERGY METERING WITH BATTERY ENERGY STORAGE SYSTEM (BESS)
+
+Energy Hub with ISOLATION RELAY (GREATER THAN 30kW)
+
+vORIDY SOLAR
+UTILITY GRID UTILITY METER PANEL PANELS
+PROTECTIVE SCHEME { SEALED SECTION ) ( NET ARRAY )
+(NOTE 5) (NOTE 3) GRID INTERACTIVE
+
+UTILITY
+TRANSFORMER | |
+UTILITY METER PANEL
+
+OR SWITCHBOARD l
+
+(NOTE 2) Ll | I
+NS
+LOAD “\ | | |
+
+MONITORING Ac)
+CIRCUIT I |
+(OPTIONAL) | |
+ro---- | |
+
+DEMAND
+RESPONSE
+SIGNAL
+(NOTE 11}
+
+|
+|
+|
+|
+|
+|
+|
+| BATTERY ENERGY
+GENERATION STORAGE SYSTEM
+piecONNECT (Nove T.19)
+GRID SMART {NOTE 1) —_
+! sf ENERGY
+HUB
+UTILITY
+\ DISCONNECT
+r~ (NOTE 1)
+! 1 \ CUSTOMER
+1 ~~ LOADS
+|
+! _
+|
+oMM. ----- |
+|
+ESSENTIAL
+CUSTOMER
+
+*Solar
+
+CUSTOMER) | |
+LOADS
+
+IF REQUIRED
+(NOTE 6)
+
+LOADS
+
+"N‘ - NET METE
+‘MID’ - MICROGRID INTERCONNECTION DEVICE
+*R’ - CUSTOMER PROVIDED REAL TIME (NON-REVENUE) PRODUCTION METER
+——«-»— POWER FLOW
+
+NET energy metering is not available for total system capacities of 1MW and above.
+
+FIGURE 24
+
+Note: This single line diagram has been simplified to illustrate the Department's interconnection requirements and does not
+necessarily represent all possible equipment arrangements. Contact the Los Angeles Department of Building and
+Safety (LADBS) or other Authority Having Jurisdiction (AHJ) for specific code requirements.
+
+
+=== PAGE 39 ===
+LADWP ELECTRIC SERVICE REQUIREMENTS PAGE 8-39;
+
+CITY OF LOS ANGELES DEPARTMENT OF WATER AND POWER
+
+DESIGN GUIDE FOR CUSTOMER-OWNED PARALLEL GENERATING SYSTEMS Date: 05-01-24
+
+THIS PAGE LEFT
+INTENTIONALLY BLANK.
+
+
+=== PAGE 40 ===
+CITY OF LOS ANGELES DEPARTMENT OF WATER AND POWER
+
+PAGE 8-40i ELECTRIC SERVICE REQUIREMENTS LA DWP
+
+Date: 05-01-24 DESIGN GUIDE FOR CUSTOMER-OWNED PARALLEL GENERATING SYSTEMS
+
+NOTES:
+
+1.
+
+10.
+
+The customer shall furnish, install, and maintain all generation disconnect switches as required by the
+Department.
+
+a. An AC disconnect switch shall be located on the customer’s energy source side of the generation
+performance meter. Consult with the Department for mounting heights and clearances.
+
+b. A single fusible disconnect may be used in place of a separate circuit fuse and AC disconnect. The fusible
+disconnect shall meet the same visual air gap and locking requirements as the AC disconnect and shall not
+be used to isolate the customer's load panel. See UTILITY DISCONNECTING MEANS, page 8-6i for
+additional information.
+
+The customer’s generating system circuit shall be connected on the load side of the customer’s main service
+disconnecting means as shown in figures 1 to 5, and 7 to 24.
+
+Exception: Parallel generating systems may be connected on the line side of the customer's disconnecting
+means as permitted by City, State or National Electric Codes. See GENERATORS AND
+GENERATING SYSTEMS, page 8-10i for additional information.
+
+The customer shall provide a meter socket for the installation of a Department performance meter. A
+residential meter panel or a commercial safety-socket meter panel is required when the maximum output of the
+generating system does not exceed 200 amperes. When the system output exceeds 200 amperes, a current-
+transformer box or instrument-rated switchboard is required.
+
+Note: The performance meter is intended to measure the total output of the customer’s generating system.
+With the exception of monitoring equipment, no customer load is permitted on the generating system
+side of the performance meter. Under certain circumstances, and if required to measure total
+generation output, the Department may install additional performance meters at the customer’s
+expense. See METERING, page 8-4i for additional information.
+
+Optional customer installed performance monitoring equipment may be installed with restrictions, see
+METERING page 8-4i. Customers who wish to monitor their generations performance should consider
+consulting with their contractor for options when a Department supplied performance meter is not available.
+
+The type of utility grid protection scheme required is dependent upon the size, type, and configuration of the
+customer’s generation system, see PROTECTIVE SCHEMES page 8-7i.
+
+Customer provided real time production monitoring equipment may be required as specified by the Department,
+see PROTECTIVE SCHEMES page 8-7i.
+
+Currently, customer loads shall not be supplied from a feed in tariff (FIT) system. The customer must apply for
+a separate revenue meter and service from the Department.
+
+An automatic transfer switch (ATS), manual transfer switch, or double throw safety switch shall be installed
+between the customer’s backup system and the Department’s revenue meter, see BATTERY BACKUP
+SYSTEMS page 8-12i and EMERGENCY OR STAND-BY GENERATORS page 1-32.
+
+All systems that are designed to manage a customer’s peak energy demand shall be grid interactive, see
+INVERTERS page 8-11i. Shall not be used with Department Generation or NET energy metering, and shall not
+allow for the export of energy to the Department’s grid. All related devices shall be connected on the load side
+of the customer’s main circuit breaker, see BATTERY PEAK SHAVING SYSTEMS page 8-13i.
+
+Batteries shall not be located in the meter room. See pages 5-9 and 5-10 for more information. Contact the
+Los Angeles Department of Building and Safety (LADBS) or other Authority Having Jurisdiction (AHJ) for
+specific code requirements.
+
+
+=== PAGE 41 ===
+| ADWP ELECTRIC SERVICE REQUIREMENTS PAGE 8-441
+
+CITY OF LOS ANGELES DEPARTMENT OF WATER AND POWER
+
+DESIGN GUIDE FOR CUSTOMER-OWNED PARALLEL GENERATING SYSTEMS Date: 05-01-24
+
+NOTES (Cont.):
+11. Used for battery dispatch. No requirement at this time, standards are under development.
+
+12. A normally open, maintenance bypass mechanical interlock shall be installed on an emergency panel provided
+it is affixed to the panel in a permanent, tamper-resistant fashion and is listed by a Nationally Recognized
+Testing Laboratory (NRTL) as an interlock device.
+
+Note: A double throw safety switch or ATS may also be used.
+
+13. Battery energy storage system equipment that includes external isolation relays as part of an integral system
+shall be certified by a Nationally Recognized Testing Laboratory (NRTL) to comply with the UL 9540 standard.
+

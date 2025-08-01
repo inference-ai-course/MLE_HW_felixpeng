@@ -26,10 +26,26 @@ tzlocal==5.3.1
 urllib3==2.5.0
 
 #OCR dependencies
-
 pytesseract>=0.3.10
 pdf2image>=1.17.0
 Pillow>=9.0.0
 numpy>=1.21.0
 opencv-python>=4.5.0    
 # Tesseract and poppler are system dependencies, not Python packages, brew install tesseract-ocr and poppler
+
+#ASR Dependencies
+yt-dlp>=2023.12.30
+openai-whisper>=20231117
+moviepy>=1.0.3
+opencv-python>=4.8.0
+numpy>=1.21.0
+pytesseract>=0.3.10
+Pillow>=9.0.0
+ffmpeg-python>=0.2.0
+requests>=2.25.0
+# FFmpeg: brew install ffmpeg (macOS) 
+
+#Cleaning Dependencies
+datasketch>=1.6.0
+scipy>=1.0.0
+numpy>=1.21.0g

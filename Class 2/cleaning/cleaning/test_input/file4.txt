@@ -1,0 +1,7 @@
+
+    Underground Conduit Specifications
+    This specification covers the requirements for underground conduit systems.
+    All conduits must be properly sealed and protected from moisture.
+    Installation depth must meet local code requirements.
+    Material specifications are detailed in section 3.2.
+    
